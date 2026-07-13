@@ -1,0 +1,24 @@
+{
+  "id": "huiwenmincho-improved",
+  "family": "Huiwen-mincho",
+  "localized_family": "汇文明朝体",
+  "full_name": "Huiwen-mincho",
+  "style": "normal",
+  "weight": 400,
+  "source_repository": "https://github.com/bosswnx/huiwenmincho-improved",
+  "source_commit": "7c05c47e556b380d065af404a498b3486c03da30",
+  "source_font_blob": "03b266ac0bb3641acb36c3d843269405ab60296b",
+  "source_license_blob": "0e259d42c996742e9e3cba14c677129b2c1b6311",
+  "license": "CC0-1.0",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "source_file": "HuiwenMincho-Improved.ttf",
+  "web_file": "HuiwenMincho-Improved-Regular.woff2",
+  "unicode_codepoints": 14102,
+  "coverage_samples": {
+    "chinese": true,
+    "latin": true,
+    "numbers": true,
+    "punctuation": true
+  }
+}
