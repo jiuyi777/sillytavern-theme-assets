@@ -1,0 +1,23 @@
+{
+  "id": "dotgothic16",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "DotGothic16",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "DotGothic16-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/dotgothic16",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/dotgothic16/dotgothic16.woff2",
+  "woff2_bytes": 500340,
+  "preview_path": "previews/dotgothic16.png",
+  "coverage": {
+    "unicode_codepoints": 8231,
+    "cjk_unified_ideographs": 6714,
+    "latin_basic_extended": 202,
+    "has_ascii": true
+  }
+}

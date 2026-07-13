@@ -1,0 +1,23 @@
+{
+  "id": "lxgwmarkergothic",
+  "category": "zh-cn",
+  "category_label": "简体中文与中文展示",
+  "family": "LXGW Marker Gothic",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "LXGWMarkerGothic-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/lxgwmarkergothic",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/lxgwmarkergothic/lxgwmarkergothic.woff2",
+  "woff2_bytes": 1249468,
+  "preview_path": "previews/lxgwmarkergothic.png",
+  "coverage": {
+    "unicode_codepoints": 15285,
+    "cjk_unified_ideographs": 12771,
+    "latin_basic_extended": 476,
+    "has_ascii": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kleeone",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "Klee One",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "KleeOne-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/kleeone",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/kleeone/kleeone.woff2",
+  "woff2_bytes": 2864632,
+  "preview_path": "previews/kleeone.png",
+  "coverage": {
+    "unicode_codepoints": 10178,
+    "cjk_unified_ideographs": 7917,
+    "latin_basic_extended": 231,
+    "has_ascii": true
+  }
+}

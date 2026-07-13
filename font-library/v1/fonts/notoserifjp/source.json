@@ -1,0 +1,23 @@
+{
+  "id": "notoserifjp",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "Noto Serif JP",
+  "subfamily": "Regular",
+  "weight": "200-900",
+  "css_weight": "200 900",
+  "style": "normal",
+  "source_file": "NotoSerifJP[wght].ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/notoserifjp",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/notoserifjp/notoserifjp.woff2",
+  "woff2_bytes": 5965452,
+  "preview_path": "previews/notoserifjp.png",
+  "coverage": {
+    "unicode_codepoints": 16726,
+    "cjk_unified_ideographs": 12744,
+    "latin_basic_extended": 244,
+    "has_ascii": true
+  }
+}

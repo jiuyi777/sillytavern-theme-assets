@@ -1,0 +1,23 @@
+{
+  "id": "kaiseidecol",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "Kaisei Decol",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "KaiseiDecol-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/kaiseidecol",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/kaiseidecol/kaiseidecol.woff2",
+  "woff2_bytes": 2111572,
+  "preview_path": "previews/kaiseidecol.png",
+  "coverage": {
+    "unicode_codepoints": 7930,
+    "cjk_unified_ideographs": 6713,
+    "latin_basic_extended": 202,
+    "has_ascii": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "zenoldmincho",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "Zen Old Mincho",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ZenOldMincho-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/zenoldmincho",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/zenoldmincho/zenoldmincho.woff2",
+  "woff2_bytes": 2007296,
+  "preview_path": "previews/zenoldmincho.png",
+  "coverage": {
+    "unicode_codepoints": 7815,
+    "cjk_unified_ideographs": 6682,
+    "latin_basic_extended": 199,
+    "has_ascii": true
+  }
+}

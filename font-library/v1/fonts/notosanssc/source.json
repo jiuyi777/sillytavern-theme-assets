@@ -1,0 +1,23 @@
+{
+  "id": "notosanssc",
+  "category": "zh-cn",
+  "category_label": "简体中文与中文展示",
+  "family": "Noto Sans SC",
+  "subfamily": "Regular",
+  "weight": "100-900",
+  "css_weight": "100 900",
+  "style": "normal",
+  "source_file": "NotoSansSC[wght].ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/notosanssc/notosanssc.woff2",
+  "woff2_bytes": 7782072,
+  "preview_path": "previews/notosanssc.png",
+  "coverage": {
+    "unicode_codepoints": 30890,
+    "cjk_unified_ideographs": 20976,
+    "latin_basic_extended": 244,
+    "has_ascii": true
+  }
+}

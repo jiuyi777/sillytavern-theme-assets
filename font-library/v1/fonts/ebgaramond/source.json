@@ -1,0 +1,23 @@
+{
+  "id": "ebgaramond",
+  "category": "latin",
+  "category_label": "通用西文",
+  "family": "EB Garamond",
+  "subfamily": "Regular",
+  "weight": "400-800",
+  "css_weight": "400 800",
+  "style": "normal",
+  "source_file": "EBGaramond[wght].ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/ebgaramond",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/ebgaramond/ebgaramond.woff2",
+  "woff2_bytes": 296792,
+  "preview_path": "previews/ebgaramond.png",
+  "coverage": {
+    "unicode_codepoints": 2091,
+    "cjk_unified_ideographs": 0,
+    "latin_basic_extended": 527,
+    "has_ascii": true
+  }
+}

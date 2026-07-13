@@ -1,0 +1,274 @@
+/* Curated open font library for SillyTavern themes.
+ * Source fonts: https://github.com/google/fonts
+ * License: each family directory contains its own OFL.txt.
+ */
+
+/* 简体中文与中文展示 | Noto Sans SC | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Sans SC';
+  src: url('./fonts/notosanssc/notosanssc.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Noto Serif SC | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Serif SC';
+  src: url('./fonts/notoserifsc/notoserifsc.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | LXGW Marker Gothic | OFL-1.1 */
+@font-face {
+  font-family: 'LXGW Marker Gothic';
+  src: url('./fonts/lxgwmarkergothic/lxgwmarkergothic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Ma Shan Zheng | OFL-1.1 */
+@font-face {
+  font-family: 'Ma Shan Zheng';
+  src: url('./fonts/mashanzheng/mashanzheng.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | 站酷小薇体 | OFL-1.1 */
+@font-face {
+  font-family: '站酷小薇体';
+  src: url('./fonts/zcoolxiaowei/zcoolxiaowei.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | ZCOOL QingKe HuangYou | OFL-1.1 */
+@font-face {
+  font-family: 'ZCOOL QingKe HuangYou';
+  src: url('./fonts/zcoolqingkehuangyou/zcoolqingkehuangyou.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | ZCOOL KuaiLe | OFL-1.1 */
+@font-face {
+  font-family: 'ZCOOL KuaiLe';
+  src: url('./fonts/zcoolkuaile/zcoolkuaile.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Long Cang | OFL-1.1 */
+@font-face {
+  font-family: 'Long Cang';
+  src: url('./fonts/longcang/longcang.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Liu Jian Mao Cao | OFL-1.1 */
+@font-face {
+  font-family: 'Liu Jian Mao Cao';
+  src: url('./fonts/liujianmaocao/liujianmaocao.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Zhi Mang Xing | OFL-1.1 */
+@font-face {
+  font-family: 'Zhi Mang Xing';
+  src: url('./fonts/zhimangxing/zhimangxing.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Noto Sans JP | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Sans JP';
+  src: url('./fonts/notosansjp/notosansjp.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Noto Serif JP | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Serif JP';
+  src: url('./fonts/notoserifjp/notoserifjp.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Zen Maru Gothic | OFL-1.1 */
+@font-face {
+  font-family: 'Zen Maru Gothic';
+  src: url('./fonts/zenmarugothic/zenmarugothic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Zen Kaku Gothic New | OFL-1.1 */
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  src: url('./fonts/zenkakugothicnew/zenkakugothicnew.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Zen Old Mincho | OFL-1.1 */
+@font-face {
+  font-family: 'Zen Old Mincho';
+  src: url('./fonts/zenoldmincho/zenoldmincho.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Kaisei Decol | OFL-1.1 */
+@font-face {
+  font-family: 'Kaisei Decol';
+  src: url('./fonts/kaiseidecol/kaiseidecol.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Shippori Mincho | OFL-1.1 */
+@font-face {
+  font-family: 'Shippori Mincho';
+  src: url('./fonts/shipporimincho/shipporimincho.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Klee One | OFL-1.1 */
+@font-face {
+  font-family: 'Klee One';
+  src: url('./fonts/kleeone/kleeone.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | DotGothic16 | OFL-1.1 */
+@font-face {
+  font-family: 'DotGothic16';
+  src: url('./fonts/dotgothic16/dotgothic16.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Dela Gothic One | OFL-1.1 */
+@font-face {
+  font-family: 'Dela Gothic One';
+  src: url('./fonts/delagothicone/delagothicone.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Cormorant Garamond | OFL-1.1 */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('./fonts/cormorantgaramond/cormorantgaramond.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | EB Garamond | OFL-1.1 */
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('./fonts/ebgaramond/ebgaramond.woff2') format('woff2');
+  font-weight: 400 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Playfair Display | OFL-1.1 */
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('./fonts/playfairdisplay/playfairdisplay.woff2') format('woff2');
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Cinzel | OFL-1.1 */
+@font-face {
+  font-family: 'Cinzel';
+  src: url('./fonts/cinzel/cinzel.woff2') format('woff2');
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Libre Baskerville | OFL-1.1 */
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url('./fonts/librebaskerville/librebaskerville.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Lora | OFL-1.1 */
+@font-face {
+  font-family: 'Lora';
+  src: url('./fonts/lora/lora.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Montserrat | OFL-1.1 */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./fonts/montserrat/montserrat.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Nunito | OFL-1.1 */
+@font-face {
+  font-family: 'Nunito';
+  src: url('./fonts/nunito/nunito.woff2') format('woff2');
+  font-weight: 200 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Unbounded | OFL-1.1 */
+@font-face {
+  font-family: 'Unbounded';
+  src: url('./fonts/unbounded/unbounded.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Courier Prime | OFL-1.1 */
+@font-face {
+  font-family: 'Courier Prime';
+  src: url('./fonts/courierprime/courierprime.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,23 @@
+{
+  "id": "shipporimincho",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "Shippori Mincho",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ShipporiMincho-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/shipporimincho",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/shipporimincho/shipporimincho.woff2",
+  "woff2_bytes": 3164292,
+  "preview_path": "previews/shipporimincho.png",
+  "coverage": {
+    "unicode_codepoints": 15363,
+    "cjk_unified_ideographs": 13591,
+    "latin_basic_extended": 194,
+    "has_ascii": true
+  }
+}

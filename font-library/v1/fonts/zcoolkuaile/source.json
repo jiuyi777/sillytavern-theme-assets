@@ -1,0 +1,23 @@
+{
+  "id": "zcoolkuaile",
+  "category": "zh-cn",
+  "category_label": "简体中文与中文展示",
+  "family": "ZCOOL KuaiLe",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ZCOOLKuaiLe-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/zcoolkuaile",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/zcoolkuaile/zcoolkuaile.woff2",
+  "woff2_bytes": 871928,
+  "preview_path": "previews/zcoolkuaile.png",
+  "coverage": {
+    "unicode_codepoints": 7053,
+    "cjk_unified_ideographs": 6766,
+    "latin_basic_extended": 111,
+    "has_ascii": true
+  }
+}

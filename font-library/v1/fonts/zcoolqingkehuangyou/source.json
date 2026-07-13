@@ -1,0 +1,23 @@
+{
+  "id": "zcoolqingkehuangyou",
+  "category": "zh-cn",
+  "category_label": "简体中文与中文展示",
+  "family": "ZCOOL QingKe HuangYou",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ZCOOLQingKeHuangYou-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/zcoolqingkehuangyou",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/zcoolqingkehuangyou/zcoolqingkehuangyou.woff2",
+  "woff2_bytes": 2469608,
+  "preview_path": "previews/zcoolqingkehuangyou.png",
+  "coverage": {
+    "unicode_codepoints": 9429,
+    "cjk_unified_ideographs": 9176,
+    "latin_basic_extended": 109,
+    "has_ascii": true
+  }
+}

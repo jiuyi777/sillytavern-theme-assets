@@ -1,0 +1,23 @@
+{
+  "id": "cinzel",
+  "category": "latin",
+  "category_label": "通用西文",
+  "family": "Cinzel",
+  "subfamily": "Regular",
+  "weight": "400-900",
+  "css_weight": "400 900",
+  "style": "normal",
+  "source_file": "Cinzel[wght].ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/cinzel",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/cinzel/cinzel.woff2",
+  "woff2_bytes": 47852,
+  "preview_path": "previews/cinzel.png",
+  "coverage": {
+    "unicode_codepoints": 367,
+    "cjk_unified_ideographs": 0,
+    "latin_basic_extended": 299,
+    "has_ascii": true
+  }
+}

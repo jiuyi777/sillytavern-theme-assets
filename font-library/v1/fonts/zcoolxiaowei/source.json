@@ -1,0 +1,23 @@
+{
+  "id": "zcoolxiaowei",
+  "category": "zh-cn",
+  "category_label": "简体中文与中文展示",
+  "family": "站酷小薇体",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ZCOOLXiaoWei-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/zcoolxiaowei",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/zcoolxiaowei/zcoolxiaowei.woff2",
+  "woff2_bytes": 2633072,
+  "preview_path": "previews/zcoolxiaowei.png",
+  "coverage": {
+    "unicode_codepoints": 7016,
+    "cjk_unified_ideographs": 6763,
+    "latin_basic_extended": 109,
+    "has_ascii": true
+  }
+}

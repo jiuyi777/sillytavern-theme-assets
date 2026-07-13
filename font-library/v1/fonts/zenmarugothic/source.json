@@ -1,0 +1,23 @@
+{
+  "id": "zenmarugothic",
+  "category": "ja",
+  "category_label": "日系与东亚风格",
+  "family": "Zen Maru Gothic",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ZenMaruGothic-Regular.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/zenmarugothic",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/zenmarugothic/zenmarugothic.woff2",
+  "woff2_bytes": 1558372,
+  "preview_path": "previews/zenmarugothic.png",
+  "coverage": {
+    "unicode_codepoints": 7812,
+    "cjk_unified_ideographs": 6682,
+    "latin_basic_extended": 199,
+    "has_ascii": true
+  }
+}

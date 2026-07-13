@@ -1,0 +1,23 @@
+{
+  "id": "playfairdisplay",
+  "category": "latin",
+  "category_label": "通用西文",
+  "family": "Playfair Display",
+  "subfamily": "Regular",
+  "weight": "400-900",
+  "css_weight": "400 900",
+  "style": "normal",
+  "source_file": "PlayfairDisplay[wght].ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/playfairdisplay",
+  "license": "SIL Open Font License 1.1",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/playfairdisplay/playfairdisplay.woff2",
+  "woff2_bytes": 106440,
+  "preview_path": "previews/playfairdisplay.png",
+  "coverage": {
+    "unicode_codepoints": 659,
+    "cjk_unified_ideographs": 0,
+    "latin_basic_extended": 348,
+    "has_ascii": true
+  }
+}
