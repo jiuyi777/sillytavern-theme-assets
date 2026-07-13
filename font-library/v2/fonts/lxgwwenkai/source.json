@@ -1,0 +1,27 @@
+{
+  "id": "lxgwwenkai",
+  "category": "zh-cn",
+  "category_label": "简体中文正文与中文展示",
+  "family": "LXGW WenKai",
+  "family_zh": "霞鹜文楷",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "LXGWWenKai-Regular.ttf",
+  "source_url": "https://github.com/lxgw/LxgwWenKai/releases",
+  "source_repository": "https://github.com/lxgw/LxgwWenKai",
+  "license": "SIL Open Font License 1.1",
+  "version": "1.522 (2026-03-17)",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/lxgwwenkai/lxgwwenkai.woff2",
+  "woff2_bytes": 8016756,
+  "woff2_sha256": "8c92d1b42fbfc8e6f81eb57810d58c85106e8682d1d05e9cda31552326e440d3",
+  "preview_path": "previews/lxgwwenkai.png",
+  "coverage": {
+    "unicode_codepoints": 46490,
+    "cjk_unified_ideographs": 20992,
+    "latin_basic_extended": 526,
+    "has_ascii": true
+  }
+}

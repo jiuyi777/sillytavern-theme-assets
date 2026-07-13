@@ -1,0 +1,27 @@
+{
+  "id": "zhuquefangsong",
+  "category": "zh-cn",
+  "category_label": "简体中文正文与中文展示",
+  "family": "Zhuque Fangsong",
+  "family_zh": "朱雀仿宋",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "ZhuqueFangsong-Regular.ttf",
+  "source_url": "https://github.com/TrionesType/zhuque/releases/tag/v0.212",
+  "source_repository": "https://github.com/TrionesType/zhuque",
+  "license": "SIL Open Font License 1.1",
+  "version": "0.212",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/zhuquefangsong/zhuquefangsong.woff2",
+  "woff2_bytes": 4805504,
+  "woff2_sha256": "c9868022314ba7f0946c50ec45b4665816e0e6387b58bd6a4ec676d794335bd5",
+  "preview_path": "previews/zhuquefangsong.png",
+  "coverage": {
+    "unicode_codepoints": 12882,
+    "cjk_unified_ideographs": 11009,
+    "latin_basic_extended": 411,
+    "has_ascii": true
+  }
+}

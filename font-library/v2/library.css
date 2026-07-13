@@ -1,0 +1,28 @@
+/* SillyTavern public font library v2. Each family directory retains OFL.txt. */
+
+/* 霞鹜文楷 | LXGW WenKai | OFL-1.1 */
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('./fonts/lxgwwenkai/lxgwwenkai.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 朱雀仿宋 | Zhuque Fangsong | OFL-1.1 */
+@font-face {
+  font-family: 'Zhuque Fangsong';
+  src: url('./fonts/zhuquefangsong/zhuquefangsong.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 思源宋体 SC | Source Han Serif SC | OFL-1.1 */
+@font-face {
+  font-family: 'Source Han Serif SC';
+  src: url('./fonts/sourcehanserifsc/sourcehanserifsc.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

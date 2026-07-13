@@ -1,0 +1,27 @@
+{
+  "id": "sourcehanserifsc",
+  "category": "zh-cn",
+  "category_label": "简体中文正文与中文展示",
+  "family": "Source Han Serif SC",
+  "family_zh": "思源宋体 SC",
+  "subfamily": "Regular",
+  "weight": "400",
+  "css_weight": "400",
+  "style": "normal",
+  "source_file": "SourceHanSerifSC-Regular.otf",
+  "source_url": "https://github.com/adobe-fonts/source-han-serif/releases",
+  "source_repository": "https://github.com/adobe-fonts/source-han-serif",
+  "license": "SIL Open Font License 1.1",
+  "version": "2.003",
+  "downloaded_on": "2026-07-13",
+  "woff2_path": "fonts/sourcehanserifsc/sourcehanserifsc.woff2",
+  "woff2_bytes": 16708168,
+  "woff2_sha256": "2c77c5fda4b9fd218120aa4c809069d40d14870b7b7242ceed0252f370d447d2",
+  "preview_path": "previews/sourcehanserifsc.png",
+  "coverage": {
+    "unicode_codepoints": 44779,
+    "cjk_unified_ideographs": 20992,
+    "latin_basic_extended": 244,
+    "has_ascii": true
+  }
+}
