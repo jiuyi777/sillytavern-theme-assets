@@ -1,21 +1,291 @@
 {
   "version": "v2",
-  "font_body_commit": "b687607c927d8ef25c1a98e3d82c05231924c2ba",
-  "families": {
-    "lxgwwenkai": {
-      "family": "LXGW WenKai",
-      "woff2": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/lxgwwenkai/lxgwwenkai.woff2",
-      "preview": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/previews/lxgwwenkai.png"
+  "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+  "fonts": [
+    {
+      "id": "huiwenmincho-improved",
+      "localized_family": "汇文明朝体",
+      "family": "Huiwen-mincho",
+      "weight": 400,
+      "license": "CC0-1.0",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/huiwenmincho-improved/HuiwenMincho-Improved-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/huiwenmincho-improved.png",
+      "source_url": "https://github.com/bosswnx/huiwenmincho-improved",
+      "coverage": {
+        "unicode": 14070,
+        "cjk": 11601,
+        "ascii": false,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
     },
-    "zhuquefangsong": {
-      "family": "Zhuque Fangsong",
-      "woff2": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/zhuquefangsong/zhuquefangsong.woff2",
-      "preview": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/previews/zhuquefangsong.png"
+    {
+      "id": "qijic",
+      "localized_family": "黄令东齐伋复刻體（QIJIC）",
+      "family": "QIJIC",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/qijic/QIJIC-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/qijic.png",
+      "source_url": "https://github.com/LingDong-/qiji-font/releases/tag/0.0.4",
+      "coverage": {
+        "unicode": 21068,
+        "cjk": 20971,
+        "ascii": false,
+        "english": false,
+        "numbers": false,
+        "punctuation": false
+      }
     },
-    "sourcehanserifsc": {
-      "family": "Source Han Serif SC",
-      "woff2": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/sourcehanserifsc/sourcehanserifsc.woff2",
-      "preview": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/previews/sourcehanserifsc.png"
+    {
+      "id": "qijifallback",
+      "localized_family": "黄令东齐伋体（QIJIFALLBACK）",
+      "family": "QIJIFALLBACK",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/qijifallback/QIJIFALLBACK-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/qijifallback.png",
+      "source_url": "https://github.com/LingDong-/qiji-font/releases/tag/0.0.4",
+      "coverage": {
+        "unicode": 20971,
+        "cjk": 20971,
+        "ascii": false,
+        "english": false,
+        "numbers": false,
+        "punctuation": false
+      }
+    },
+    {
+      "id": "genwanmin2-tc",
+      "localized_family": "源云明体",
+      "family": "GenWanMin2 TC",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/genwanmin2-tc/GenWanMin2TC-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/genwanmin2-tc.png",
+      "source_url": "https://github.com/ButTaiwan/genwan-font/blob/25e718615173a3b51099ecc9a6bf4fa558c03fbc/otf/TC/GenWanMin2TC-R.otf",
+      "coverage": {
+        "unicode": 35349,
+        "cjk": 20992,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "chill-huosong",
+      "localized_family": "寒蝉活宋体",
+      "family": "ST Theme Chill Huo Song Web",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/chill-huosong/STTheme-ChillHuoSong-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/chill-huosong.png",
+      "source_url": "https://github.com/Warren2060/ChillMovableType/releases/tag/HuoSongv1.000",
+      "coverage": {
+        "unicode": 12152,
+        "cjk": 11085,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "oradano-mincho-gsrr",
+      "localized_family": "Oradano-mincho-GSRR",
+      "family": "Oradano-mincho-GSRR",
+      "weight": 400,
+      "license": "Public Domain",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/oradano-mincho-gsrr/Oradano-mincho-GSRR.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/oradano-mincho-gsrr.png",
+      "source_url": "https://packages.debian.org/source/bookworm/fonts-oradano-mincho-gsrr",
+      "coverage": {
+        "unicode": 12738,
+        "cjk": 9044,
+        "ascii": false,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "x-typewriter",
+      "localized_family": "X Typewriter",
+      "family": "ST Theme X Typewriter Web",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/x-typewriter/STTheme-XTypewriter-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/x-typewriter.png",
+      "source_url": "https://ggbot.itch.io/x-typewriter-font",
+      "coverage": {
+        "unicode": 342,
+        "cjk": 0,
+        "ascii": false,
+        "english": true,
+        "numbers": true,
+        "punctuation": false
+      }
+    },
+    {
+      "id": "cormorant-sc",
+      "localized_family": "Cormorant SC",
+      "family": "Cormorant SC",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/cormorant-sc/CormorantSC-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/cormorant-sc.png",
+      "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/cormorantsc",
+      "coverage": {
+        "unicode": 972,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "gideon-roman",
+      "localized_family": "Gideon Roman",
+      "family": "Gideon Roman",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/gideon-roman/GideonRoman-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/gideon-roman.png",
+      "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/gideonroman",
+      "coverage": {
+        "unicode": 574,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "gnu-typewriter",
+      "localized_family": "GNUTypewriter",
+      "family": "ST Theme GNU Typewriter Web",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/gnu-typewriter/STTheme-GNUTypewriter-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/gnu-typewriter.png",
+      "source_url": "https://packages.debian.org/source/bookworm/fonts-gnutypewriter",
+      "coverage": {
+        "unicode": 330,
+        "cjk": 0,
+        "ascii": false,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "im-fell-great-primer-sc",
+      "localized_family": "IM FELL Great Primer SC",
+      "family": "IM FELL Great Primer SC",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/im-fell-great-primer-sc/IMFellGreatPrimerSC-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/im-fell-great-primer-sc.png",
+      "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/imfellgreatprimersc",
+      "coverage": {
+        "unicode": 340,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "love-ya-like-a-sister",
+      "localized_family": "Love Ya Like A Sister",
+      "family": "Love Ya Like A Sister",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/love-ya-like-a-sister/LoveYaLikeASister-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/love-ya-like-a-sister.png",
+      "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/loveyalikeasister",
+      "coverage": {
+        "unicode": 351,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "special-elite",
+      "localized_family": "Special Elite",
+      "family": "Special Elite",
+      "weight": 400,
+      "license": "Apache License 2.0",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/special-elite/SpecialElite-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/special-elite.png",
+      "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/apache/specialelite",
+      "coverage": {
+        "unicode": 368,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "truetypewriter-polyglott",
+      "localized_family": "Truetypewriter PolyglOTT",
+      "family": "ST Theme Truetypewriter PolyglOTT Web",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1 (embedded in font)",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/truetypewriter-polyglott/STTheme-TruetypewriterPolyglott-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/truetypewriter-polyglott.png",
+      "source_url": "https://www.fontspace.com/truetypewriter-polyglott-font-f14955",
+      "coverage": {
+        "unicode": 4450,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
+    },
+    {
+      "id": "uncial-antiqua",
+      "localized_family": "Uncial Antiqua",
+      "family": "ST Theme Uncial Antiqua Web",
+      "weight": 400,
+      "license": "SIL Open Font License 1.1",
+      "asset_commit": "25c2028b9f9b9c020c2f0be404813a7ececaff45",
+      "raw_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/fonts/uncial-antiqua/STTheme-UncialAntiqua-Regular.woff2",
+      "preview_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c2028b9f9b9c020c2f0be404813a7ececaff45/font-library/v2/previews/uncial-antiqua.png",
+      "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/uncialantiqua",
+      "coverage": {
+        "unicode": 368,
+        "cjk": 0,
+        "ascii": true,
+        "english": true,
+        "numbers": true,
+        "punctuation": true
+      }
     }
-  }
+  ]
 }
