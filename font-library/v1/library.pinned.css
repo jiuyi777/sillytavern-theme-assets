@@ -1,0 +1,274 @@
+/* Pinned SillyTavern open font library v1.
+ * Asset commit: 4eff68933698e82715fcc4450c74b039c9988f19
+ * Each family retains its OFL.txt in the same pinned commit.
+ */
+
+/* 简体中文与中文展示 | Noto Sans SC | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Sans SC';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/notosanssc/notosanssc.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Noto Serif SC | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Serif SC';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/notoserifsc/notoserifsc.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | LXGW Marker Gothic | OFL-1.1 */
+@font-face {
+  font-family: 'LXGW Marker Gothic';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/lxgwmarkergothic/lxgwmarkergothic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Ma Shan Zheng | OFL-1.1 */
+@font-face {
+  font-family: 'Ma Shan Zheng';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/mashanzheng/mashanzheng.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | 站酷小薇体 | OFL-1.1 */
+@font-face {
+  font-family: '站酷小薇体';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zcoolxiaowei/zcoolxiaowei.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | ZCOOL QingKe HuangYou | OFL-1.1 */
+@font-face {
+  font-family: 'ZCOOL QingKe HuangYou';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zcoolqingkehuangyou/zcoolqingkehuangyou.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | ZCOOL KuaiLe | OFL-1.1 */
+@font-face {
+  font-family: 'ZCOOL KuaiLe';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zcoolkuaile/zcoolkuaile.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Long Cang | OFL-1.1 */
+@font-face {
+  font-family: 'Long Cang';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/longcang/longcang.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Liu Jian Mao Cao | OFL-1.1 */
+@font-face {
+  font-family: 'Liu Jian Mao Cao';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/liujianmaocao/liujianmaocao.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 简体中文与中文展示 | Zhi Mang Xing | OFL-1.1 */
+@font-face {
+  font-family: 'Zhi Mang Xing';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zhimangxing/zhimangxing.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Noto Sans JP | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Sans JP';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/notosansjp/notosansjp.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Noto Serif JP | OFL-1.1 */
+@font-face {
+  font-family: 'Noto Serif JP';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/notoserifjp/notoserifjp.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Zen Maru Gothic | OFL-1.1 */
+@font-face {
+  font-family: 'Zen Maru Gothic';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zenmarugothic/zenmarugothic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Zen Kaku Gothic New | OFL-1.1 */
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zenkakugothicnew/zenkakugothicnew.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Zen Old Mincho | OFL-1.1 */
+@font-face {
+  font-family: 'Zen Old Mincho';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/zenoldmincho/zenoldmincho.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Kaisei Decol | OFL-1.1 */
+@font-face {
+  font-family: 'Kaisei Decol';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/kaiseidecol/kaiseidecol.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Shippori Mincho | OFL-1.1 */
+@font-face {
+  font-family: 'Shippori Mincho';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/shipporimincho/shipporimincho.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Klee One | OFL-1.1 */
+@font-face {
+  font-family: 'Klee One';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/kleeone/kleeone.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | DotGothic16 | OFL-1.1 */
+@font-face {
+  font-family: 'DotGothic16';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/dotgothic16/dotgothic16.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 日系与东亚风格 | Dela Gothic One | OFL-1.1 */
+@font-face {
+  font-family: 'Dela Gothic One';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/delagothicone/delagothicone.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Cormorant Garamond | OFL-1.1 */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/cormorantgaramond/cormorantgaramond.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | EB Garamond | OFL-1.1 */
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/ebgaramond/ebgaramond.woff2') format('woff2');
+  font-weight: 400 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Playfair Display | OFL-1.1 */
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/playfairdisplay/playfairdisplay.woff2') format('woff2');
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Cinzel | OFL-1.1 */
+@font-face {
+  font-family: 'Cinzel';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/cinzel/cinzel.woff2') format('woff2');
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Libre Baskerville | OFL-1.1 */
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/librebaskerville/librebaskerville.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Lora | OFL-1.1 */
+@font-face {
+  font-family: 'Lora';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/lora/lora.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Montserrat | OFL-1.1 */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/montserrat/montserrat.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Nunito | OFL-1.1 */
+@font-face {
+  font-family: 'Nunito';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/nunito/nunito.woff2') format('woff2');
+  font-weight: 200 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Unbounded | OFL-1.1 */
+@font-face {
+  font-family: 'Unbounded';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/unbounded/unbounded.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 通用西文 | Courier Prime | OFL-1.1 */
+@font-face {
+  font-family: 'Courier Prime';
+  src: url('https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4eff68933698e82715fcc4450c74b039c9988f19/font-library/v1/fonts/courierprime/courierprime.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

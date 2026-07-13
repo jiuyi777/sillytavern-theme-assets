@@ -8,7 +8,9 @@
 
 ## 使用方式
 
-- 可直接引用本目录的固定提交版本 `library.css`。
+- 推荐直接使用 [`library.pinned.css`](library.pinned.css)，其中 30 个字体 URL 已固定到字体本体提交 `4eff68933698e82715fcc4450c74b039c9988f19`。
+- 单个字体的固定 GitHub Raw 和字样预览链接见 [`pinned-links.md`](pinned-links.md) 或 [`pinned-links.json`](pinned-links.json)。
+- `library.css` 保留相对路径版本，适合下载到本地后整体使用。
 - 也可只复制某个 `@font-face`，并在主题中设置明确的中文回退链。
 - 正式主题必须固定到具体提交哈希，不能直接依赖会变化的 `main`。
 - 每个字体的许可证都在对应目录；二次分发时必须保留许可证。
