@@ -1,0 +1,21 @@
+{
+  "version": "v2",
+  "font_body_commit": "b687607c927d8ef25c1a98e3d82c05231924c2ba",
+  "families": {
+    "lxgwwenkai": {
+      "family": "LXGW WenKai",
+      "woff2": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/lxgwwenkai/lxgwwenkai.woff2",
+      "preview": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/previews/lxgwwenkai.png"
+    },
+    "zhuquefangsong": {
+      "family": "Zhuque Fangsong",
+      "woff2": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/zhuquefangsong/zhuquefangsong.woff2",
+      "preview": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/previews/zhuquefangsong.png"
+    },
+    "sourcehanserifsc": {
+      "family": "Source Han Serif SC",
+      "woff2": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/sourcehanserifsc/sourcehanserifsc.woff2",
+      "preview": "https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/previews/sourcehanserifsc.png"
+    }
+  }
+}

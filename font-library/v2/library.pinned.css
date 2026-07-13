@@ -1,0 +1,28 @@
+/* Fixed to font body commit b687607c927d8ef25c1a98e3d82c05231924c2ba. */
+
+/* 霞鹜文楷 | LXGW WenKai | OFL-1.1 */
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/lxgwwenkai/lxgwwenkai.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 朱雀仿宋 | Zhuque Fangsong | OFL-1.1 */
+@font-face {
+  font-family: 'Zhuque Fangsong';
+  src: url('https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/zhuquefangsong/zhuquefangsong.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 思源宋体 SC | Source Han Serif SC | OFL-1.1 */
+@font-face {
+  font-family: 'Source Han Serif SC';
+  src: url('https://cdn.jsdelivr.net/gh/jiuyi777/sillytavern-theme-assets@b687607c927d8ef25c1a98e3d82c05231924c2ba/font-library/v2/fonts/sourcehanserifsc/sourcehanserifsc.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
