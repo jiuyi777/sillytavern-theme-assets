@@ -1,0 +1,33 @@
+{
+  "id": "special-elite",
+  "family": "Special Elite",
+  "localized_family": "Special Elite",
+  "source_family": "Special Elite",
+  "source_full_name": "Special Elite Regular",
+  "source_subfamily": "Regular",
+  "source_version": "Version 1.001",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/apache/specialelite",
+  "source_ref": "ec0464b978de222073645d6d3366f3fdf03376d8",
+  "source_file": "SpecialElite-Regular.ttf",
+  "source_sha256": "a776fcb4ceb8bdf03e2967688ebdad42680de5b91a7e62c17e718ae212d14bc4",
+  "license": "Apache License 2.0",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "SpecialElite-Regular.woff2",
+  "web_sha256": "38d8869d009ed67c9c3278d8bd5649209d77871acf251f650fc8ea776eb38df4",
+  "web_bytes": 65440,
+  "woff2_path": "fonts/special-elite/SpecialElite-Regular.woff2",
+  "preview_path": "previews/special-elite.png",
+  "coverage": {
+    "unicode": 368,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gnu-typewriter",
+  "family": "ST Theme GNU Typewriter Web",
+  "localized_family": "GNUTypewriter",
+  "source_family": "GNUTypewriter",
+  "source_full_name": "GNUTypewriter",
+  "source_subfamily": "Standard",
+  "source_version": "Version 001.000",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://packages.debian.org/source/bookworm/fonts-gnutypewriter",
+  "source_ref": "1.0-3",
+  "source_file": "gtw.ttf",
+  "source_sha256": "820a2ba4885aae303170b7e76d81d41c98a45ae18f124a5fda9255019ec48d4c",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "STTheme-GNUTypewriter-Regular.woff2",
+  "web_sha256": "5c0b05a9801b0f088d6ed4d2dc60b1454d7b9c1dcaa42af6ba5b8860854af4cf",
+  "web_bytes": 56468,
+  "woff2_path": "fonts/gnu-typewriter/STTheme-GNUTypewriter-Regular.woff2",
+  "preview_path": "previews/gnu-typewriter.png",
+  "coverage": {
+    "unicode": 330,
+    "cjk": 0,
+    "ascii": false,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": "Converted webfont renamed because OFL reserves GNUTypeWriter."
+}

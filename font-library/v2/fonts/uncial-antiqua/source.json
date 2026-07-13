@@ -1,0 +1,33 @@
+{
+  "id": "uncial-antiqua",
+  "family": "ST Theme Uncial Antiqua Web",
+  "localized_family": "Uncial Antiqua",
+  "source_family": "Uncial Antiqua",
+  "source_full_name": "Uncial Antiqua",
+  "source_subfamily": "Regular",
+  "source_version": "Version 1.000",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/uncialantiqua",
+  "source_ref": "ec0464b978de222073645d6d3366f3fdf03376d8",
+  "source_file": "UncialAntiqua-Regular.ttf",
+  "source_sha256": "33a5128b59d1c95d4f3788164f4ab3a1196f0a982263cb2cd278c47418366766",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "STTheme-UncialAntiqua-Regular.woff2",
+  "web_sha256": "d22606f9c9f1ef0dffe044770d0d872d4795b0ad2fe3a509776477e6de23a642",
+  "web_bytes": 26092,
+  "woff2_path": "fonts/uncial-antiqua/STTheme-UncialAntiqua-Regular.woff2",
+  "preview_path": "previews/uncial-antiqua.png",
+  "coverage": {
+    "unicode": 368,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": "Converted webfont renamed because OFL reserves Uncial Antiqua."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chill-huosong",
+  "family": "ST Theme Chill Huo Song Web",
+  "localized_family": "寒蝉活宋体",
+  "source_family": "ChillHuoSong_F",
+  "source_full_name": "ChillHuoSong_F_ConRegular",
+  "source_subfamily": "Regular",
+  "source_version": "Version 1.000;Glyphs 3.1.1 (3135)",
+  "style": "normal",
+  "weight": 400,
+  "category": "cjk",
+  "source_url": "https://github.com/Warren2060/ChillMovableType/releases/tag/HuoSongv1.000",
+  "source_ref": "66238b2d5c15a18d05db0d491c5c90e0808c4453",
+  "source_file": "ChillHuoSong_F_ConRegular.otf",
+  "source_sha256": "fbed30f9d6defbc6bc7bd86d13e2e6b74c8c1426fe7c210aaf0f31cbf870de2c",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "STTheme-ChillHuoSong-Regular.woff2",
+  "web_sha256": "3fa9ff77e8959f0fe8fd449593604ae07c0d3c3a30093012987a385f4cfa9f67",
+  "web_bytes": 11733224,
+  "woff2_path": "fonts/chill-huosong/STTheme-ChillHuoSong-Regular.woff2",
+  "preview_path": "previews/chill-huosong.png",
+  "coverage": {
+    "unicode": 12152,
+    "cjk": 11085,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": "Converted webfont renamed because OFL reserves ChillMovableType."
+}

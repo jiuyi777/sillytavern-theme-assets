@@ -1,0 +1,33 @@
+{
+  "id": "gideon-roman",
+  "family": "Gideon Roman",
+  "localized_family": "Gideon Roman",
+  "source_family": "Gideon Roman",
+  "source_full_name": "Gideon Roman Regular",
+  "source_subfamily": "Regular",
+  "source_version": "Version 2.010",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/gideonroman",
+  "source_ref": "ec0464b978de222073645d6d3366f3fdf03376d8",
+  "source_file": "GideonRoman-Regular.ttf",
+  "source_sha256": "8edd923657529e420382016e8f0a395d2d526c391328fc97cf4d42ed2d18bdce",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "GideonRoman-Regular.woff2",
+  "web_sha256": "094586dc4db885cd44311525036c74fb4420cba5da384ae285f328b72500b4bf",
+  "web_bytes": 43700,
+  "woff2_path": "fonts/gideon-roman/GideonRoman-Regular.woff2",
+  "preview_path": "previews/gideon-roman.png",
+  "coverage": {
+    "unicode": 574,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}

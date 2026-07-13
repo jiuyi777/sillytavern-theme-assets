@@ -1,0 +1,33 @@
+{
+  "id": "oradano-mincho-gsrr",
+  "family": "Oradano-mincho-GSRR",
+  "localized_family": "Oradano-mincho-GSRR",
+  "source_family": "Oradano-mincho-GSRR",
+  "source_full_name": "Oradano-mincho-GSRR",
+  "source_subfamily": "mincho-GSRR",
+  "source_version": "Version 0.2018.0101",
+  "style": "normal",
+  "weight": 400,
+  "category": "cjk",
+  "source_url": "https://packages.debian.org/source/bookworm/fonts-oradano-mincho-gsrr",
+  "source_ref": "0.2018-3",
+  "source_file": "OradanoGSRR.ttf",
+  "source_sha256": "4a231ea72160844cb0c9d49b35371f682729017ec11b816bbdc97c605ac13c6b",
+  "license": "Public Domain",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "Oradano-mincho-GSRR.woff2",
+  "web_sha256": "509673e29c77f5b6c395fd923a6f3fa0404f02f42318a07eea24909bba1379ab",
+  "web_bytes": 5426100,
+  "woff2_path": "fonts/oradano-mincho-gsrr/Oradano-mincho-GSRR.woff2",
+  "preview_path": "previews/oradano-mincho-gsrr.png",
+  "coverage": {
+    "unicode": 12738,
+    "cjk": 9044,
+    "ascii": false,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}

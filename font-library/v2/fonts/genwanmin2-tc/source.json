@@ -1,0 +1,33 @@
+{
+  "id": "genwanmin2-tc",
+  "family": "GenWanMin2 TC",
+  "localized_family": "源云明体",
+  "source_family": "GenWanMin2 TC",
+  "source_full_name": "GenWanMin2 TC R",
+  "source_subfamily": "Regular",
+  "source_version": "Version 2.100;PS 2.1;hotconv 16.6.51;makeotf.lib2.5.65220 DEVELOPMENT",
+  "style": "normal",
+  "weight": 400,
+  "category": "cjk",
+  "source_url": "https://github.com/ButTaiwan/genwan-font/blob/25e718615173a3b51099ecc9a6bf4fa558c03fbc/otf/TC/GenWanMin2TC-R.otf",
+  "source_ref": "25e718615173a3b51099ecc9a6bf4fa558c03fbc",
+  "source_file": "GenWanMin2TC-R.otf",
+  "source_sha256": "028e19001e7d580f44e145eda751674528b8bb5e421887804469ae3c74fa66a6",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "GenWanMin2TC-Regular.woff2",
+  "web_sha256": "ffbd0334487809a13fae9dcfb202301e680b433821d52257b087e957fb96a6fc",
+  "web_bytes": 14902572,
+  "woff2_path": "fonts/genwanmin2-tc/GenWanMin2TC-Regular.woff2",
+  "preview_path": "previews/genwanmin2-tc.png",
+  "coverage": {
+    "unicode": 35349,
+    "cjk": 20992,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}

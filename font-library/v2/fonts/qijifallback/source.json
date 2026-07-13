@@ -1,0 +1,33 @@
+{
+  "id": "qijifallback",
+  "family": "QIJIFALLBACK",
+  "localized_family": "黄令东齐伋体（QIJIFALLBACK）",
+  "source_family": "QIJIFALLBACK",
+  "source_full_name": "QIJIFALLBACK",
+  "source_subfamily": "Regular",
+  "source_version": "Version 0.0.1",
+  "style": "normal",
+  "weight": 400,
+  "category": "cjk",
+  "source_url": "https://github.com/LingDong-/qiji-font/releases/tag/0.0.4",
+  "source_ref": "f7971a4345b1101796763092425ba10b8f5ad95e",
+  "source_file": "qiji-fallback.api2.woff2",
+  "source_sha256": "77275dc1fa17b2dc79c3a6eeb12bdcfa6a897ceb1e8f0c9a6e358d5f68a8de67",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "QIJIFALLBACK-Regular.woff2",
+  "web_sha256": "77275dc1fa17b2dc79c3a6eeb12bdcfa6a897ceb1e8f0c9a6e358d5f68a8de67",
+  "web_bytes": 19238348,
+  "woff2_path": "fonts/qijifallback/QIJIFALLBACK-Regular.woff2",
+  "preview_path": "previews/qijifallback.png",
+  "coverage": {
+    "unicode": 20971,
+    "cjk": 20971,
+    "ascii": false,
+    "english": false,
+    "numbers": false,
+    "punctuation": false
+  },
+  "rename_reason": null
+}

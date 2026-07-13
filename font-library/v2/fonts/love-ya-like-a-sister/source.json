@@ -1,0 +1,33 @@
+{
+  "id": "love-ya-like-a-sister",
+  "family": "Love Ya Like A Sister",
+  "localized_family": "Love Ya Like A Sister",
+  "source_family": "Love Ya Like A Sister",
+  "source_full_name": "Love Ya Like A Sister Regular",
+  "source_subfamily": "Regular",
+  "source_version": "Version 1.002 2007",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/loveyalikeasister",
+  "source_ref": "ec0464b978de222073645d6d3366f3fdf03376d8",
+  "source_file": "LoveYaLikeASister.ttf",
+  "source_sha256": "4fbe2c1fa647de5a415acac7b2b6491542fe9767b6199719a3bd77a7cf35eb0d",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "LoveYaLikeASister-Regular.woff2",
+  "web_sha256": "aa6813dfca56e271be9836b22511806067cec96adc39b1f2f68238a7d8de4967",
+  "web_bytes": 81560,
+  "woff2_path": "fonts/love-ya-like-a-sister/LoveYaLikeASister-Regular.woff2",
+  "preview_path": "previews/love-ya-like-a-sister.png",
+  "coverage": {
+    "unicode": 351,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}

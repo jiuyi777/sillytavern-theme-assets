@@ -1,0 +1,65 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Oradano Mincho GSRR
+Source: https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/
+
+Files: *
+Copyright: 2006-2017 内田明 <uchida@happy.email.ne.jp>
+License: custom
+ このフォントは、印刷・表示、電子文書への埋め込み等の目的で、誰もが自由に
+ 無償で用いることができます。
+ .
+ このフォントの配布・再配布は、自由に無償で行うことができます。
+ .
+ このフォントを、より大きな規模のソフトウエアパッケージの一部として販売する
+ などしても構いません。
+ .
+ このフォントを用いて新たなフォントの開発を行うことも可能です。
+ .
+ ORADANO明朝フォントは、「あるがまま」で提供される物であり、製作者および
+ 再配布者は、公的・私的な規格や言語慣習への適合性、何らかの用途への
+ 有用性などの、品質に関する保証を一切行いません。
+ .
+ このフォントの利用に起因する損害に対し、その責任はすべて利用者が負う
+ ものとします。損害の起こる可能性が知られていた場合でも、製作者および
+ 再配布者は、法的・道義的な責任を負うことはありません。
+ .
+ 製作者および再配布者は、このフォントに不具合が発見されたときに、それ
+ を修正・告知する義務を負いません。
+ .
+ (English translation by Debian package maintainer)
+ * This font can be used freely without regard to the cost for any purpose
+   as printing, displaying, embedding to electric documents and so on.
+ * You can redistribute this font freely without regard to the cost.
+ * You can sell this font as a part of other software package.
+ * You can develop new font that based on this font.
+ .
+ THIS FONT IS PROVIDED BY CREATOR OR REDISTRIUBUTOR "AS IS" AND ANY EXPRESS
+ OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ OF MERCHANTABILITY, USEFULNESS, QUALITY ASSUARANCE AND FITNESS FOR
+ A PARTICULAR PURPOSE SUCH AS OFFICIAL OR UNOFFICIAL STANDARD, LANGUAGE CUSTOM,
+ AND SO ON ARE DISCLAIMED.
+ .
+ IN NO EVENT SHALL CREATOR OR REDISTRIUBUTOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+ INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+ .
+ CREATOR OR REDISTRIUBUTOR HAVE NO RESPONSIBILITY TO NOTIFICATE OR CORRECTION
+ FOR FAILURE IN THIS FONT.
+
+Files: debian/*
+Copyright: 2016-2019 Hideki Yamane <henrich@debian.org>
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <https://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".

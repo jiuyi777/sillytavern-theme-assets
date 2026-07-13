@@ -1,0 +1,33 @@
+{
+  "id": "truetypewriter-polyglott",
+  "family": "ST Theme Truetypewriter PolyglOTT Web",
+  "localized_family": "Truetypewriter PolyglOTT",
+  "source_family": "Truetypewriter PolyglOTT",
+  "source_full_name": "Truetypewriter PolyglOTT",
+  "source_subfamily": "Regular",
+  "source_version": "Version 3.76",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://www.fontspace.com/truetypewriter-polyglott-font-f14955",
+  "source_ref": "downloaded-2026-07-13",
+  "source_file": "TruetypewriterPolyglott-mELa.ttf",
+  "source_sha256": "15669870f614e966a7b71e1dbbf652b23493b273bf2e4baeca05d53fe52a399c",
+  "license": "SIL Open Font License 1.1 (embedded in font)",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "STTheme-TruetypewriterPolyglott-Regular.woff2",
+  "web_sha256": "65bf56dfa53d8c84a5da65391446a533eabd7bb39fe0469733a6e5d868447aca",
+  "web_bytes": 597556,
+  "woff2_path": "fonts/truetypewriter-polyglott/STTheme-TruetypewriterPolyglott-Regular.woff2",
+  "preview_path": "previews/truetypewriter-polyglott.png",
+  "coverage": {
+    "unicode": 4450,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": "Converted webfont renamed because the embedded OFL reserves Truetypewriter PolyglOTT."
+}

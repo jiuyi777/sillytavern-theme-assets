@@ -1,0 +1,33 @@
+{
+  "id": "cormorant-sc",
+  "family": "Cormorant SC",
+  "localized_family": "Cormorant SC",
+  "source_family": "Cormorant SC",
+  "source_full_name": "Cormorant SC Regular",
+  "source_subfamily": "Regular",
+  "source_version": "Version 4.000",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/cormorantsc",
+  "source_ref": "ec0464b978de222073645d6d3366f3fdf03376d8",
+  "source_file": "CormorantSC-Regular.ttf",
+  "source_sha256": "a51985a075f3884d8dc9b2d20367c51b6b05e53fdb912959acb785084579aeaa",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "CormorantSC-Regular.woff2",
+  "web_sha256": "023eca782f8bb3f1f3aada2d0b426d2956e4380907c54630b89243aab66a78f2",
+  "web_bytes": 119456,
+  "woff2_path": "fonts/cormorant-sc/CormorantSC-Regular.woff2",
+  "preview_path": "previews/cormorant-sc.png",
+  "coverage": {
+    "unicode": 972,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}

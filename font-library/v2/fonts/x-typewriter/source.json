@@ -1,0 +1,33 @@
+{
+  "id": "x-typewriter",
+  "family": "ST Theme X Typewriter Web",
+  "localized_family": "X Typewriter",
+  "source_family": "X Typewriter",
+  "source_full_name": "X Typewriter",
+  "source_subfamily": "Regular",
+  "source_version": "0.90",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://ggbot.itch.io/x-typewriter-font",
+  "source_ref": "downloaded-2026-07-13",
+  "source_file": "XTypewriter-Regular.ttf",
+  "source_sha256": "788c78662cb3f113604668a0c0b5ee28d42714b12dd336c39436c6a5fa0c0e26",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "STTheme-XTypewriter-Regular.woff2",
+  "web_sha256": "db609d9cb3fe448d595a703721004285ca0b68c7edf758eb748b9deec3a2cca7",
+  "web_bytes": 111136,
+  "woff2_path": "fonts/x-typewriter/STTheme-XTypewriter-Regular.woff2",
+  "preview_path": "previews/x-typewriter.png",
+  "coverage": {
+    "unicode": 342,
+    "cjk": 0,
+    "ascii": false,
+    "english": true,
+    "numbers": true,
+    "punctuation": false
+  },
+  "rename_reason": "Converted webfont renamed because OFL reserves X Typewriter."
+}

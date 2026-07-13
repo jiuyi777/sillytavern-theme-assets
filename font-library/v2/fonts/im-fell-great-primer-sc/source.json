@@ -1,0 +1,33 @@
+{
+  "id": "im-fell-great-primer-sc",
+  "family": "IM FELL Great Primer SC",
+  "localized_family": "IM FELL Great Primer SC",
+  "source_family": "IM FELL Great Primer SC",
+  "source_full_name": "IM FELL Great Primer SC",
+  "source_subfamily": "Regular",
+  "source_version": "3.00",
+  "style": "normal",
+  "weight": 400,
+  "category": "latin",
+  "source_url": "https://github.com/google/fonts/tree/ec0464b978de222073645d6d3366f3fdf03376d8/ofl/imfellgreatprimersc",
+  "source_ref": "ec0464b978de222073645d6d3366f3fdf03376d8",
+  "source_file": "IMFeGPsc28P.ttf",
+  "source_sha256": "78952e5990c83116ef01ad7402f4384b1b9bc5c6c38690d2048f16a5317ff0c4",
+  "license": "SIL Open Font License 1.1",
+  "redistribution": "allowed",
+  "downloaded_on": "2026-07-13",
+  "web_file": "IMFellGreatPrimerSC-Regular.woff2",
+  "web_sha256": "abf0fbc9c72764b2ce6f1290c4fcff68d7db45b0bdb2796d479d0011cb1028ec",
+  "web_bytes": 88952,
+  "woff2_path": "fonts/im-fell-great-primer-sc/IMFellGreatPrimerSC-Regular.woff2",
+  "preview_path": "previews/im-fell-great-primer-sc.png",
+  "coverage": {
+    "unicode": 340,
+    "cjk": 0,
+    "ascii": true,
+    "english": true,
+    "numbers": true,
+    "punctuation": true
+  },
+  "rename_reason": null
+}
