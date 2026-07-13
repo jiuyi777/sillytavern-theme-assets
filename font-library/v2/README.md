@@ -2,7 +2,7 @@
 
 生成日期：2026-07-13
 
-本版本包含 15 个经过来源与再分发许可核对的字体家族；其中汇文明朝体是 v2 已有条目，本次新增 14 个。
+本版本包含 18 个经过来源与再分发许可核对的字体家族；其中 4 个是 v2 既有条目，本次从用户截图请求新增 14 个。
 每个字体目录都保存 WOFF2、许可文本与 `source.json`；`previews/` 保存包含中文、西文、数字和标点的字样预览。
 
 ## 使用规则
@@ -15,6 +15,9 @@
 ## 已入库
 
 - `汇文明朝体`：`Huiwen-mincho`
+- `霞鹜文楷`：`LXGW WenKai`
+- `思源宋体 SC`：`Source Han Serif SC`
+- `朱雀仿宋`：`Zhuque Fangsong`
 - `黄令东齐伋复刻體（QIJIC）`：`QIJIC`
 - `黄令东齐伋体（QIJIFALLBACK）`：`QIJIFALLBACK`
 - `源云明体`：`GenWanMin2 TC`
