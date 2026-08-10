@@ -1,0 +1,17 @@
+{
+    "schema_version": 1,
+    "name": "Zeya 酒馆主题库",
+    "updated_at": "2026-08-10T00:00:00+08:00",
+    "themes": [
+        {
+            "id": "orange-summer-soda",
+            "name": "橙夏汽水",
+            "version": "1.0.0",
+            "description": "清爽明亮的夏日汽水风 SillyTavern 全局主题。",
+            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+            "sha256": "ebe461e72efb83661482424ae911e9893ede3f21f0112b5d6fdc310d29d9019b",
+            "minimum_client_version": "1.14.0",
+            "updated_at": "2026-08-10T00:00:00+08:00"
+        }
+    ]
+}
