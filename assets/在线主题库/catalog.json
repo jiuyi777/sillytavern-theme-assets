@@ -8,8 +8,8 @@
             "name": "橙夏汽水",
             "version": "1.0.0",
             "description": "清爽明亮的夏日汽水风 SillyTavern 全局主题。",
-            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
-            "sha256": "ebe461e72efb83661482424ae911e9893ede3f21f0112b5d6fdc310d29d9019b",
+            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2a5869bfcf6fed17547b3969514f6a752041d0a2/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+            "sha256": "81695f8c3a18b62ea8311cb142de81acaa0daefee26fb0c63c9d3ca7383cd92a",
             "minimum_client_version": "1.14.0",
             "updated_at": "2026-08-10T00:00:00+08:00"
         },
@@ -18,8 +18,8 @@
             "name": "暮潮回声",
             "version": "1.0.0",
             "description": "沉静深色、带潮汐回声氛围的 SillyTavern 全局主题。",
-            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
-            "sha256": "39148d9f8444efd7aa902075fa8f9168e74a4c87e24f11f9276c3c0fbd2f5985",
+            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2a5869bfcf6fed17547b3969514f6a752041d0a2/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
+            "sha256": "25a0b48adbbbfb6e3bf7fc7b66cfa7f9d9da86bae27a5cce10c4b766eed3b252",
             "minimum_client_version": "1.14.0",
             "updated_at": "2026-08-10T00:00:00+08:00"
         },
@@ -28,8 +28,8 @@
             "name": "晴屿",
             "version": "1.0.0",
             "description": "明净柔和的岛屿感 SillyTavern 全局主题。",
-            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
-            "sha256": "c9367ff14f4ff0e00a073920471b66f51f96bb18cc9dc06bc96bda6201fc9c08",
+            "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2a5869bfcf6fed17547b3969514f6a752041d0a2/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
+            "sha256": "fbd0572f7e4585461e1767b04c9ca8439197c9e729126d26a3e3259857cf50cf",
             "minimum_client_version": "1.14.0",
             "updated_at": "2026-08-10T00:00:00+08:00"
         }
