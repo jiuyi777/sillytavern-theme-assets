@@ -1,7 +1,7 @@
 {
     "schema_version": 2,
     "name": "Zeya 酒馆主题库",
-    "updated_at": "2026-08-11T17:14:53.144Z",
+    "updated_at": "2026-08-11T17:16:00.729Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -11,8 +11,8 @@
             "versions": [
                 {
                     "version": "2026.07.27.18.38.42",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
-                    "sha256": "38b2a52cfeae0c85fc398b6a5d2608411e82ba050401467e2635996afbabc503",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
+                    "sha256": "1c8a01461cb7a76b0e98823a8366789fea7bfc9de046ea8f0f3e9769014834a0",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-27T18:38:42.837Z",
                     "status": "test"
@@ -27,8 +27,8 @@
             "versions": [
                 {
                     "version": "2026.07.15.23.03.55",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E6%9E%9C%E9%85%B1.json",
-                    "sha256": "fe7f60fd99d1fb175ae56bcef1fc5a19d83438a81c9648b01dbd2bc3992d05a8",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E6%9E%9C%E9%85%B1.json",
+                    "sha256": "acadbcbcab8a4c8305d35ef4ece0e3460bd10ff91f97ed8761be7a5e9f3f6b39",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-15T23:03:55.894Z",
                     "status": "test"
@@ -43,8 +43,8 @@
             "versions": [
                 {
                     "version": "2026.08.07.07.01.50",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
-                    "sha256": "55ab888594182ea588cda74d382ce93746e07fca31d0f5bd1f977663860ae200",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+                    "sha256": "d40bc96e40e53753f3a3bf4b9b2eb37e2dbf8c63197c9b9dd662503626e8cbbf",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-07T07:01:50.722Z",
                     "status": "test"
@@ -59,8 +59,8 @@
             "versions": [
                 {
                     "version": "2026.07.16.21.06.13",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%B5%A4%E8%8A%A6%E5%A4%9C%E8%A1%8C.json",
-                    "sha256": "04d0452bcfb15abd6695e4421a24f173908088131914b181f098e820b3b50298",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%B5%A4%E8%8A%A6%E5%A4%9C%E8%A1%8C.json",
+                    "sha256": "5948ccc812c8f3521f704c3febff0525935a668c7b62c0569923a1764e10aa01",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T21:06:13.384Z",
                     "status": "test"
@@ -75,7 +75,7 @@
             "versions": [
                 {
                     "version": "2026.07.23.18.52.44",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
                     "sha256": "c505651c2c3bbe95ae7e253e97c4be8523234f189a558f09208e9be325640988",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-23T18:52:44.415Z",
@@ -91,7 +91,7 @@
             "versions": [
                 {
                     "version": "2026.07.29.22.58.40",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E5%8A%A0%E4%BA%86%E4%B8%80%E6%8A%B9%E7%BB%BF%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E5%8A%A0%E4%BA%86%E4%B8%80%E6%8A%B9%E7%BB%BF%EF%BC%89.json",
                     "sha256": "e7d3ea61b79704901458632ac97422a8622945c25470392ab1ae76bbb9e4d84f",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-29T22:58:40.793Z",
@@ -99,7 +99,7 @@
                 },
                 {
                     "version": "2026.07.25.19.58.03",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5v0.1.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5v0.1.json",
                     "sha256": "512a85bd20b32c699ad11414bac0f92066c7e2294429f26fc74d184a1dcb07f0",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-25T19:58:03.850Z",
@@ -115,8 +115,8 @@
             "versions": [
                 {
                     "version": "2026.08.04.08.15.17",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%AC%AC37%E5%B1%82%E8%A7%82%E6%B5%8B%E6%A1%A3%E6%A1%88.json",
-                    "sha256": "f01fa6d876e847a6147933a9bc7153c3501db0e88ad0130485826deac877f8a3",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%AC%AC37%E5%B1%82%E8%A7%82%E6%B5%8B%E6%A1%A3%E6%A1%88.json",
+                    "sha256": "8117278ffb7ac2ba3c1c02198eb15acae34703fd4dd27b274a3ff28f68cd49a0",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-04T08:15:17.438Z",
                     "status": "test"
@@ -131,8 +131,8 @@
             "versions": [
                 {
                     "version": "2026.07.16.00.13.06",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%93%9D%E7%BC%96%E8%BE%91%E9%A3%8E.json",
-                    "sha256": "235961a44e41e8a95903f14948bcf4c7db83cd5cd0ba540c96974b89d3cd3eba",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%93%9D%E7%BC%96%E8%BE%91%E9%A3%8E.json",
+                    "sha256": "f709190f727853bfdde5b1b401b197ec4f9e57d6acfceaf00c96ab82d671b318",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T00:13:06.561Z",
                     "status": "test"
@@ -147,8 +147,8 @@
             "versions": [
                 {
                     "version": "2026.07.16.17.09.18",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0.json",
-                    "sha256": "b09b7d57b24c959ce1d519f3f4200b4889bad313ab1266d3f53a213c957ec916",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0.json",
+                    "sha256": "e254d5961e9948b67d46f76827f8705cc92a556b1bf0d6bf53322ffe02648d28",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T17:09:18.270Z",
                     "status": "test"
@@ -163,7 +163,7 @@
             "versions": [
                 {
                     "version": "2026.07.16.17.47.08",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
                     "sha256": "b42ea0a197a8d8486cd6f8a00946750702e1c8d469d3152c59260fe50e6b123a",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T17:47:08.830Z",
@@ -179,7 +179,7 @@
             "versions": [
                 {
                     "version": "2026.07.15.16.46.05",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
                     "sha256": "4a526b680214dc26fd82fd1165d9276e9e671192525b88d0c158a088e0757a3f",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-15T16:46:05.395Z",
@@ -195,8 +195,8 @@
             "versions": [
                 {
                     "version": "2026.07.17.13.23.11",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
-                    "sha256": "096f2fdbdecb19a73ac33f0a8acc5b1451957a8e067891819e5a4650d3730b91",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "sha256": "fc7d368c1b2c457e20793e165869d29ec96ec5b721b228380a587e0cd7762b45",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-17T13:23:11.869Z",
                     "status": "test"
@@ -211,8 +211,8 @@
             "versions": [
                 {
                     "version": "2026.08.06.19.40.24",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
-                    "sha256": "f00b965cd6eac4a555050d437f269c2d4099ff01575714e2da7386359b95f35b",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "sha256": "1a2fb7ab3bae4db6d026579af41f03c5e21adcf31ec6ceb8ef5464c2eb415e45",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-06T19:40:24.684Z",
                     "status": "test"
@@ -227,8 +227,8 @@
             "versions": [
                 {
                     "version": "2026.08.06.03.41.02",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
-                    "sha256": "39148d9f8444efd7aa902075fa8f9168e74a4c87e24f11f9276c3c0fbd2f5985",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
+                    "sha256": "25a0b48adbbbfb6e3bf7fc7b66cfa7f9d9da86bae27a5cce10c4b766eed3b252",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-06T03:41:02.997Z",
                     "status": "complete"
@@ -243,8 +243,8 @@
             "versions": [
                 {
                     "version": "2026.08.07.06.53.12",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A5%B6%E6%B2%B9%E8%B4%9D%E5%A3%B3.json",
-                    "sha256": "a3ff4e95d7fe0437a37f4ad1bc6308d156e0f8245011cc67db2b0b84ee08e189",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A5%B6%E6%B2%B9%E8%B4%9D%E5%A3%B3.json",
+                    "sha256": "4501679d84bca5ad89ef2cabbe9305b5efd21537a3d991067e4bf21af72b2980",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-07T06:53:12.437Z",
                     "status": "test"
@@ -259,8 +259,8 @@
             "versions": [
                 {
                     "version": "2026.08.07.03.43.29",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
-                    "sha256": "304548b685db574f36aeb84ee78141aa8df1047568fe6e2b24133c1995896dfb",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
+                    "sha256": "a68a51a9f2cda37b9c5d2f6278e14ebd09afb90678b6ae068d21e40d6849d83d",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-07T03:43:29.407Z",
                     "status": "test"
@@ -275,8 +275,8 @@
             "versions": [
                 {
                     "version": "2026.07.21.21.09.58",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9F%A0%E9%A1%B5.json",
-                    "sha256": "07bccf474df903dd8377bf1b8f20c4f5d8f05f82ae12b40484ae4cbba92e5fd8",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9F%A0%E9%A1%B5.json",
+                    "sha256": "4d621edf824852fd95d48d5cb078e9fbd3e92d4daaab2ecdb7cd7766032aa811",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-21T21:09:58.552Z",
                     "status": "test"
@@ -291,7 +291,7 @@
             "versions": [
                 {
                     "version": "2026.08.02.13.40.27",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
                     "sha256": "be30f012658dbf20b60b7d9f8c966e2c46bc2a1162761859ddaf96773611a906",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-02T13:40:27.102Z",
@@ -307,8 +307,8 @@
             "versions": [
                 {
                     "version": "2026.08.06.13.18.11",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%B8%85%E9%85%92%E6%A1%A3%E6%A1%88%E5%AE%A4.json",
-                    "sha256": "106e6cf6d90cb9cad5d550ce5f82e1cd8c205e6662464937f2ad923eb44bc355",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%B8%85%E9%85%92%E6%A1%A3%E6%A1%88%E5%AE%A4.json",
+                    "sha256": "79cff3ab58ffe7bd8256d878d3cbfc2193c61c653de2aacf784717b72270113c",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-06T13:18:11.342Z",
                     "status": "test"
@@ -323,8 +323,8 @@
             "versions": [
                 {
                     "version": "2026.08.07.07.01.50",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
-                    "sha256": "5b1074333b9318e8736823c5a4dda538f9a70e69aca874970b4f2a43ce3bd212",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
+                    "sha256": "b0b54d3a5dfcef441bba8f73d94cf3593befd514d80f57d1b2a7055452b0c20c",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-07T07:01:50.427Z",
                     "status": "test"
@@ -339,8 +339,8 @@
             "versions": [
                 {
                     "version": "2026.08.06.16.45.15",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8B%94%E9%9B%A8%E6%BA%AA%E7%AC%BA.json",
-                    "sha256": "e4a390ac82109cde599f58f3bb9e7d36661a9afe8622e819b33884640b7e82bd",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8B%94%E9%9B%A8%E6%BA%AA%E7%AC%BA.json",
+                    "sha256": "36aa7919dfa04f24ec0e0818a4eb6c4ae0db914623168a378252f27d6a737ac9",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-06T16:45:15.937Z",
                     "status": "test"
@@ -355,8 +355,8 @@
             "versions": [
                 {
                     "version": "2026.07.16.17.15.18",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%B3%96%E7%BA%B8%E6%8B%BC%E8%B4%B4.json",
-                    "sha256": "35be2406b6ca72191f15569160725c0c4aaa68757b2dfd4722768a3c0c528792",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%B3%96%E7%BA%B8%E6%8B%BC%E8%B4%B4.json",
+                    "sha256": "27481f4e5503adbd7a02b75b8f9a81a81ccff7145fc0821a8b6cc1b1ad9cd38c",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T17:15:18.695Z",
                     "status": "test"
@@ -371,7 +371,7 @@
             "versions": [
                 {
                     "version": "2026.07.23.20.20.51",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%96%B0%E8%8A%BD.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%96%B0%E8%8A%BD.json",
                     "sha256": "1aa15e9a8f6ecd5705bcd296086ad692904e676dac9892a2008937018ba0dd09",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-23T20:20:51.864Z",
@@ -387,8 +387,8 @@
             "versions": [
                 {
                     "version": "2026.07.16.17.15.18",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E7%A5%A8%E5%A5%B6%E9%93%BA.json",
-                    "sha256": "6bf2764ff78b326c3f8cef1e2ae70801ee0aa367e2017d57de45c22592fb12b1",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E7%A5%A8%E5%A5%B6%E9%93%BA.json",
+                    "sha256": "c2bf85965da7efa9fda2fdc40bb692163252813f4025f829594f2f682a384cee",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T17:15:18.695Z",
                     "status": "test"
@@ -403,7 +403,7 @@
             "versions": [
                 {
                     "version": "2026.08.11.09.38.22",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%83%9F%E6%B0%B4%E6%B8%A1.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%83%9F%E6%B0%B4%E6%B8%A1.json",
                     "sha256": "6efeb59b7e814eb0a28a4450d3bbd0da267fe3922dad39c626c8f29bf874adb9",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-11T09:38:22.830Z",
@@ -426,8 +426,8 @@
             "versions": [
                 {
                     "version": "2026.08.07.03.27.54",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A4%9C%E7%99%BE%E5%90%88%E9%93%9C%E7%AB%A0.json",
-                    "sha256": "53c96725ecb8303beb4ef1792d821c7a710c0f5de2d2c00bbc79c149ff193b88",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A4%9C%E7%99%BE%E5%90%88%E9%93%9C%E7%AB%A0.json",
+                    "sha256": "0a7865d1beb762b411b15b1d0053e77fb47fc3e3efd513dbc71e8ffcb946d9ee",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-07T03:27:54.394Z",
                     "status": "test"
@@ -442,7 +442,7 @@
             "versions": [
                 {
                     "version": "2026.08.04.10.46.36",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA.json",
                     "sha256": "c8acd6cc509c36322ccdd4f5654ab6ef3ecec2eb2ca1d93ee2d021d04367dbf6",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-04T10:46:36.688Z",
@@ -458,7 +458,7 @@
             "versions": [
                 {
                     "version": "2026.07.15.20.02.58",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%AE%87%E5%AE%99.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%AE%87%E5%AE%99.json",
                     "sha256": "785b0fb27310c5671acba7bad624bb8cbcc90d063d71fccee3eaf28788840d80",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-15T20:02:58.269Z",
@@ -474,8 +474,8 @@
             "versions": [
                 {
                     "version": "2026.08.02.01.49.58",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9B%A8%E9%A1%B5.json",
-                    "sha256": "a7e7e9f9dd19fca19ab5ba98337003f6dc474526926c7f765459d2f3511eb879",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9B%A8%E9%A1%B5.json",
+                    "sha256": "c79043fb7875369a6691df9e72a6467a4a54713dbef435b0bb6f5fe7076e9a9d",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-02T01:49:58.806Z",
                     "status": "test"
@@ -490,7 +490,7 @@
             "versions": [
                 {
                     "version": "2026.07.16.15.36.34",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%8E%89%E5%85%B0.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%8E%89%E5%85%B0.json",
                     "sha256": "4202d7c80b8a7bbb35a089089246ef1357ddc68eaf3c0b80f3ef298c3d1965e0",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T15:36:34.540Z",
@@ -506,8 +506,8 @@
             "versions": [
                 {
                     "version": "2026.08.01.15.42.41",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%88%E6%A1%82%E5%8D%B0%E5%88%B7%E6%89%80.json",
-                    "sha256": "3c1de75352f971070e9c81138f7c1180d21acdd35ce8d8273993e890c48889a7",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%88%E6%A1%82%E5%8D%B0%E5%88%B7%E6%89%80.json",
+                    "sha256": "9d3a56fc5be1beafe21ca7cbbcc798e9ab2d0007278e5de293f2df22315ccc87",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-01T15:42:41.688Z",
                     "status": "test"
@@ -522,7 +522,7 @@
             "versions": [
                 {
                     "version": "2026.07.16.16.23.58",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/Seka.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/2df5e08492f9946712962bf7ed3e2ad35ee7635f/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/Seka.json",
                     "sha256": "8d12f651c01acb6746937eaa6d6b7c459423c8a19a59ab20f8044826fa1fcf0b",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-07-16T16:23:58.210Z",
