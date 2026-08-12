@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "Zeya 酒馆主题库",
-    "updated_at": "2026-08-12T16:11:28.253Z",
+    "updated_at": "2026-08-12T17:01:14.766Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -613,41 +613,6 @@
                     "status": "test",
                     "source_file": "星票奶铺.json",
                     "appearance": "light",
-                    "approved": false
-                }
-            ]
-        },
-        {
-            "id": "theme-086eff582fb33f4a",
-            "name": "烟水渡",
-            "display_name": "烟水渡",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
-            "appearance": "light",
-            "latest_version": "test-0.2",
-            "default_version": "",
-            "versions": [
-                {
-                    "version": "test-0.2",
-                    "version_name": "测试版 0.2",
-                    "changelog": "同步主题文件更新。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/f2ed7238c33b49defe6b1067dfe8161ed726036e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%83%9F%E6%B0%B4%E6%B8%A1.json",
-                    "theme_name": "烟水渡",
-                    "sha256": "6efeb59b7e814eb0a28a4450d3bbd0da267fe3922dad39c626c8f29bf874adb9",
-                    "minimum_client_version": "1.14.0",
-                    "updated_at": "2026-08-11T09:38:22.830Z",
-                    "status": "test",
-                    "source_file": "烟水渡.json",
-                    "appearance": "light",
-                    "approved": false
-                },
-                {
-                    "version": "test-0.1",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/783e617122d577630e414d700cd90433798f5a5c/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%83%9F%E6%B0%B4%E6%B8%A1.json",
-                    "sha256": "a99e206621a7027c54c4f1b1bb118bb05dd653b345f43350b2aec504368500ce",
-                    "minimum_client_version": "1.14.0",
-                    "updated_at": "2026-08-09T06:06:40.249Z",
-                    "version_name": "测试版 0.1",
-                    "changelog": "首次收录到在线主题库。",
                     "approved": false
                 }
             ]
