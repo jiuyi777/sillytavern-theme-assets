@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-13T08:11:39.732Z",
+    "updated_at": "2026-08-13T08:11:44.639Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -20,7 +20,7 @@
             "logo_subject": "编辑标签草莓",
             "logo_effect": "柔和孔版印刷颗粒",
             "appearance": "light",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
                 {
@@ -30,6 +30,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
                     "theme_name": "草莓编辑部",
                     "sha256": "b3366c3e43219ccd522342db5d30a644dc34db87b096842b09a7045fd7ad2155",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-13T08:08:26.627Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "草莓编辑部.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.5",
+                    "version_name": "测试版 0.5",
+                    "changelog": "Current test-stage version; awaiting user approval.",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/eaf1393b37920ebbd2022f5e1a72043b4649c27e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
+                    "theme_name": "草莓编辑部",
+                    "sha256": "f0699ffae01e0c135cd72525b2685cf1be49ac86e386a1f76acabab82b140248",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-13T08:08:26.627Z",
                     "status": "test",
