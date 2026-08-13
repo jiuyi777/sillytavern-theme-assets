@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-13T06:25:14.571Z",
+    "updated_at": "2026-08-13T06:25:17.583Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -655,7 +655,7 @@
                     "version": "test-0.1",
                     "version_name": "日间测试版",
                     "changelog": "同步当前日间版本；保留原有布局、头像框、桌面与手机规则；视觉仍待用户实机确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/fedab9269e3292f338b517324ac50a5832a3fa00/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA.json",
                     "theme_name": "樱岚青笺",
                     "sha256": "c8acd6cc509c36322ccdd4f5654ab6ef3ecec2eb2ca1d93ee2d021d04367dbf6",
                     "minimum_client_version": "1.14.0",
