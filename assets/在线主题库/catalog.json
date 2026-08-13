@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-13T06:23:41.913Z",
+    "updated_at": "2026-08-13T06:25:14.571Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -646,24 +646,24 @@
             "id": "theme-97534227fafe4d6b",
             "name": "樱岚青笺",
             "display_name": "樱岚青笺",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "樱花纸面与瑞士纸币蓝粉色卡的 SillyTavern 全局主题，覆盖主聊天、顶栏、输入区与主要设置窗口。",
             "appearance": "light",
             "latest_version": "test-0.1",
             "default_version": "",
             "versions": [
                 {
                     "version": "test-0.1",
-                    "version_name": "测试版 0.1",
-                    "changelog": "首次收录到在线主题库。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/f2ed7238c33b49defe6b1067dfe8161ed726036e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA.json",
+                    "version_name": "日间测试版",
+                    "changelog": "同步当前日间版本；保留原有布局、头像框、桌面与手机规则；视觉仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA.json",
                     "theme_name": "樱岚青笺",
                     "sha256": "c8acd6cc509c36322ccdd4f5654ab6ef3ecec2eb2ca1d93ee2d021d04367dbf6",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-04T10:46:36.688Z",
                     "status": "test",
+                    "approved": false,
                     "source_file": "樱岚青笺.json",
-                    "appearance": "light",
-                    "approved": false
+                    "appearance": "light"
                 }
             ]
         },
