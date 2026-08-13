@@ -1,17 +1,31 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-13T06:28:28.702Z",
+    "updated_at": "2026-08-13T06:30:08.856Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
             "name": "草莓编辑部",
             "display_name": "草莓编辑部",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: 草莓编辑部.",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "测试版 0.2",
+                    "changelog": "Current test-stage version; awaiting user approval.",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
+                    "theme_name": "草莓编辑部",
+                    "sha256": "c97d0b411b0a9189412735cd7c00603cce22f29ff408864b4c673aea7161c9e2",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-13T06:23:28.635Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "草莓编辑部.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
@@ -347,6 +361,17 @@
             "name": "暮潮回声",
             "display_name": "暮潮回声",
             "description": "已完成主题，可远程安装、更新和切换任意保留版本。",
+            "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/d44862960fa1ec6526f3511b1569aff22e4b63b0/assets/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0/theme-logo.webp",
+            "logo_alt": "纸船驶过月牙回声浪的暮潮回声主题标识",
+            "logo_palette": [
+                "#fff8eb",
+                "#9ebbe8",
+                "#e6efff",
+                "#dba8c6",
+                "#26325f"
+            ],
+            "logo_subject": "纸船与月牙回声浪",
+            "logo_effect": "梦核颗粒印刷与细密半调",
             "appearance": "light",
             "latest_version": "0.1",
             "default_version": "0.1",
@@ -365,18 +390,7 @@
                     "appearance": "light",
                     "approved": true
                 }
-            ],
-            "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/d44862960fa1ec6526f3511b1569aff22e4b63b0/assets/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0/theme-logo.webp",
-            "logo_alt": "纸船驶过月牙回声浪的暮潮回声主题标识",
-            "logo_palette": [
-                "#fff8eb",
-                "#9ebbe8",
-                "#e6efff",
-                "#dba8c6",
-                "#26325f"
-            ],
-            "logo_subject": "纸船与月牙回声浪",
-            "logo_effect": "梦核颗粒印刷与细密半调"
+            ]
         },
         {
             "id": "theme-d0151421d0c3839d",
