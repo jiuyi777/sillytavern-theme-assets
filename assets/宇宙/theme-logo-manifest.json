@@ -1,0 +1,17 @@
+{
+  "theme_name": "宇宙",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "月脊展开编辑轨道的宇宙主题标识",
+  "logo_palette": [
+    "#e9ecf2",
+    "#101013",
+    "#c7d4c3",
+    "#bfc3cc",
+    "#e9c6c6"
+  ],
+  "logo_subject": "月脊与编辑轨道",
+  "logo_effect": "银色半调宇宙印刷",
+  "source_image": "exec-8a490db8-9cf1-4a1a-955a-0496d4d3e633.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

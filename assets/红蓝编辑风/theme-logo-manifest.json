@@ -1,0 +1,17 @@
+{
+  "theme_name": "红蓝编辑风",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "钢笔尖交叠套准菱形的红蓝编辑风主题标识",
+  "logo_palette": [
+    "#526b7b",
+    "#496b7e",
+    "#dcecf3",
+    "#3f718c",
+    "#f3ead6"
+  ],
+  "logo_subject": "钢笔尖与套准菱形",
+  "logo_effect": "红蓝错位凸版印刷",
+  "source_image": "exec-d5611ff4-f866-48bd-ba5f-bd29fbfb0bf3.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

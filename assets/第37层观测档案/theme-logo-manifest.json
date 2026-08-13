@@ -1,0 +1,17 @@
+{
+  "theme_name": "第37层观测档案",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "观测塔升出城市档案的主题标识",
+  "logo_palette": [
+    "#8c4e31",
+    "#6d5633",
+    "#d4b567",
+    "#456753",
+    "#a9823f"
+  ],
+  "logo_subject": "观测塔与档案城廓",
+  "logo_effect": "陈旧档案剪纸印刷",
+  "source_image": "exec-6a72a352-123a-4ae2-8eef-300bbbe0a4de.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

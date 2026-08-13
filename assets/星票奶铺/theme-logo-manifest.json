@@ -1,0 +1,17 @@
+{
+  "theme_name": "星票奶铺",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "星形票券与奶瓶盖组合的星票奶铺主题标识",
+  "logo_palette": [
+    "#607b88",
+    "#342923",
+    "#4a271f",
+    "#64806b",
+    "#608295"
+  ],
+  "logo_subject": "星票与奶瓶盖",
+  "logo_effect": "怀旧柜台盖印",
+  "source_image": "exec-f46d0d51-d8cd-4c8b-92e5-3081eac98eec.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

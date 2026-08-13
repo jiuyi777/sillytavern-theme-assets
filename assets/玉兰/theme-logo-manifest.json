@@ -1,0 +1,17 @@
+{
+  "theme_name": "玉兰",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "玉兰盛开在青玉格窗中的主题标识",
+  "logo_palette": [
+    "#110b0b",
+    "#de9960",
+    "#82b29b",
+    "#0f0c0b",
+    "#191312"
+  ],
+  "logo_subject": "玉兰与青玉格窗",
+  "logo_effect": "夜色漆雕与水墨",
+  "source_image": "exec-0029b21f-e416-475e-992d-050a9b5afa1c.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

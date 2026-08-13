@@ -1,0 +1,17 @@
+{
+  "theme_name": "霓虹夜刊",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "折页夜刊露出霓虹蕾丝心的主题标识",
+  "logo_palette": [
+    "#9f4858",
+    "#594845",
+    "#3b3132",
+    "#a87840",
+    "#ef7cab"
+  ],
+  "logo_subject": "夜刊折页与霓虹蕾丝心",
+  "logo_effect": "朋克夜间拼贴",
+  "source_image": "exec-e7e1debf-55b9-4714-9507-f4f0c3035c37.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

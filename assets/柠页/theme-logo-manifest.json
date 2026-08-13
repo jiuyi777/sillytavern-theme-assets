@@ -1,0 +1,17 @@
+{
+  "theme_name": "柠页",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "柠叶翻页露出微光坠的柠页主题标识",
+  "logo_palette": [
+    "#ded3b3",
+    "#e7ddbf",
+    "#65715e",
+    "#344631",
+    "#f0e7cf"
+  ],
+  "logo_subject": "柠叶翻页与微光坠",
+  "logo_effect": "克制藏书票纸纹",
+  "source_image": "exec-57135810-aee4-47a7-aca0-0288e590ed6b.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

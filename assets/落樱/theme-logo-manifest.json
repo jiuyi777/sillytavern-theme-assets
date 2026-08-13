@@ -1,0 +1,17 @@
+{
+  "theme_name": "落樱",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "花瓣落在编辑裁切标上的落樱主题标识",
+  "logo_palette": [
+    "#75696b",
+    "#3f3a3b",
+    "#8d7f81",
+    "#5e9e85",
+    "#438976"
+  ],
+  "logo_subject": "落樱花瓣与裁切标",
+  "logo_effect": "编辑纸张单版印刷",
+  "source_image": "exec-9e780f34-0fdc-4115-a982-ddd7ef5df5b2.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

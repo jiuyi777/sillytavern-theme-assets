@@ -1,0 +1,17 @@
+{
+  "theme_name": "莓笺留白",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "羽笔穿过莓形留白墨迹的莓笺留白主题标识",
+  "logo_palette": [
+    "#d37076",
+    "#8e1d29",
+    "#b32634",
+    "#ad8a53",
+    "#536345"
+  ],
+  "logo_subject": "莓形墨迹与羽笔留白",
+  "logo_effect": "华丽笺册印刷",
+  "source_image": "exec-417f6cb6-bcb8-4e37-aa8c-be4aca1f0f50.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

@@ -1,0 +1,17 @@
+{
+  "theme_name": "铅雪青",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "飞鸟越过山形等高线的铅雪青主题标识",
+  "logo_palette": [
+    "#79a9a8",
+    "#3e7075",
+    "#a9bfbd",
+    "#4f8589",
+    "#906f45"
+  ],
+  "logo_subject": "飞鸟与山形等高线",
+  "logo_effect": "铅笔霜粒印刷",
+  "source_image": "exec-e34498ae-a486-4b4f-a8f7-4888a8bf3dae.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

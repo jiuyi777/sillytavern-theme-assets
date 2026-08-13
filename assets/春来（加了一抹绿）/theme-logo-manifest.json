@@ -1,0 +1,17 @@
+{
+  "theme_name": "春来（加了一抹绿）",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "玻璃压叶的春来加绿版本主题标识",
+  "logo_palette": [
+    "#f8f5eb",
+    "#687169",
+    "#f8fbf7",
+    "#283d36",
+    "#e7e3d4"
+  ],
+  "logo_subject": "玻璃压叶",
+  "logo_effect": "植物单版印刷与磨砂玻璃",
+  "source_image": "exec-e1e966c8-5c12-42fc-88a6-6fbd069adb97.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

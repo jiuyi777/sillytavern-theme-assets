@@ -1,0 +1,17 @@
+{
+  "theme_name": "樱岚青笺·夜",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "月光照亮折纸樱花的樱岚青笺夜间主题标识",
+  "logo_palette": [
+    "#101828",
+    "#d4e1f7",
+    "#dce8ff",
+    "#91a8cb",
+    "#1a2942"
+  ],
+  "logo_subject": "月下折纸樱花",
+  "logo_effect": "月夜蓝晒纸纹",
+  "source_image": "exec-e866dded-b585-40c8-b75c-64880b0f6df8.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

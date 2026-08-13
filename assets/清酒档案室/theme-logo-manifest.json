@@ -1,0 +1,17 @@
+{
+  "theme_name": "清酒档案室",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "清酒杯嵌入档案标签的清酒档案室主题标识",
+  "logo_palette": [
+    "#8da09c",
+    "#6cb9ad",
+    "#17201f",
+    "#596a67",
+    "#5a9f9a"
+  ],
+  "logo_subject": "清酒杯与档案标签",
+  "logo_effect": "半透明档案盖印",
+  "source_image": "exec-cfde2872-42bd-421f-82ab-9e972444eb50.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

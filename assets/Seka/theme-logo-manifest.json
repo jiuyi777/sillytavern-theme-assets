@@ -1,0 +1,17 @@
+{
+  "theme_name": "Seka",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "两条折纸带交织成环结的Seka主题标识",
+  "logo_palette": [
+    "#819bc3",
+    "#243a5b",
+    "#7b3944",
+    "#765866",
+    "#9b5d69"
+  ],
+  "logo_subject": "双环折纸结",
+  "logo_effect": "克制双色丝网印刷",
+  "source_image": "exec-89af7b09-2897-4c87-aa79-9057a80a9fc1.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

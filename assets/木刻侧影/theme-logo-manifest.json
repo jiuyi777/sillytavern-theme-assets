@@ -1,0 +1,17 @@
+{
+  "theme_name": "木刻侧影",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "胡桃木雕刻侧影的木刻侧影主题标识",
+  "logo_palette": [
+    "#70472a",
+    "#f4e7c9",
+    "#352419",
+    "#c7a35e",
+    "#452a19"
+  ],
+  "logo_subject": "胡桃木侧影印版",
+  "logo_effect": "深浅两级木刻",
+  "source_image": "exec-408cbad5-a03f-4683-bb44-938ee57f0720.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

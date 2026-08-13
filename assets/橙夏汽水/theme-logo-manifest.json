@@ -1,0 +1,17 @@
+{
+  "theme_name": "橙夏汽水",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "橙片汽水瓶盖的橙夏汽水主题标识",
+  "logo_palette": [
+    "#80665b",
+    "#4c9da4",
+    "#f9d8c6",
+    "#ffd8c7",
+    "#fffdf7"
+  ],
+  "logo_subject": "橙片汽水盖",
+  "logo_effect": "错位印刷与汽泡颗粒",
+  "source_image": "exec-abc8279f-f62b-4e76-9cd6-d096a20aa183.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

@@ -1,0 +1,17 @@
+{
+  "theme_name": "雨页",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "雨滴停在折叠叶页上的雨页主题标识",
+  "logo_palette": [
+    "#87552f",
+    "#72612c",
+    "#45683f",
+    "#8d403d",
+    "#f7f5ed"
+  ],
+  "logo_subject": "叶页上的雨滴",
+  "logo_effect": "湿墨与层叠纸张",
+  "source_image": "exec-f26e04b3-c72b-42ad-a5c3-0228c1fb2eee.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

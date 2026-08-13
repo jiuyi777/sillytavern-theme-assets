@@ -1,21 +1,17 @@
 {
-    "theme_name": "暮潮回声",
-    "appearance": "light",
-    "logo_file": "theme-logo.webp",
-    "logo_alt": "纸船驶过月牙回声浪的暮潮回声主题标识",
-    "logo_palette": [
-        "#fff8eb",
-        "#9ebbe8",
-        "#e6efff",
-        "#dba8c6",
-        "#26325f"
-    ],
-    "logo_subject": "纸船与月牙回声浪",
-    "logo_effect": "梦核颗粒印刷与细密半调",
-    "evidence": [
-        "主题正文与基础色字段",
-        "固定梦核主视觉",
-        "send-boat、menu-waves、moon-compass 等真实主题物件"
-    ],
-    "prompt_summary": "将真实纸船、回声浪与月相罗盘收束为一个可在小尺寸识别的抽象标识，不包含文字、人物或假界面。"
+  "theme_name": "暮潮回声",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "纸船驶过月牙回声浪的暮潮回声主题标识",
+  "logo_palette": [
+    "#fff8eb",
+    "#9ebbe8",
+    "#e6efff",
+    "#dba8c6",
+    "#26325f"
+  ],
+  "logo_subject": "纸船与月牙回声浪",
+  "logo_effect": "梦核颗粒印刷与细密半调",
+  "source_image": "exec-a07a36fa-bb18-424a-9dca-d31131d42e07.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
 }

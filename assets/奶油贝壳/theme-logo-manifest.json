@@ -1,0 +1,17 @@
+{
+  "theme_name": "奶油贝壳",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "奶油色扇贝章的奶油贝壳主题标识",
+  "logo_palette": [
+    "#80695b",
+    "#526f7e",
+    "#8b7668",
+    "#766a63",
+    "#4d3b32"
+  ],
+  "logo_subject": "奶油扇贝章",
+  "logo_effect": "压花纸与细沙颗粒",
+  "source_image": "exec-597ef4e5-49f7-4fce-acb5-cd04343cceb0.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

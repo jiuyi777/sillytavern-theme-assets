@@ -1,0 +1,17 @@
+{
+  "theme_name": "夜百合铜章",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "百合与蜻蜓压在旧铜章上的主题标识",
+  "logo_palette": [
+    "#76551c",
+    "#526b3b",
+    "#9a681f",
+    "#486e78",
+    "#e0b848"
+  ],
+  "logo_subject": "夜百合与蜻蜓铜章",
+  "logo_effect": "旧铜雕刻与蓝绿铜锈",
+  "source_image": "exec-ecaee6e4-e83c-4a92-aed1-fa408e2eea3a.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

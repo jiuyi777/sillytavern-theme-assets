@@ -1,0 +1,17 @@
+{
+  "theme_name": "糖纸拼贴",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "多色糖纸折成星形的糖纸拼贴主题标识",
+  "logo_palette": [
+    "#536b78",
+    "#302a25",
+    "#4d241c",
+    "#5f7d68",
+    "#5c7b8d"
+  ],
+  "logo_subject": "糖纸折叠星",
+  "logo_effect": "撕边哑光拼贴",
+  "source_image": "exec-be092074-4a65-4a16-8887-528f133a28b9.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

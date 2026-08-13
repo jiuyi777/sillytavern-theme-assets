@@ -1,0 +1,17 @@
+{
+  "theme_name": "晴屿",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "太阳升起于岛屿纪念坠的晴屿主题标识",
+  "logo_palette": [
+    "#557487",
+    "#fff2bf",
+    "#5c9db4",
+    "#d9eff0",
+    "#9a7b42"
+  ],
+  "logo_subject": "太阳岛屿纪念坠",
+  "logo_effect": "柔和珐琅颗粒",
+  "source_image": "exec-9c2cb0d8-b8eb-4e8a-ba9b-f77f0b952fc8.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

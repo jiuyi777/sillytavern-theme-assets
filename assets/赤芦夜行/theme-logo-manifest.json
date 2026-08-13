@@ -1,0 +1,17 @@
+{
+  "theme_name": "赤芦夜行",
+  "appearance": "dark",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "红芦弯向夜路的赤芦夜行主题标识",
+  "logo_palette": [
+    "#0b0b0c",
+    "#050506",
+    "#080809",
+    "#e8e3d8",
+    "#ce3435"
+  ],
+  "logo_subject": "红芦与夜路",
+  "logo_effect": "高反差亚麻油毡刻印",
+  "source_image": "exec-d22ef9f7-adb3-44b2-ad3a-e150fa30d45f.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}

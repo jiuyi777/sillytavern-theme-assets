@@ -1,0 +1,17 @@
+{
+  "theme_name": "红莓序章",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "莓枝落在开篇书页上的红莓序章主题标识",
+  "logo_palette": [
+    "#fffaf1",
+    "#eaded0",
+    "#71835c",
+    "#8b625b",
+    "#6f4726"
+  ],
+  "logo_subject": "莓枝开篇书页",
+  "logo_effect": "复古藏书票木刻",
+  "source_image": "exec-397fc104-9247-4943-ab4b-abb265a50b65.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}
