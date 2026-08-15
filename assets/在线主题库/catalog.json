@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T19:00:46.917Z",
+    "updated_at": "2026-08-15T19:00:50.039Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -227,7 +227,7 @@
                     "version": "test-0.2",
                     "version_name": "引用加深修订版",
                     "changelog": "加深绿色行内引用与引用块，并隐藏全部滚动条外观；滚动功能保持不变。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e63f8de2e858fe23c11b13355bf431c4cc2242aa/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
                     "theme_name": "春来",
                     "sha256": "9552607dbf12404c6d80199c21ca679f857550a393555a86fa0512a0eef8df6e",
                     "minimum_client_version": "1.14.0",
