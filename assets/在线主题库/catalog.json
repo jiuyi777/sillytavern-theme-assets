@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T19:00:50.039Z",
+    "updated_at": "2026-08-15T19:00:56.996Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -257,7 +257,7 @@
             "id": "theme-7efce7aecdefbabb",
             "name": "春来（加了一抹绿）",
             "display_name": "春来（加了一抹绿）",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "春来加绿、正文毛玻璃与特殊字体排版版本。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%98%A5%E6%9D%A5%EF%BC%88%E5%8A%A0%E4%BA%86%E4%B8%80%E6%8A%B9%E7%BB%BF%EF%BC%89/theme-logo.webp",
             "logo_alt": "玻璃压叶的春来加绿版本主题标识",
             "logo_palette": [
@@ -270,9 +270,23 @@
             "logo_subject": "玻璃压叶",
             "logo_effect": "植物单版印刷与磨砂玻璃",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.3",
+                    "version_name": "毛玻璃＋引用加深版（修订）",
+                    "changelog": "正文毛玻璃与特殊字体保持不变，加深引用色面并隐藏全部滚动条外观。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E5%8A%A0%E4%BA%86%E4%B8%80%E6%8A%B9%E7%BB%BF%EF%BC%89.json",
+                    "theme_name": "春来（加了一抹绿）",
+                    "sha256": "276273d7b1ae7350cb22e6721ad7975b5039c0043c217fc359142d57bb2fd6d6",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-15T19:00:04.527Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来（加了一抹绿）.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "测试版 0.2",
