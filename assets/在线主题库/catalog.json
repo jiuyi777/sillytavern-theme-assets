@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T20:02:25.016Z",
+    "updated_at": "2026-08-15T20:04:48.220Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -813,6 +813,31 @@
                     "source_file": "铅雪青.json",
                     "appearance": "light",
                     "approved": false
+                }
+            ]
+        },
+        {
+            "id": "theme-61ef277c3931552f",
+            "name": "铅雪青·暗",
+            "display_name": "铅雪青 · 暗",
+            "description": "铅雪青 · 暗：深铅青底、霜白文字与飞鸟山形的低亮度长读主题。",
+            "appearance": "dark",
+            "latest_version": "test-0.1",
+            "default_version": "",
+            "versions": [
+                {
+                    "version": "test-0.1",
+                    "version_name": "暗",
+                    "changelog": "新增同构暗色版；完整替换表面、文字、边框、焦点与语义色，保留明版布局、功能、真实数据和素材，并同步预设与编辑态去光。视觉仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92%C2%B7%E6%9A%97.json",
+                    "theme_name": "铅雪青·暗",
+                    "sha256": "eb16fa9ca9b2d4bc51ee1a70b3cc0ec3e347657950b694dde65a8ac9a2290f34",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-15T19:53:17.138Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "铅雪青·暗.json",
+                    "appearance": "dark"
                 }
             ]
         },
