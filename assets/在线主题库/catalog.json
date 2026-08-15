@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T19:02:11.831Z",
+    "updated_at": "2026-08-15T19:02:14.488Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -302,7 +302,7 @@
                     "version": "test-0.3",
                     "version_name": "毛玻璃＋引用加深版（修订）",
                     "changelog": "正文毛玻璃与特殊字体保持不变，加深引用色面并隐藏全部滚动条外观。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E5%8A%A0%E4%BA%86%E4%B8%80%E6%8A%B9%E7%BB%BF%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/1e40c70cc5275423620254a89f275811400b543c/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E5%8A%A0%E4%BA%86%E4%B8%80%E6%8A%B9%E7%BB%BF%EF%BC%89.json",
                     "theme_name": "春来（加了一抹绿）",
                     "sha256": "276273d7b1ae7350cb22e6721ad7975b5039c0043c217fc359142d57bb2fd6d6",
                     "minimum_client_version": "1.14.0",
