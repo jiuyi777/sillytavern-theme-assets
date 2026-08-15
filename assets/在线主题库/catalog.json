@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T20:02:21.762Z",
+    "updated_at": "2026-08-15T20:02:25.016Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -790,7 +790,7 @@
                     "version": "test-0.2",
                     "version_name": "明",
                     "changelog": "修复预设操作键、预设弹窗与消息编辑态的黑色发光；保留原布局、真实数据、交互和素材。视觉仍待用户实机确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4476010103f57d1218965b3426edae5a31f7b817/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
                     "theme_name": "铅雪青",
                     "sha256": "846544138af1cd18f29314c84392fe5fb2bde38e99e598d27d3c29276d8984b7",
                     "minimum_client_version": "1.14.0",
