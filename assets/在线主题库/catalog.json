@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T19:00:59.805Z",
+    "updated_at": "2026-08-15T19:01:07.260Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -250,6 +250,31 @@
                     "source_file": "春来.json",
                     "appearance": "light",
                     "approved": false
+                }
+            ]
+        },
+        {
+            "id": "theme-e9bf1f18241723c9",
+            "name": "春来（暗色版）",
+            "display_name": "春来（暗色版）",
+            "description": "春来深夜庭园暗色 SillyTavern 主题。",
+            "appearance": "dark",
+            "latest_version": "test-0.1",
+            "default_version": "",
+            "versions": [
+                {
+                    "version": "test-0.1",
+                    "version_name": "暗色版 0.1",
+                    "changelog": "新增深夜庭园暗色配色、加深引用与无滚动条外观，保留原布局和真实交互。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_name": "春来（暗色版）",
+                    "sha256": "efdb8439a38a6d14f79d722680658dccf0f820bbc3499979e00aee4aa1063cd5",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-15T19:00:04.448Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来（暗色版）.json",
+                    "appearance": "dark"
                 }
             ]
         },
