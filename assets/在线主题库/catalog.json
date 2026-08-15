@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T19:04:43.288Z",
+    "updated_at": "2026-08-15T20:02:21.762Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -769,8 +769,8 @@
         {
             "id": "theme-796741df2bea80ea",
             "name": "铅雪青",
-            "display_name": "铅雪青",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "display_name": "铅雪青 · 明",
+            "description": "铅雪青 · 明：暖雪纸面、铅青线稿与飞鸟山形的清淡长读主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E9%93%85%E9%9B%AA%E9%9D%92/theme-logo.webp",
             "logo_alt": "飞鸟越过山形等高线的铅雪青主题标识",
             "logo_palette": [
@@ -783,9 +783,23 @@
             "logo_subject": "飞鸟与山形等高线",
             "logo_effect": "铅笔霜粒印刷",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "明",
+                    "changelog": "修复预设操作键、预设弹窗与消息编辑态的黑色发光；保留原布局、真实数据、交互和素材。视觉仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_name": "铅雪青",
+                    "sha256": "846544138af1cd18f29314c84392fe5fb2bde38e99e598d27d3c29276d8984b7",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-15T19:50:29.812Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "铅雪青.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
