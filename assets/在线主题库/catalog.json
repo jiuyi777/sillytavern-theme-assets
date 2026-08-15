@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T19:02:14.488Z",
+    "updated_at": "2026-08-15T19:04:30.759Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -220,9 +220,23 @@
             "logo_subject": "翻页春枝",
             "logo_effect": "植物木刻与纸纤维",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.3",
+                    "version_name": "正文毛玻璃＋引用加深版",
+                    "changelog": "毛玻璃仅保留在中央正文 #chat；顶栏、输入栏及其他窗口改为实色，同时加深引用并隐藏滚动条外观。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
+                    "theme_name": "春来",
+                    "sha256": "74f3720e6dd45de6e3114176c112fd327cd987069dac525079804a1f8638020f",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-15T19:04:03.015Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "引用加深修订版",
