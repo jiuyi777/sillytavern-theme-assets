@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T22:28:42.238Z",
+    "updated_at": "2026-08-15T22:28:45.289Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -530,7 +530,7 @@
                     "version": "test-0.2",
                     "version_name": "深海柔光调整",
                     "changelog": "调暗整体色卡与发光；正文和控件改为思源宋体 SC；压暗头像外圈与装饰；替换低亮度深海蝶梦背景；保留消息无框、头像尺寸中轴、手机正文轴、输入结构与蝴蝶滑杆功能。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/59f8254a68f82be0b0583b0ed785196547ab03ed/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
                     "theme_name": "蓝蝶",
                     "sha256": "fc63ae56db22da85427388ea799d3a5a2f03a58e5432a37a254f0dda09babe5e",
                     "minimum_client_version": "1.14.0",
