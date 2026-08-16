@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-16T22:02:20.798Z",
+    "updated_at": "2026-08-16T22:02:24.300Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1195,7 +1195,7 @@
                     "version": "test-0.2",
                     "version_name": "夜樱重制测试版",
                     "changelog": "重新生成独立夜晚樱花背景并重定夜间色调；保留原布局、头像框、交互与手机规则；视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA%C2%B7%E5%A4%9C.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/225e645292efbd59e4017f4e941f3a0dc203cb32/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA%C2%B7%E5%A4%9C.json",
                     "theme_name": "樱岚青笺·夜",
                     "sha256": "1b409b061c008586a14e8c359bd7a6a2b88fe96d3cd3535e05a839de069bcfcd",
                     "minimum_client_version": "1.14.0",
