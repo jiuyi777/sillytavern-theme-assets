@@ -1,0 +1,17 @@
+{
+  "theme_name": "樱岚青笺",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "蓝色笺纸折成樱花的樱岚青笺主题标识",
+  "logo_palette": [
+    "#28456f",
+    "#173f79",
+    "#8b9bc1",
+    "#edf3fb",
+    "#35568a"
+  ],
+  "logo_subject": "蓝笺折纸樱花",
+  "logo_effect": "日间蓝晒纸纹",
+  "source_image": "exec-720efae4-aed9-47e9-96f1-fc4fb880569a.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}
