@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-16T22:32:11.220Z",
+    "updated_at": "2026-08-16T22:32:16.660Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -308,7 +308,7 @@
                     "version": "test-0.3",
                     "version_name": "月下翡翠庭园重绘版",
                     "changelog": "重新生成独立夜色植物素材，以孔雀青、月白、灰玉绿和旧金重做色调；删除黑色压暗与细线分隔，改用成块纸面、宽色带和柔和层次。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/ba865bd67d6cdf8686b279148b9d2c8f6616e27b/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "6c4243d23f626ace883d2efcf321f8d51539b601cab4c7f8f03e01232f07440b",
                     "minimum_client_version": "1.14.0",
