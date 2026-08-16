@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-16T22:28:39.512Z",
+    "updated_at": "2026-08-16T22:28:46.309Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -530,7 +530,7 @@
                     "version": "test-0.3",
                     "version_name": "字体柔光纠正",
                     "changelog": "纠正亮度对象：恢复原蓝蝶背景、原面板色和头像装饰亮度；仅降低正文、辅助文字、姓名与标题颜色亮度；保留思源宋体 SC、消息无框、手机正文轴和蝴蝶滑杆。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/1a320f27a3d536dff622a948be479a4f0e8a0018/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
                     "theme_name": "蓝蝶",
                     "sha256": "677defe593b84a65c481e3ad6d6e64812635ed133b2870c1f781e968242036cb",
                     "minimum_client_version": "1.14.0",
