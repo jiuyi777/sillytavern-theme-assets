@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-15T22:28:45.289Z",
+    "updated_at": "2026-08-16T22:02:20.798Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1175,7 +1175,7 @@
             "id": "theme-cd3783c2c6a7a138",
             "name": "樱岚青笺·夜",
             "display_name": "樱岚青笺·夜",
-            "description": "樱岚青笺的深夜蓝黑变体，保留蓝粉纸面层级、头像框、长文本排版与完整窗口布局。",
+            "description": "真正月夜樱花背景的深夜主题，采用靛蓝夜空、银蓝花色与克制胭脂粉层级。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA%C2%B7%E5%A4%9C/theme-logo.webp",
             "logo_alt": "月光照亮折纸樱花的樱岚青笺夜间主题标识",
             "logo_palette": [
@@ -1188,9 +1188,23 @@
             "logo_subject": "月下折纸樱花",
             "logo_effect": "月夜蓝晒纸纹",
             "appearance": "dark",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "夜樱重制测试版",
+                    "changelog": "重新生成独立夜晚樱花背景并重定夜间色调；保留原布局、头像框、交互与手机规则；视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A8%B1%E5%B2%9A%E9%9D%92%E7%AC%BA%C2%B7%E5%A4%9C.json",
+                    "theme_name": "樱岚青笺·夜",
+                    "sha256": "1b409b061c008586a14e8c359bd7a6a2b88fe96d3cd3535e05a839de069bcfcd",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-16T21:29:04.182Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "樱岚青笺·夜.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "黑夜测试版",
