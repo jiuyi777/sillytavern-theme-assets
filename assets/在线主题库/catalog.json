@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T09:25:12.399Z",
+    "updated_at": "2026-08-17T09:56:25.937Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1551,7 +1551,7 @@
             "id": "theme-a0ffbb9b2f14853a",
             "name": "Seka",
             "display_name": "Seka",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: Seka.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/Seka/theme-logo.webp",
             "logo_alt": "两条折纸带交织成环结的Seka主题标识",
             "logo_palette": [
@@ -1564,9 +1564,23 @@
             "logo_subject": "双环折纸结",
             "logo_effect": "克制双色丝网印刷",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "测试版 0.2",
+                    "changelog": "Current test-stage version; awaiting user approval.",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/Seka.json",
+                    "theme_name": "Seka",
+                    "sha256": "2be9396f5f2b8f95a06e3ae34b269ffdc7cc02c3b6f646493592ef9041411e0e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T09:53:02.554Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "Seka.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
