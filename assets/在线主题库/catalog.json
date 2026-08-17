@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T00:52:56.459Z",
+    "updated_at": "2026-08-17T00:52:59.603Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -673,7 +673,7 @@
             "logo_subject": "胡桃木侧影印版",
             "logo_effect": "深浅两级木刻",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -683,6 +683,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
                     "theme_name": "木刻侧影",
                     "sha256": "a793185c4a667c17a2fe61fd11fa2de6659195bbfe6f3f1a6cba9dae08f32285",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T00:44:44.085Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "木刻侧影.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "v30 同轴刊头与无框正文",
+                    "changelog": "重建Character头像与整件木雕外框的同一坐标轴；限制长姓名并分离时间和楼层；删除聊天纸页细边、正文嵌套灰框和左右阴影；重排开放式长篇正文。保持chat_width=50、左右抽屉、User消息与底部木工台不变。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/cc30017171d74fa2ad7b99a6cf447ff298c9b698/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "theme_name": "木刻侧影",
+                    "sha256": "401821ed5c5d392423464c8464075542edd53583519ec6e91a27cf72acaba6bc",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-17T00:44:44.085Z",
                     "status": "test",
