@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T10:22:56.561Z",
+    "updated_at": "2026-08-17T10:39:53.740Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -313,11 +313,25 @@
             "id": "theme-e9bf1f18241723c9",
             "name": "春来（暗色版）",
             "display_name": "春来（暗色版）",
-            "description": "春来的森林纸景暗色分支：重新拉开正文、聊天底板、顶栏和输入栏的明度层级，减少泥绿感。",
+            "description": "春来的森林纸景暗色分支：降低正文、图标与宽屏花卉背景的眩光，适合长时间阅读。",
             "appearance": "dark",
-            "latest_version": "test-0.6",
+            "latest_version": "test-0.7",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.7",
+                    "version_name": "柔光护眼版",
+                    "changelog": "正文降为Moss、次要信息与图标降为Mist；正文纸页抬亮到柔和Pine，背景增加Charcoal遮罩并按屏高完整缩放，避免宽屏白花放大刺眼。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_name": "春来（暗色版）",
+                    "sha256": "5ecd43dd1acdf0ea7774acf4137b99d7b65729b5fb1b18693dbef4c643fdafd4",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T10:39:13.406Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来（暗色版）.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.6",
                     "version_name": "森林明度分层版",
