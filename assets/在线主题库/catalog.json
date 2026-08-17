@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T10:12:28.953Z",
+    "updated_at": "2026-08-17T10:14:01.946Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -758,7 +758,7 @@
             "id": "theme-3fcc4c81867e7a68",
             "name": "木刻侧影",
             "display_name": "木刻侧影",
-            "description": "羊皮纸与木刻刊头主题，Character使用真实头像、姓名、时间和楼层。",
+            "description": "暖纸与木刻材质的SillyTavern完整界面主题，保留真实角色数据与原生交互。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1/theme-logo.webp",
             "logo_alt": "胡桃木雕刻侧影的木刻侧影主题标识",
             "logo_palette": [
@@ -771,9 +771,23 @@
             "logo_subject": "胡桃木侧影印版",
             "logo_effect": "深浅两级木刻",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "v31 角色列表与预设去灰",
+                    "changelog": "修复角色列表红色内联标签、原生批量编辑铅笔命中层和预设管理器灰色表头／关闭态；未修改主聊天、chat_width=50、左右抽屉、User消息与输入区；视觉与点击仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "theme_name": "木刻侧影",
+                    "sha256": "30c4b2c4f4a1d11e8589f3f9563ae13e52041f1d8a993a8605505d4eb29b3ee1",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T09:54:06.652Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "木刻侧影.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "v30 同轴刊头与无框正文",
