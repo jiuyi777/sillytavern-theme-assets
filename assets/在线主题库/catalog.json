@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T06:26:25.304Z",
+    "updated_at": "2026-08-17T07:10:52.621Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -502,7 +502,7 @@
             "id": "theme-b754ec8399e460cf",
             "name": "红莓序章",
             "display_name": "红莓序章",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "红莓编辑纸页风完整酒馆主题，覆盖主聊天、设置窗口与移动端控件。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0/theme-logo.webp",
             "logo_alt": "莓枝落在开篇书页上的红莓序章主题标识",
             "logo_palette": [
@@ -515,9 +515,23 @@
             "logo_subject": "莓枝开篇书页",
             "logo_effect": "复古藏书票木刻",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "手机紧凑与控件去灰复修",
+                    "changelog": "移除突兀横线；恢复手机紧凑输入；修正顶栏打开层命中；清除提示词管理器与用户设置灰色、渐变和发光；重建可见复选框勾号。未修改头像、消息布局、正文轴和功能事件。视觉仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0.json",
+                    "theme_name": "红莓序章",
+                    "sha256": "bb5eecfc5795fec5255f8f4bd494947374b41314da5f4971b64ad6781f5e0833",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T07:03:37.068Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "红莓序章.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
