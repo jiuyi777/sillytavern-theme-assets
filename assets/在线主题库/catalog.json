@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T10:12:26.219Z",
+    "updated_at": "2026-08-17T10:12:28.953Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1298,7 +1298,7 @@
             "logo_subject": "夜百合与蜻蜓铜章",
             "logo_effect": "旧铜雕刻与蓝绿铜锈",
             "appearance": "dark",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -1308,6 +1308,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A4%9C%E7%99%BE%E5%90%88%E9%93%9C%E7%AB%A0.json",
                     "theme_name": "夜百合铜章",
                     "sha256": "82cfeafc3ce3291a9c71401ea9122b77926ae368179e5171410f8a4494803f29",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T10:12:21.464Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "夜百合铜章.json",
+                    "appearance": "dark"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "头像锚点微调测试版",
+                    "changelog": "修复：依据2026-08-17桌面截图微调Character真实头像在太阳章内的横纵中心。未修改：头像原图、正文、User、输入区、抽屉与其他窗口。已知：圈内偏白内容来自当前角色头像原图，仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e6d45a68b7ec8b172ae79de3178c3fb4b369b7e6/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A4%9C%E7%99%BE%E5%90%88%E9%93%9C%E7%AB%A0.json",
+                    "theme_name": "夜百合铜章",
+                    "sha256": "2167765a595c7575d2830e9618e88d2389bae8407fcfc3cbca243d7af592eaca",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-17T10:12:21.464Z",
                     "status": "test",
