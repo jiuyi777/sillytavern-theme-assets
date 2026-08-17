@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T08:02:54.541Z",
+    "updated_at": "2026-08-17T08:02:57.469Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -322,7 +322,7 @@
                     "version": "test-0.4",
                     "version_name": "森林纸景·宋体版",
                     "changelog": "采用森林五色色卡，重新生成贴近原版的稀疏暗色纸景；删除月亮、金色与华丽光效，暗色标题及正文统一宋体。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e40711956cfd23622e1284617e1aae9dbf40c457/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "adb4beb860ec861b776558f80cf4c588361e645dc78ac915a16c1b047ec7846d",
                     "minimum_client_version": "1.14.0",
