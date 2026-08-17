@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T08:16:06.048Z",
+    "updated_at": "2026-08-17T08:16:09.165Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -893,7 +893,7 @@
             "logo_subject": "夜刊折页与霓虹蕾丝心",
             "logo_effect": "朋克夜间拼贴",
             "appearance": "dark",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -903,6 +903,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
                     "theme_name": "霓虹夜刊",
                     "sha256": "a5571eb5808cb3be0acb7d7268f5c4cfe5822c7f5b21901ecf52a1e263d7c67e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T07:58:18.036Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "霓虹夜刊.json",
+                    "appearance": "dark"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "R18 手机桌面视觉统一",
+                    "changelog": "调整：手机恢复九入口同屏、宋体夜刊字体和分组蕾丝；修复：输入区偏蓝与跨端风格割裂。保留：User唱片卡、真实头像和桌面布局。已知：视觉待手机实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e8c73240c5957ef3464fec23bfb0e44049bae536/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
+                    "theme_name": "霓虹夜刊",
+                    "sha256": "d93ebb3acc21d9ce6ea542677ebcfd3b780513c7017b1b012acff59be448d79d",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-17T07:58:18.036Z",
                     "status": "test",
