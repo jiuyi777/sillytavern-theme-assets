@@ -1,13 +1,13 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T00:52:59.603Z",
+    "updated_at": "2026-08-17T06:26:22.515Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
             "name": "草莓编辑部",
             "display_name": "草莓编辑部",
-            "description": "SillyTavern interface theme: 草莓编辑部.",
+            "description": "草莓编辑部风格的纸张排版主题，覆盖主聊天、顶栏、输入区与常用设置窗口。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8/theme-logo.webp",
             "logo_alt": "编辑标签与草莓组合的草莓编辑部主题标识",
             "logo_palette": [
@@ -20,8 +20,8 @@
             "logo_subject": "编辑标签草莓",
             "logo_effect": "柔和孔版印刷颗粒",
             "appearance": "light",
-            "latest_version": "test-0.7",
-            "default_version": "",
+            "latest_version": "test-0.6",
+            "default_version": "0.1",
             "versions": [
                 {
                     "version": "test-0.6",
@@ -48,6 +48,20 @@
                     "updated_at": "2026-08-15T20:51:08.289Z",
                     "status": "test",
                     "approved": false,
+                    "source_file": "草莓编辑部.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "0.1",
+                    "version_name": "正式版 V0.1",
+                    "changelog": "首次正式公开版本；采用草莓编辑部纸张与深红绿配色，保留真实 User 数据，并完成手机正文轴、顶栏抽屉、无滚动条外观与翻页布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
+                    "theme_name": "草莓编辑部",
+                    "sha256": "b94808a2a8d854d12daabc824b4ee30156bddab43de146af2933dff7acbf786e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-15T20:51:08.289Z",
+                    "status": "release",
+                    "approved": true,
                     "source_file": "草莓编辑部.json",
                     "appearance": "light"
                 },
