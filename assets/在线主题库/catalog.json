@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T11:51:14.991Z",
+    "updated_at": "2026-08-17T11:51:17.911Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1354,7 +1354,7 @@
             "logo_subject": "夜百合与蜻蜓铜章",
             "logo_effect": "旧铜雕刻与蓝绿铜锈",
             "appearance": "dark",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
                 {
@@ -1364,6 +1364,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A4%9C%E7%99%BE%E5%90%88%E9%93%9C%E7%AB%A0.json",
                     "theme_name": "夜百合铜章",
                     "sha256": "c792e27b1bcbbe8f61580b6f4043691b92b6e5501818d1f3ebbead7509db06fc",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T11:51:10.557Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "夜百合铜章.json",
+                    "appearance": "dark"
+                },
+                {
+                    "version": "test-0.5",
+                    "version_name": "Character父级去灰测试版",
+                    "changelog": "修复：直接覆盖气泡模式在Character消息父级生成的灰色背景、边框、圆角、阴影与滤镜，使卷首和正文两侧显示主题纸面。未修改：头像位置、尺寸与来源，卷首和正文尺寸，User、输入区、抽屉、顶栏及其他窗口。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/93dd14eab2303131ab31695696681402b57fc07c/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A4%9C%E7%99%BE%E5%90%88%E9%93%9C%E7%AB%A0.json",
+                    "theme_name": "夜百合铜章",
+                    "sha256": "52c49b701d6dd705bd35b25bed4a1e713a5d3fccba98773e81816491a1c531ab",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-17T11:51:10.557Z",
                     "status": "test",
