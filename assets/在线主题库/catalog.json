@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T08:16:09.165Z",
+    "updated_at": "2026-08-17T09:25:08.835Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -313,11 +313,25 @@
             "id": "theme-e9bf1f18241723c9",
             "name": "春来（暗色版）",
             "display_name": "春来（暗色版）",
-            "description": "春来的森林纸景暗色分支：保留原版稀疏庭园构图，采用 Pine、Charcoal、Moss、Forest、Olive 五色色卡与宋体排版。",
+            "description": "春来的森林纸景暗色分支：移除聊天底板方格纹，并提高浅色标签、引用与元信息的文字对比度。",
             "appearance": "dark",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.5",
+                    "version_name": "无格纹·清晰文字版",
+                    "changelog": "删除聊天底板28px重复格纹；深底使用苔灰字，Moss浅底改用Charcoal深字，并提高时间、标签、选中项与引用文字可读性。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_name": "春来（暗色版）",
+                    "sha256": "907d6eac8bcbe24769ad38c071e651294263ec825453ce6a4784b1f2ceafef25",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T09:24:26.831Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来（暗色版）.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "森林纸景·宋体版",
