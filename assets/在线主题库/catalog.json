@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T08:05:18.138Z",
+    "updated_at": "2026-08-17T08:16:06.048Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -880,7 +880,7 @@
             "id": "theme-588ff1d8e96f61ae",
             "name": "霓虹夜刊",
             "display_name": "霓虹夜刊",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "黑胶夜刊、旧纸长文与地雷系小物构成的深色编辑部主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A/theme-logo.webp",
             "logo_alt": "折页夜刊露出霓虹蕾丝心的主题标识",
             "logo_palette": [
@@ -893,9 +893,23 @@
             "logo_subject": "夜刊折页与霓虹蕾丝心",
             "logo_effect": "朋克夜间拼贴",
             "appearance": "dark",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "R18 手机桌面视觉统一",
+                    "changelog": "调整：手机恢复九入口同屏、宋体夜刊字体和分组蕾丝；修复：输入区偏蓝与跨端风格割裂。保留：User唱片卡、真实头像和桌面布局。已知：视觉待手机实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
+                    "theme_name": "霓虹夜刊",
+                    "sha256": "a5571eb5808cb3be0acb7d7268f5c4cfe5822c7f5b21901ecf52a1e263d7c67e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T07:58:18.036Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "霓虹夜刊.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
