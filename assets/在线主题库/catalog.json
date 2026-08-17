@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T10:39:53.740Z",
+    "updated_at": "2026-08-17T10:39:57.649Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -322,7 +322,7 @@
                     "version": "test-0.7",
                     "version_name": "柔光护眼版",
                     "changelog": "正文降为Moss、次要信息与图标降为Mist；正文纸页抬亮到柔和Pine，背景增加Charcoal遮罩并按屏高完整缩放，避免宽屏白花放大刺眼。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e274033cd2b644f12300870bcab96a58113657f9/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "5ecd43dd1acdf0ea7774acf4137b99d7b65729b5fb1b18693dbef4c643fdafd4",
                     "minimum_client_version": "1.14.0",
