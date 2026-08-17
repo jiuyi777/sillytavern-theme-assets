@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T08:05:14.846Z",
+    "updated_at": "2026-08-17T08:05:18.138Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -693,7 +693,7 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -703,6 +703,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
                     "theme_name": "莓笺留白",
                     "sha256": "c3b5db2f5acb464498ff346413161997819c5133d8c164bdcebf3d0de90f4d1c",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T07:59:13.857Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "手机阅读轴与控件修正版",
+                    "changelog": "修复手机Character正文偏左；隐藏滚动条外观但保留滚动；校正range手柄与轨道中心；移除九项顶栏主题图片下的原生图标残影。未修改桌面三栏、User头像、世界书内部布局和输入区。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/bfc78b8612a067661029a331343fe28d9ba61d95/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "05fe01156982b960eb6bc2ee5ac8513d530880a7e38c01a2670ef3c5bd896782",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-17T07:59:13.857Z",
                     "status": "test",
