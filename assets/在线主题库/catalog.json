@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T08:02:57.469Z",
+    "updated_at": "2026-08-17T08:05:14.846Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -680,7 +680,7 @@
             "id": "theme-aa21df83df39ff6a",
             "name": "莓笺留白",
             "display_name": "莓笺留白",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "奶油纸页与莓红植物物件的全局酒馆主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD/theme-logo.webp",
             "logo_alt": "羽笔穿过莓形留白墨迹的莓笺留白主题标识",
             "logo_palette": [
@@ -693,9 +693,23 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "手机阅读轴与控件修正版",
+                    "changelog": "修复手机Character正文偏左；隐藏滚动条外观但保留滚动；校正range手柄与轨道中心；移除九项顶栏主题图片下的原生图标残影。未修改桌面三栏、User头像、世界书内部布局和输入区。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "c3b5db2f5acb464498ff346413161997819c5133d8c164bdcebf3d0de90f4d1c",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-17T07:59:13.857Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
