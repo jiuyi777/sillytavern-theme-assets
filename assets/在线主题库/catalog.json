@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T10:22:51.452Z",
+    "updated_at": "2026-08-17T10:22:56.561Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -322,7 +322,7 @@
                     "version": "test-0.6",
                     "version_name": "森林明度分层版",
                     "changelog": "正文纸页改为Pine到Charcoal深纸面，聊天底板更通透；顶栏与输入栏分层，文字改为中性浅Moss，顶底图标恢复完整不透明度。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e5194abea3f1cddfd8b512d12852222096303b25/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "3a9a4fe7ffb07fa84ed3f42b9dec650ecbe0f3574282ba03224064ed2f885059",
                     "minimum_client_version": "1.14.0",
