@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-17T06:26:22.515Z",
+    "updated_at": "2026-08-17T06:26:25.304Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -20,7 +20,7 @@
             "logo_subject": "编辑标签草莓",
             "logo_effect": "柔和孔版印刷颗粒",
             "appearance": "light",
-            "latest_version": "test-0.6",
+            "latest_version": "test-0.7",
             "default_version": "0.1",
             "versions": [
                 {
