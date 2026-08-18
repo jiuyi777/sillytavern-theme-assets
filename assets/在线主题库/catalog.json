@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-18T08:36:50.599Z",
+    "updated_at": "2026-08-18T08:36:55.062Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1069,7 +1069,7 @@
             "logo_subject": "柠叶翻页与微光坠",
             "logo_effect": "克制藏书票纸纹",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -1079,6 +1079,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9F%A0%E9%A1%B5.json",
                     "theme_name": "柠页",
                     "sha256": "985e2b1a4d2ae68339096374f6f7c300c64daf538cce9788f331c97efaf9ffc3",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-18T08:25:34.560Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "柠页.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "手机顶栏点击修复测试版",
+                    "changelog": "预设标题去灰；移除顶栏下滑线；修复手机顶栏横向滚动抢触摸并保留九个原生按钮。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/9f3ea6bfdc4db258de1dd011b344ba7fe8edef00/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9F%A0%E9%A1%B5.json",
+                    "theme_name": "柠页",
+                    "sha256": "4bf581aff36427d230a00606f7372692e101f6014ff6eafb70a012acae75c250",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-18T08:25:34.560Z",
                     "status": "test",
