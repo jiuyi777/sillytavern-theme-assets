@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-18T05:48:00.700Z",
+    "updated_at": "2026-08-18T05:48:04.729Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -322,7 +322,7 @@
                     "version": "test-0.8",
                     "version_name": "扩展深色·背景全铺版",
                     "changelog": "清除扩展标题普通与悬停态的米白渐变，改为Pine深底、Moss文字和Mist箭头；撤回按屏高缩放，背景恢复cover整窗铺满，不再出现侧边空带。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4ba44436555bcae02abf174541adfec9a93fd9f6/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "3f2950286e1b6ed315b92bb8c71895498245203da32b515d4a3e032439ab9e96",
                     "minimum_client_version": "1.14.0",
