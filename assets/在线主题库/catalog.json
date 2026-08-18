@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-18T08:36:55.062Z",
+    "updated_at": "2026-08-18T09:57:21.052Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -313,11 +313,25 @@
             "id": "theme-e9bf1f18241723c9",
             "name": "春来（暗色版）",
             "display_name": "春来（暗色版）",
-            "description": "春来的森林纸景暗色分支：修复扩展列表亮色渐变残留，并恢复背景整窗连续铺满。",
+            "description": "春来原版构图的低饱和夜纸暗色版，宋体正文、清晰功能层级与正文区毛玻璃。",
             "appearance": "dark",
-            "latest_version": "test-0.8",
+            "latest_version": "test-0.9",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.9",
+                    "version_name": "夜纸直译·语义重构版",
+                    "changelog": "严格沿用原版花枝、庭园和中央留白；重建暗色表面/文字/强调语义，修复浅底白字与泥绿挤压；正文标题保留宋体，密集控件恢复无衬线；删除暗色覆盖层可见细线，毛玻璃仍只作用于正文区。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_name": "春来（暗色版）",
+                    "sha256": "7e3bec6385dd91518de9efbd71e34fe0593eabea6344996f5a0d0df41e74cb2e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-18T09:49:07.189Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来（暗色版）.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.8",
                     "version_name": "扩展深色·背景全铺版",
