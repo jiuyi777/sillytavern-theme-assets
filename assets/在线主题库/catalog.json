@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-18T05:48:04.729Z",
+    "updated_at": "2026-08-18T07:39:59.713Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -892,7 +892,7 @@
             "id": "theme-1f8ca7a3ab2b8a6b",
             "name": "暮潮回声",
             "display_name": "暮潮回声",
-            "description": "已完成主题，可远程安装、更新和切换任意保留版本。",
+            "description": "梦核泳池与奶油蓝长文界面的暮潮回声主题",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0/theme-logo.webp",
             "logo_alt": "纸船驶过月牙回声浪的暮潮回声主题标识",
             "logo_palette": [
@@ -905,9 +905,23 @@
             "logo_subject": "纸船与月牙回声浪",
             "logo_effect": "梦核颗粒印刷与细密半调",
             "appearance": "light",
-            "latest_version": "0.1",
+            "latest_version": "test-0.1",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.1",
+                    "version_name": "手机提示词列表修复测试版",
+                    "changelog": "修复手机提示词列表拖拽柄占列、名称与操作按钮及Token向右重叠裁切；手机AI回复格式面板改为不透底。未修改桌面列表、主聊天、顶栏、输入、世界书和既有正式版。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
+                    "theme_name": "暮潮回声",
+                    "sha256": "14f3ffac17e3e55df07c47e76b66b4f9dc6fc6de3fbf6f1844f657af8f5786f0",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-18T07:39:02.254Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "暮潮回声.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "0.1",
                     "version_name": "正式版 V0.1",
