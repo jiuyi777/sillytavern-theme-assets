@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-18T10:45:59.884Z",
+    "updated_at": "2026-08-18T10:46:03.068Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -322,7 +322,7 @@
                     "version": "test-0.10",
                     "version_name": "白花夜纸·用户选图版",
                     "changelog": "按用户选择替换为白花更清晰的暗色背景候选；保留夜纸语义色阶、宋体正文/无衬线控件分工、无细线状态与仅正文区毛玻璃；其他布局和功能不变。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/54a40c2b7d0be66ddc441696eeba903fd60899f4/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "4285a893cc93251648a3ccd68d4fa2394d1b21fcbfc19cdff1c4c0b8d185bed5",
                     "minimum_client_version": "1.14.0",
