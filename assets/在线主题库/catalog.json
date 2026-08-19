@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-18T10:46:03.068Z",
+    "updated_at": "2026-08-19T15:31:43.946Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1259,7 +1259,7 @@
             "id": "theme-27de646c998be893",
             "name": "晴屿",
             "display_name": "晴屿",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "清爽海岸小物与杂志阅读感的日间 SillyTavern 主题",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%99%B4%E5%B1%BF/theme-logo.webp",
             "logo_alt": "太阳升起于岛屿纪念坠的晴屿主题标识",
             "logo_palette": [
@@ -1272,9 +1272,23 @@
             "logo_subject": "太阳岛屿纪念坠",
             "logo_effect": "柔和珐琅颗粒",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "窄屏输入与快捷回复修复",
+                    "changelog": "修复手机及PC窄聊天区中快捷回复多行撑高底栏、输入栏悬空及发送区不可见；保留按钮、输入自动增高和横向滑动。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
+                    "theme_name": "晴屿",
+                    "sha256": "35ba3f67a315907c6b81bf578ec94457a20606b20c3de8d7d6410813483dbc29",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-19T15:31:29.578Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "晴屿.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
