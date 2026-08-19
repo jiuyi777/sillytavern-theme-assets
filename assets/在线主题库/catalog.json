@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-19T15:32:10.410Z",
+    "updated_at": "2026-08-19T15:32:18.500Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -190,7 +190,7 @@
             "logo_subject": "橙片汽水盖",
             "logo_effect": "错位印刷与汽泡颗粒",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -200,6 +200,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
                     "theme_name": "橙夏汽水",
                     "sha256": "82a0fcb9223c211031c2114c543be915c9091c2192d823468186f6239c34c9c7",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-19T15:31:58.690Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "橙夏汽水.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "窄屏输入与快捷回复修复",
+                    "changelog": "修复手机及PC窄聊天区中快捷回复多行撑高底栏、输入栏悬空及发送区不可见；保留按钮、输入自动增高和横向滑动。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/aeb4f22f09f2199cbaaf62e425d240bd3953d04e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+                    "theme_name": "橙夏汽水",
+                    "sha256": "e14148ca83f953050e309650e69e777cf901614498850f1c23ad93182c205e64",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-08-19T15:31:58.690Z",
                     "status": "test",
