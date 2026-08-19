@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-19T15:31:51.232Z",
+    "updated_at": "2026-08-19T15:32:10.410Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -177,7 +177,7 @@
             "id": "theme-82dc9c8c9529dc4b",
             "name": "橙夏汽水",
             "display_name": "橙夏汽水",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "水果汽水小物与轻杂志阅读感的日间 SillyTavern 主题",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4/theme-logo.webp",
             "logo_alt": "橙片汽水瓶盖的橙夏汽水主题标识",
             "logo_palette": [
@@ -190,9 +190,23 @@
             "logo_subject": "橙片汽水盖",
             "logo_effect": "错位印刷与汽泡颗粒",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "窄屏输入与快捷回复修复",
+                    "changelog": "修复手机及PC窄聊天区中快捷回复多行撑高底栏、输入栏悬空及发送区不可见；保留按钮、输入自动增高和横向滑动。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+                    "theme_name": "橙夏汽水",
+                    "sha256": "82a0fcb9223c211031c2114c543be915c9091c2192d823468186f6239c34c9c7",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-19T15:31:58.690Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "橙夏汽水.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
