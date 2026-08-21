@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-21T12:18:00.891Z",
+    "updated_at": "2026-08-21T12:37:41.580Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -277,7 +277,7 @@
             "id": "theme-6159ffc9ff958fea",
             "name": "春来",
             "display_name": "春来",
-            "description": "春来纸本植物编辑风 SillyTavern 主题。",
+            "description": "春来暖纸亮色版，宋体正文、柔和引用与正文区毛玻璃。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%98%A5%E6%9D%A5/theme-logo.webp",
             "logo_alt": "嫩枝从翻页纸角生长的春来主题标识",
             "logo_palette": [
@@ -290,9 +290,23 @@
             "logo_subject": "翻页春枝",
             "logo_effect": "植物木刻与纸纤维",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "柔和引用版",
+                    "changelog": "降低亮色版行内引用与引用块的明暗反差，改为浅透明绿灰底和深绿灰字，并移除引用块亮边投影；保留暖纸背景、宋体、布局与仅正文区毛玻璃。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
+                    "theme_name": "春来",
+                    "sha256": "82738fc09202cb932728fb7a411346ffa9eefb863b159577d1045047b5bd888d",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-21T12:30:08.106Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.3",
                     "version_name": "正文毛玻璃＋引用加深版",
