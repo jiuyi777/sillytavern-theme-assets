@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-21T12:45:50.591Z",
+    "updated_at": "2026-08-21T13:14:49.223Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -190,9 +190,23 @@
             "logo_subject": "橙片汽水盖",
             "logo_effect": "错位印刷与汽泡颗粒",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "高级格式勾号状态修复",
+                    "changelog": "修复高级格式已勾选复选框浅色叠浅色和状态对比不足；完整保留勾号生成链、焦点环与禁用反馈；未修改晴屿及其他窗口。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+                    "theme_name": "橙夏汽水",
+                    "sha256": "93fd73f006a4925b3a44dd4792f4f94465b9a3cb33468531a90aad28d3b2205e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-21T11:49:50.336Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "橙夏汽水.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "窄屏输入与快捷回复修复",
