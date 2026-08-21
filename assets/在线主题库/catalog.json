@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-19T15:32:18.500Z",
+    "updated_at": "2026-08-21T12:17:54.343Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -341,11 +341,25 @@
             "id": "theme-e9bf1f18241723c9",
             "name": "春来（暗色版）",
             "display_name": "春来（暗色版）",
-            "description": "春来原版白花构图的暗色版，深纸中央留白、宋体正文与正文区毛玻璃。",
+            "description": "春来白花夜纸暗色版，宋体正文、柔和引用与正文区毛玻璃。",
             "appearance": "dark",
-            "latest_version": "test-0.10",
+            "latest_version": "test-0.11",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.11",
+                    "version_name": "柔和引用版",
+                    "changelog": "降低行内引用与引用块的明暗反差，改为深橄榄半透明底和柔和灰苔字；保留暗色背景、宋体、界面层级、无细线方案与仅正文区毛玻璃。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_name": "春来（暗色版）",
+                    "sha256": "258e85c74760501f18d2de89149649a3533414b767763d4d0c255923a2ee4c3e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-08-21T12:16:29.494Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来（暗色版）.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.10",
                     "version_name": "白花夜纸·用户选图版",
