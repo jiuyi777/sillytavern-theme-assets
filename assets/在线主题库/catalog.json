@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-21T12:45:24.227Z",
+    "updated_at": "2026-08-21T12:45:28.827Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1224,7 +1224,7 @@
                     "version": "test-0.3",
                     "version_name": "明·结构修复",
                     "changelog": "修复Android主聊天消息高度、头像槽与正文流向重叠；重建复选框选中勾号生成链；清除消息铅笔运行时发光。等待自动检查顺序复测。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/475e237a97c7f580dc907bc89ca248ae69cd6844/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
                     "theme_name": "铅雪青",
                     "sha256": "0a91c61d27c52aa74072678df2afbdb6e529d59063fb0d965a2adaaff5edaae5",
                     "minimum_client_version": "1.14.0",
