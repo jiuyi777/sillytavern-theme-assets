@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-23T11:25:37.825Z",
+    "updated_at": "2026-08-23T11:25:42.568Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -392,7 +392,7 @@
                     "version": "test-0.12",
                     "version_name": "宋体·松炭面板版",
                     "changelog": "暗色正文与设置界面统一恢复宋体；设置页改为低饱和松炭色分层并删除卡片左侧绿色竖带。保留背景花图、聊天正文结构、引用与代码语义、布局和真实交互。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/09b599a184ba47abc737caa837ece6adf72403fe/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "3024d89cb1adac7f85e64d61a8c721b88ef1ddfe873e4e09eb0532320ae42aca",
                     "minimum_client_version": "1.14.0",
