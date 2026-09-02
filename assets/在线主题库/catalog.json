@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-08-23T11:25:42.568Z",
+    "updated_at": "2026-09-02T21:12:30.131Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1246,7 +1246,7 @@
             "id": "theme-796741df2bea80ea",
             "name": "铅雪青",
             "display_name": "铅雪青 · 明",
-            "description": "铅雪青 · 明：暖雪纸面、铅青线稿与飞鸟山形的清淡长读主题。",
+            "description": "暖雪纸面与铅雪青线稿风格的酒馆界面主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E9%93%85%E9%9B%AA%E9%9D%92/theme-logo.webp",
             "logo_alt": "飞鸟越过山形等高线的铅雪青主题标识",
             "logo_palette": [
@@ -1259,9 +1259,23 @@
             "logo_subject": "飞鸟与山形等高线",
             "logo_effect": "铅笔霜粒印刷",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "手机总结框自适应修复",
+                    "changelog": "修复：手机消息总结框和代码块横向撑出正文列；改为跟随手机正文宽度并自动折行。保留：桌面代码块横向滚动、表格滚动、消息父级、头像、输入区与暗版不变。视觉与滑动交互待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_name": "铅雪青",
+                    "sha256": "28807f5f259e0bd5b4d6ec689aaab0058f872803d6f8b17e6edbd89892c00958",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-02T21:11:47.582Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "铅雪青.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.3",
                     "version_name": "明·结构修复",
