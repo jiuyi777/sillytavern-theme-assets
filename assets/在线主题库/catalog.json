@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-02T21:12:30.131Z",
+    "updated_at": "2026-09-02T21:12:35.905Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1266,7 +1266,7 @@
                     "version": "test-0.4",
                     "version_name": "手机总结框自适应修复",
                     "changelog": "修复：手机消息总结框和代码块横向撑出正文列；改为跟随手机正文宽度并自动折行。保留：桌面代码块横向滚动、表格滚动、消息父级、头像、输入区与暗版不变。视觉与滑动交互待用户实机确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/061cf8e08ca5d1f71c08e8616fef3b6e4c6d8f1a/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
                     "theme_name": "铅雪青",
                     "sha256": "28807f5f259e0bd5b4d6ec689aaab0058f872803d6f8b17e6edbd89892c00958",
                     "minimum_client_version": "1.14.0",
