@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T09:45:36.874Z",
+    "updated_at": "2026-09-03T10:41:18.055Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -834,7 +834,7 @@
             "id": "theme-aa21df83df39ff6a",
             "name": "莓笺留白",
             "display_name": "莓笺留白",
-            "description": "奶油纸页与莓红植物物件的全局酒馆主题。",
+            "description": "草莓纸刊风浅色主题，覆盖主聊天、输入区与常用酒馆窗口。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD/theme-logo.webp",
             "logo_alt": "羽笔穿过莓形留白墨迹的莓笺留白主题标识",
             "logo_palette": [
@@ -847,9 +847,23 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "手机输入与正文轴修复",
+                    "changelog": "缩小手机输入框与按钮占高；按真实 fa-magic-wand-sparkles 生成层替换魔棒；清除 User 头像灰化、低透明和发光；建立手机 Character 正文可见居中窄列。未修改按钮功能、滚动、桌面三栏、世界书、配色与消息数据；视觉待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "04aadfa7c91497a0aac410b54513f41507fe931649cd5cf4bcaf2ba5e6652810",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-03T10:37:42.935Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "手机阅读轴与控件修正版",
