@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T09:05:20.809Z",
+    "updated_at": "2026-09-03T09:23:01.736Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -711,9 +711,23 @@
             "logo_subject": "莓枝开篇书页",
             "logo_effect": "复古藏书票木刻",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "Android 输入与滚动条复修",
+                    "changelog": "修复 Android 紧凑输入字号继承图标尺度导致的巨大文字和横向裁切；补充全局无滚动条外观内核，保留触摸、滚轮、键盘与内容滚动。未修改消息排版、红莓色卡、高级格式、复选框和功能事件。视觉仍待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0.json",
+                    "theme_name": "红莓序章",
+                    "sha256": "8351e0c4630a1ad5e7861d122154fbe0d43f36e656d3f5dc061277e78ea4f64c",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T01:05:46.330Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "红莓序章.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "手机紧凑与控件去灰复修",
