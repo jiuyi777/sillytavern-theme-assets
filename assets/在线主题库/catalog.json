@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T09:05:16.740Z",
+    "updated_at": "2026-09-03T09:05:20.809Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1949,7 +1949,7 @@
                     "version": "0.1",
                     "version_name": "正式版 V0.1",
                     "changelog": "首次正式公开版本；完成长文本消息卡、左右花饰头像、桌面与约390px手机布局、紧凑双行输入区、复选框高对比、提示词与代码块可读性，并隐藏滚动条外观但保留滚动交互。保留真实角色与用户数据及原生按钮功能。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/Seka.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4184b94330521f4fab7bd6fbf3ed9510cb650cf5/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/Seka.json",
                     "theme_name": "Seka",
                     "sha256": "49f68fefd5b897c8df3c5ddd3f1a96cbc62f586bf05fb641d076bef63a78f4e5",
                     "minimum_client_version": "1.14.0",
