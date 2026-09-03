@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T10:51:41.192Z",
+    "updated_at": "2026-09-03T22:06:18.575Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -862,7 +862,7 @@
             "id": "theme-aa21df83df39ff6a",
             "name": "莓笺留白",
             "display_name": "莓笺留白",
-            "description": "草莓纸刊风浅色主题，覆盖主聊天、输入区与常用酒馆窗口。",
+            "description": "莓笺留白局部修复隐藏测试版",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD/theme-logo.webp",
             "logo_alt": "羽笔穿过莓形留白墨迹的莓笺留白主题标识",
             "logo_palette": [
@@ -875,9 +875,23 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.5",
+            "latest_version": "test-0.6",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.6",
+                    "version_name": "test-0.6",
+                    "changelog": "修复 st-chatu8 右侧悬浮画笔的蓝灰圆底与发光：接管普通、悬停、按下、焦点和加载状态；保留位置、尺寸、拖动与点击功能。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "8d99c6d9876e107f6fee353d9ee62d297d596306dc31e88f6904f8e87bfe17e2",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-03T22:05:28.897Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "手机输入与正文轴修复",
