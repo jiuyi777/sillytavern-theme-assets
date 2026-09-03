@@ -1,13 +1,13 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T10:41:21.975Z",
+    "updated_at": "2026-09-03T10:51:36.477Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
             "name": "草莓编辑部",
             "display_name": "草莓编辑部",
-            "description": "草莓编辑部风格的纸张排版主题，覆盖主聊天、顶栏、输入区与常用设置窗口。",
+            "description": "草莓编辑部纸张排版风格的完整 SillyTavern 界面主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8/theme-logo.webp",
             "logo_alt": "编辑标签与草莓组合的草莓编辑部主题标识",
             "logo_palette": [
@@ -20,9 +20,23 @@
             "logo_subject": "编辑标签草莓",
             "logo_effect": "柔和孔版印刷颗粒",
             "appearance": "light",
-            "latest_version": "test-0.7",
+            "latest_version": "test-0.8",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.8",
+                    "version_name": "手机输入区紧凑版",
+                    "changelog": "缩小手机底部输入行、文本框内边距与按钮尺寸，保留安全区和多行自适应；桌面输入区及其他布局不变。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
+                    "theme_name": "草莓编辑部",
+                    "sha256": "c749ea0b45ca088cf11cdc45bceb5d87bb422faddcd02c4e7257701d14c6702f",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-03T10:50:57.841Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "草莓编辑部.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.6",
                     "version_name": "测试版 0.6",
