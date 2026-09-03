@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T09:45:33.027Z",
+    "updated_at": "2026-09-03T09:45:36.874Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1167,7 +1167,7 @@
             "logo_subject": "柠叶翻页与微光坠",
             "logo_effect": "克制藏书票纸纹",
             "appearance": "light",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
                 {
@@ -1177,6 +1177,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9F%A0%E9%A1%B5.json",
                     "theme_name": "柠页",
                     "sha256": "0673f868d7503a3efdc462daebe0e43ccd630f4ee2014d560665203e7260da45",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-03T09:41:59.516Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "柠页.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.5",
+                    "version_name": "手机顶栏事件目标修复测试版",
+                    "changelog": "撤销主题对顶栏图标点击命中和手机 drawer 几何的干预，恢复 SillyTavern 原生顶栏事件链。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/c24f95b3c9dadda39d557ce3b1b97648eadd96fb/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9F%A0%E9%A1%B5.json",
+                    "theme_name": "柠页",
+                    "sha256": "e9fb40642f23578706639f0ca6204df57cd62ecf7c68452411a1db2e50d8ed6d",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-03T09:41:59.516Z",
                     "status": "test",
