@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T07:04:56.401Z",
+    "updated_at": "2026-09-04T07:05:00.514Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -888,7 +888,7 @@
                     "version": "test-0.2",
                     "version_name": "滑杆单线版",
                     "changelog": "调整：移除文本补全滑杆三层容器的重复边框与底色，只保留滑杆轨道和数值框。未修改滑杆尺寸、拖动功能及其他窗口。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/f8310fdfb3812fa2202530d61ae3f3dac092ec28/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
                     "theme_name": "落樱",
                     "sha256": "e73215c5234d2f17bebdbea1c83fc9fc77f5f23c9922e4b50e1b323cff9cb390",
                     "minimum_client_version": "1.14.0",
