@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-03T22:06:24.241Z",
+    "updated_at": "2026-09-04T06:51:33.712Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1348,13 +1348,13 @@
             "versions": [
                 {
                     "version": "test-0.4",
-                    "version_name": "手机总结框自适应修复",
-                    "changelog": "修复：手机消息总结框和代码块横向撑出正文列；改为跟随手机正文宽度并自动折行。保留：桌面代码块横向滚动、表格滚动、消息父级、头像、输入区与暗版不变。视觉与滑动交互待用户实机确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/061cf8e08ca5d1f71c08e8616fef3b6e4c6d8f1a/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "version_name": "双版本手机输入区同源修复",
+                    "changelog": "修复：亮版Android三段输入区保持单行，菜单与魔法棒并排，为发送/停止保留右槽，占位文字恢复正常手机字号。保留：桌面与高级格式配色不变。视觉与交互待自动检查复测。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
                     "theme_name": "铅雪青",
                     "sha256": "28807f5f259e0bd5b4d6ec689aaab0058f872803d6f8b17e6edbd89892c00958",
                     "minimum_client_version": "1.14.0",
-                    "updated_at": "2026-09-02T21:11:47.582Z",
+                    "updated_at": "2026-09-04T06:50:05.770Z",
                     "status": "test",
                     "approved": false,
                     "source_file": "铅雪青.json",
