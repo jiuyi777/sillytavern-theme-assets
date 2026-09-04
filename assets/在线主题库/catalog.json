@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T07:12:58.627Z",
+    "updated_at": "2026-09-04T09:35:15.088Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -946,7 +946,7 @@
             "id": "theme-aa21df83df39ff6a",
             "name": "莓笺留白",
             "display_name": "莓笺留白",
-            "description": "莓笺留白局部修复隐藏测试版",
+            "description": "奶油纸张与草莓植物围边的清新留白主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD/theme-logo.webp",
             "logo_alt": "羽笔穿过莓形留白墨迹的莓笺留白主题标识",
             "logo_palette": [
@@ -959,9 +959,23 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.7",
+            "latest_version": "test-0.8",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.8",
+                    "version_name": "全局草莓纸景背景测试",
+                    "changelog": "新增：真实 #bg1 全局草莓纸景背景。未修改：#chat、消息布局、正文轴、头像、输入区、高级格式、桌面三栏与其他窗口。已知：固定背景测试会暂时覆盖酒馆背景选择器画面，视觉待用户实机确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "584385291fb1f073fbf4a897c145e93eb65cf09a6494ab59dbd4fb8c5ac76a1b",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-04T09:34:12.127Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.6",
                     "version_name": "test-0.6",
