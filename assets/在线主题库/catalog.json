@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T07:03:22.823Z",
+    "updated_at": "2026-09-04T07:03:26.029Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1392,7 +1392,7 @@
                     "version": "test-0.5",
                     "version_name": "角色刊头居中结构重建",
                     "changelog": "修复：撤销角色头像左、正文右的普通消息布局；以内容驱动Grid恢复标题居中、雪山与头像居中、正文在下方的铅雪青刊头。头像不使用绝对定位，长标题和长正文继续参与消息计高。保留：User消息、手机输入区、高级格式和亮版配色不变。视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/418b62b31c3c41f2ad3395edfaaeb39386f120d7/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92.json",
                     "theme_name": "铅雪青",
                     "sha256": "a0a73ed870d55c2afe393bf4a2d1bba958191ec8d3f2cfc74fa8505d41374e31",
                     "minimum_client_version": "1.14.0",
