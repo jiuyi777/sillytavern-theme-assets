@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T06:55:17.368Z",
+    "updated_at": "2026-09-04T06:55:21.666Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -448,7 +448,7 @@
                     "version": "test-0.13",
                     "version_name": "引用渐隐版",
                     "changelog": "调整：正文行内引用与整段引用改为左浓右淡的连续苔绿渐变。保留：宋体、聊天结构、背景图、按钮与输入区不变。视觉仍待用户导入确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e6818df0f8e5a3f80d657b3dd4833266076681ec/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5%EF%BC%88%E6%9A%97%E8%89%B2%E7%89%88%EF%BC%89.json",
                     "theme_name": "春来（暗色版）",
                     "sha256": "08c34ef20abee71fbad87cfa07729bc75d133f159e5ba8d4e22428abb9462731",
                     "minimum_client_version": "1.14.0",
