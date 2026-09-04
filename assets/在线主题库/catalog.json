@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T07:03:26.029Z",
+    "updated_at": "2026-09-04T07:03:48.350Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1466,9 +1466,23 @@
             "display_name": "铅雪青 · 暗",
             "description": "铅雪青的深色派生版本，保留同源线稿结构与低亮度阅读配色。",
             "appearance": "dark",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "角色刊头居中结构重建",
+                    "changelog": "修复：暗版从当前亮版同源生成，以内容驱动Grid恢复标题居中、雪山与头像居中、正文在下方的铅雪青刊头。头像不使用绝对定位，长标题和长正文继续参与消息计高。保留：手机输入区、高级格式和暗版配色不变。视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92%C2%B7%E6%9A%97.json",
+                    "theme_name": "铅雪青·暗",
+                    "sha256": "6865b7ca8dc87e74cf1591e29eb85c0470079ab61b9b749b30a651f5cdcd9a20",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-04T07:02:31.394Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "铅雪青·暗.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.3",
                     "version_name": "双版本手机输入区同源修复",
