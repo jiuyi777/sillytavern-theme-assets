@@ -1,0 +1,17 @@
+{
+  "theme_name": "草莓编辑部",
+  "appearance": "light",
+  "logo_file": "theme-logo.webp",
+  "logo_alt": "编辑标签与草莓组合的草莓编辑部主题标识",
+  "logo_palette": [
+    "#f8f0e4",
+    "#fff3e7",
+    "#1d291d",
+    "#d9dfc6",
+    "#e5aaa4"
+  ],
+  "logo_subject": "编辑标签草莓",
+  "logo_effect": "柔和孔版印刷颗粒",
+  "source_image": "exec-ac2e3e43-f1e9-4ca3-833f-6c4eaec6646b.png",
+  "evidence_note": "由在线主题当前版本的真实色值、资源文件名与主题身份共同建立；没有专属物件素材时才使用主题名作为最后级证据。"
+}
