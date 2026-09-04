@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T06:52:09.227Z",
+    "updated_at": "2026-09-04T06:52:23.766Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -20,9 +20,23 @@
             "logo_subject": "编辑标签草莓",
             "logo_effect": "柔和孔版印刷颗粒",
             "appearance": "light",
-            "latest_version": "test-0.9",
+            "latest_version": "test-0.10",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.10",
+                    "version_name": "手机输入文字缩小版",
+                    "changelog": "手机输入文字由 1em 缩小为 0.88rem，占位文字同步继承；保留上一版紧凑输入高度，桌面字号及其他界面不变。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8D%89%E8%8E%93%E7%BC%96%E8%BE%91%E9%83%A8.json",
+                    "theme_name": "草莓编辑部",
+                    "sha256": "bf7923f74b60e311e3a20b1b58c259c47e17ed7b4469e434f6c9e6d679e5e709",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-04T06:51:43.220Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "草莓编辑部.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.8",
                     "version_name": "手机输入区紧凑版",
