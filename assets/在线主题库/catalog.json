@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T07:03:53.675Z",
+    "updated_at": "2026-09-04T07:04:56.401Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -868,7 +868,7 @@
             "id": "theme-f33b994170ac9d01",
             "name": "落樱",
             "display_name": "落樱",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "浅樱粉与薄荷绿的编辑排版风酒馆主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%90%BD%E6%A8%B1/theme-logo.webp",
             "logo_alt": "花瓣落在编辑裁切标上的落樱主题标识",
             "logo_palette": [
@@ -881,9 +881,23 @@
             "logo_subject": "落樱花瓣与裁切标",
             "logo_effect": "编辑纸张单版印刷",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "滑杆单线版",
+                    "changelog": "调整：移除文本补全滑杆三层容器的重复边框与底色，只保留滑杆轨道和数值框。未修改滑杆尺寸、拖动功能及其他窗口。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_name": "落樱",
+                    "sha256": "e73215c5234d2f17bebdbea1c83fc9fc77f5f23c9922e4b50e1b323cff9cb390",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-04T07:02:16.997Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "落樱.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
