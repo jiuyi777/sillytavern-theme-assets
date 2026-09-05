@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-04T09:35:19.028Z",
+    "updated_at": "2026-09-05T12:03:45.958Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -796,7 +796,7 @@
             "id": "theme-b754ec8399e460cf",
             "name": "红莓序章",
             "display_name": "红莓序章",
-            "description": "红莓编辑纸页风完整酒馆主题，覆盖主聊天、设置窗口与移动端控件。",
+            "description": "红莓编辑纸页风酒馆主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0/theme-logo.webp",
             "logo_alt": "莓枝落在开篇书页上的红莓序章主题标识",
             "logo_palette": [
@@ -809,9 +809,23 @@
             "logo_subject": "莓枝开篇书页",
             "logo_effect": "复古藏书票木刻",
             "appearance": "light",
-            "latest_version": "0.1",
+            "latest_version": "test-0.1",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.1",
+                    "version_name": "预设详细编辑窗层级修复",
+                    "changelog": "移除顶栏任意抽屉打开时强制提升至4005并隔离层叠的规则，恢复官方窗口层级，修复预设小铅笔详细编辑窗可能被面板遮挡的问题。静态检查通过，点击显示待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0.json",
+                    "theme_name": "红莓序章",
+                    "sha256": "760b87dcd7c54750e15a7c8c00efb63bbd070f46721500569766017271e05e92",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-05T12:02:08.999Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "红莓序章.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "0.1",
                     "version_name": "红莓序章正式版",
