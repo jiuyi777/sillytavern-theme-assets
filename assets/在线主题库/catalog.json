@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-06T12:38:39.216Z",
+    "updated_at": "2026-09-06T12:38:43.241Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1163,7 +1163,7 @@
             "logo_subject": "胡桃木侧影印版",
             "logo_effect": "深浅两级木刻",
             "appearance": "light",
-            "latest_version": "test-0.8",
+            "latest_version": "test-0.9",
             "default_version": "",
             "versions": [
                 {
@@ -1173,6 +1173,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
                     "theme_name": "木刻侧影",
                     "sha256": "d200a6db50f3f2302443bfeb4ae2847430976ed038644fef94811215c9b33b60",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-06T12:36:27.111Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "木刻侧影.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.9",
+                    "version_name": "v36 输入框字号修正",
+                    "changelog": "输入文字改为跟随酒馆正常字体设置，解除图标父级字号继承；提示文字稍小并左对齐，清除仅≤400px生效的固定字号冲突。仅改输入与提示字号规则，表头、正文、头像、按钮与动态高度保持不变。静态检查通过，视觉待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/74d00c29fff76a351ac82298da513c04bb143a3c/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "theme_name": "木刻侧影",
+                    "sha256": "b83d41a4e07895c1b5cc7f7af5a6819bdd6452a9a5d35ee39aada3f434331dd5",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-06T12:36:27.111Z",
                     "status": "test",
