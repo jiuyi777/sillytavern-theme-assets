@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-06T11:34:49.469Z",
+    "updated_at": "2026-09-06T11:34:52.862Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1163,7 +1163,7 @@
             "logo_subject": "胡桃木侧影印版",
             "logo_effect": "深浅两级木刻",
             "appearance": "light",
-            "latest_version": "test-0.6",
+            "latest_version": "test-0.7",
             "default_version": "",
             "versions": [
                 {
@@ -1173,6 +1173,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
                     "theme_name": "木刻侧影",
                     "sha256": "7d184f207da6549d2cda992a0d9c5411dbb8a16d95ae07e1496fdf9521ee7397",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-06T11:31:26.160Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "木刻侧影.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.7",
+                    "version_name": "v35 手机表头与阅读宽度修正",
+                    "changelog": "移除Character正文54rem上限；手机消息头两层元数据改内容驱动分行，操作按钮独立行并修正命中层；保留真实头像裁切、正文排版、聊天默认宽度50、抽屉和v34输入及高级格式修复。静态检查通过，视觉与真实点击待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/92fb185aa82cf43548d4a44dbb4bade9b8c75088/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "theme_name": "木刻侧影",
+                    "sha256": "e5f565cf5aefd8bf5ef50d7d869c358d5a383033fe04cfed45766286dbfcfed2",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-06T11:31:26.160Z",
                     "status": "test",
