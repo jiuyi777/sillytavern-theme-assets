@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-06T11:17:09.412Z",
+    "updated_at": "2026-09-06T11:34:49.469Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1150,7 +1150,7 @@
             "id": "theme-3fcc4c81867e7a68",
             "name": "木刻侧影",
             "display_name": "木刻侧影",
-            "description": "暖纸与木刻材质的SillyTavern完整界面主题，保留真实角色数据与原生交互。",
+            "description": "深木雕刻圆章与暖色纸张阅读主题",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1/theme-logo.webp",
             "logo_alt": "胡桃木雕刻侧影的木刻侧影主题标识",
             "logo_palette": [
@@ -1163,9 +1163,23 @@
             "logo_subject": "胡桃木侧影印版",
             "logo_effect": "深浅两级木刻",
             "appearance": "light",
-            "latest_version": "test-0.5",
+            "latest_version": "test-0.6",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.6",
+                    "version_name": "v35 手机表头与阅读宽度修正",
+                    "changelog": "移除Character正文54rem上限；手机消息头两层元数据改内容驱动分行，操作按钮独立行并修正命中层；保留真实头像裁切、正文排版、聊天默认宽度50、抽屉和v34输入及高级格式修复。静态检查通过，视觉与真实点击待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "theme_name": "木刻侧影",
+                    "sha256": "7d184f207da6549d2cda992a0d9c5411dbb8a16d95ae07e1496fdf9521ee7397",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-06T11:31:26.160Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "木刻侧影.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "v31 角色列表与预设去灰",
