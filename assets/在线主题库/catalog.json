@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-05T12:03:51.124Z",
+    "updated_at": "2026-09-06T11:17:04.208Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -974,7 +974,7 @@
             "id": "theme-aa21df83df39ff6a",
             "name": "莓笺留白",
             "display_name": "莓笺留白",
-            "description": "奶油纸张与草莓植物围边的清新留白主题。",
+            "description": "缩小输入文字与占位提示；不改输入框盒模型、按钮和其他布局。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD/theme-logo.webp",
             "logo_alt": "羽笔穿过莓形留白墨迹的莓笺留白主题标识",
             "logo_palette": [
@@ -987,9 +987,23 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.9",
+            "latest_version": "test-0.10",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.10",
+                    "version_name": "test-0.10",
+                    "changelog": "桌面输入文字改为13至16px，手机改为11至12px；placeholder同步继承字号与行高。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "1e3c06f732c82f82bcec07789da7b21a7fdedb534a57350779c858a7f3db1d26",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-06T11:16:18.089Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.8",
                     "version_name": "全局草莓纸景背景测试",
