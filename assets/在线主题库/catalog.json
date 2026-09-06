@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-06T11:17:04.208Z",
+    "updated_at": "2026-09-06T11:17:09.412Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -987,7 +987,7 @@
             "logo_subject": "莓形墨迹与羽笔留白",
             "logo_effect": "华丽笺册印刷",
             "appearance": "light",
-            "latest_version": "test-0.10",
+            "latest_version": "test-0.11",
             "default_version": "",
             "versions": [
                 {
@@ -997,6 +997,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
                     "theme_name": "莓笺留白",
                     "sha256": "1e3c06f732c82f82bcec07789da7b21a7fdedb534a57350779c858a7f3db1d26",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-06T11:16:18.089Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "莓笺留白.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.11",
+                    "version_name": "test-0.10",
+                    "changelog": "桌面输入文字改为13至16px，手机改为11至12px；placeholder同步继承字号与行高。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/07b1a97e3f9554870dd2b63516945caa1d9b2810/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8E%93%E7%AC%BA%E7%95%99%E7%99%BD.json",
+                    "theme_name": "莓笺留白",
+                    "sha256": "c9eb77283e4351a88045b5903ee91eca905a30d2be173d2100099766fb3c0b99",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-06T11:16:18.089Z",
                     "status": "test",
