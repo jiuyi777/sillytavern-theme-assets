@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-08T10:09:11.069Z",
+    "updated_at": "2026-09-08T10:09:14.046Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1933,7 +1933,7 @@
                     "version": "0.1",
                     "version_name": "正式版 V0.1",
                     "changelog": "正式发布当前已确认版本；包含 Android Character 头像安全区与滚动条外观修复。未新增其他布局或配色改动。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%96%B0%E8%8A%BD.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e168e74803bf2c39735f72e99b41a6ad165fd7b0/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%96%B0%E8%8A%BD.json",
                     "theme_name": "新芽",
                     "sha256": "757749252f86e45ebc01ccbc0f8df3b1e360eab5d609ce655f5826b3b25f3725",
                     "minimum_client_version": "1.14.0",
