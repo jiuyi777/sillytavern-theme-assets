@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-08T10:18:54.017Z",
+    "updated_at": "2026-09-08T10:18:56.911Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -944,7 +944,7 @@
                     "version": "test-0.3",
                     "version_name": "樱花顶栏版",
                     "changelog": "顶栏改为纸纹淡粉底与细边，插头添加樱花叶片，保留连接状态提示；聊天、滑杆、抽屉布局不变。静态检查通过，视觉待确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/dbab787aaced2b9c7efb113d91e6eafd9fe85e4b/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
                     "theme_name": "落樱",
                     "sha256": "541734a475dc5857fa918bca5bbd2e5b9f1babcb07003b412fadb036ae0e9edb",
                     "minimum_client_version": "1.14.0",
