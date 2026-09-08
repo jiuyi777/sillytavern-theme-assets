@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-08T09:09:57.835Z",
+    "updated_at": "2026-09-08T10:09:11.069Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1913,7 +1913,7 @@
             "id": "theme-027e893b2e94b94a",
             "name": "新芽",
             "display_name": "新芽",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "清新纸张质感的 SillyTavern 全界面主题，包含主聊天、输入区、常用窗口与手机布局。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%96%B0%E8%8A%BD/theme-logo.webp",
             "logo_alt": "两片新芽从信封缝生长的主题标识",
             "logo_palette": [
@@ -1926,9 +1926,23 @@
             "logo_subject": "信封新芽",
             "logo_effect": "简洁亚麻油毡印刷",
             "appearance": "light",
-            "latest_version": "test-0.1",
-            "default_version": "",
+            "latest_version": "0.1",
+            "default_version": "0.1",
             "versions": [
+                {
+                    "version": "0.1",
+                    "version_name": "正式版 V0.1",
+                    "changelog": "正式发布当前已确认版本；包含 Android Character 头像安全区与滚动条外观修复。未新增其他布局或配色改动。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%96%B0%E8%8A%BD.json",
+                    "theme_name": "新芽",
+                    "sha256": "757749252f86e45ebc01ccbc0f8df3b1e360eab5d609ce655f5826b3b25f3725",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T01:20:40.294Z",
+                    "status": "release",
+                    "approved": true,
+                    "source_file": "新芽.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
