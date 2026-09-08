@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-08T09:09:54.824Z",
+    "updated_at": "2026-09-08T09:09:57.835Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1163,7 +1163,7 @@
             "logo_subject": "胡桃木侧影印版",
             "logo_effect": "深浅两级木刻",
             "appearance": "light",
-            "latest_version": "test-0.10",
+            "latest_version": "test-0.11",
             "default_version": "",
             "versions": [
                 {
@@ -1173,6 +1173,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
                     "theme_name": "木刻侧影",
                     "sha256": "8066e56c5701155a37636c8e12519a763187d9cb9c81f66f4a90cf85e299a7e3",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-08T09:08:18.550Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "木刻侧影.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.11",
+                    "version_name": "v37 长输入换行与边界修正",
+                    "changelog": "输入区显式固定菜单、输入、发送三槽，不依赖原生排序；限制输入父链宽度，长文字框内换行；自动增高至12rem或30dvh后内部滚动。保留v36输入字号、头像、表头、正文及原生按钮功能。静态检查通过，实机待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/4ad9f4df81ee973f8d6b2610abb7a1ca24f54c1e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%A8%E5%88%BB%E4%BE%A7%E5%BD%B1.json",
+                    "theme_name": "木刻侧影",
+                    "sha256": "18ba68a9600700f62cbf451f50a49a16768387b2bfb2422603ea8ef08f19f88e",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-08T09:08:18.550Z",
                     "status": "test",
