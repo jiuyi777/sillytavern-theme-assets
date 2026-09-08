@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-08T10:09:14.046Z",
+    "updated_at": "2026-09-08T10:18:54.017Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -924,7 +924,7 @@
             "id": "theme-f33b994170ac9d01",
             "name": "落樱",
             "display_name": "落樱",
-            "description": "浅樱粉与薄荷绿的编辑排版风酒馆主题。",
+            "description": "樱花粉与薄荷绿的纸感酒馆主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%90%BD%E6%A8%B1/theme-logo.webp",
             "logo_alt": "花瓣落在编辑裁切标上的落樱主题标识",
             "logo_palette": [
@@ -937,9 +937,23 @@
             "logo_subject": "落樱花瓣与裁切标",
             "logo_effect": "编辑纸张单版印刷",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.3",
+                    "version_name": "樱花顶栏版",
+                    "changelog": "顶栏改为纸纹淡粉底与细边，插头添加樱花叶片，保留连接状态提示；聊天、滑杆、抽屉布局不变。静态检查通过，视觉待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_name": "落樱",
+                    "sha256": "541734a475dc5857fa918bca5bbd2e5b9f1babcb07003b412fadb036ae0e9edb",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-08T10:18:23.216Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "落樱.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.2",
                     "version_name": "滑杆单线版",
