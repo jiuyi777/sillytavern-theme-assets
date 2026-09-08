@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-08T10:21:40.576Z",
+    "updated_at": "2026-09-08T10:21:43.146Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1768,7 +1768,7 @@
             "logo_subject": "清酒杯与档案标签",
             "logo_effect": "半透明档案盖印",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -1778,6 +1778,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%B8%85%E9%85%92%E6%A1%A3%E6%A1%88%E5%AE%A4.json",
                     "theme_name": "清酒档案室",
                     "sha256": "ffd79a67f78911130b23a5c13bd38f410a3e163e49176984faf78ba5de3236e7",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-08T10:18:57.218Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "清酒档案室.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "顶部整格点击修复",
+                    "changelog": "修复顶栏文字与留白点击触发抽屉关开冲突：原生图标宿主覆盖整格，标签不拦截点击，悬停限鼠标设备。保留九项标签、档案式主聊天和手机输入栏修复。静态检查通过，实际点击待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/44e74b5e35217ac5c20306cce53301d387d6c6c4/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%B8%85%E9%85%92%E6%A1%A3%E6%A1%88%E5%AE%A4.json",
+                    "theme_name": "清酒档案室",
+                    "sha256": "fa803c85b00290e84b40c1a52f62f0940ee6a40141193b8d32819a51bf03ed1e",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-08T10:18:57.218Z",
                     "status": "test",
