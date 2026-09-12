@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T15:59:48.424Z",
+    "updated_at": "2026-09-12T15:59:52.426Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1664,7 +1664,7 @@
                     "version": "test-0.4",
                     "version_name": "星月百合方形花饰与插画小物版",
                     "changelog": "头像改144px居中方形奶油相框与百合边饰；顶栏九个不同的晴蓝奶油金插画物件；百合滑杆柄与展开按钮；上方控件加厚奶油边和立体层次。保留此前修复，局部静态检查通过，视觉待确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E6%9C%88%E7%99%BE%E5%90%88.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/8735f330f258ea7534b400d42b7f038a8d535fdd/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E6%9C%88%E7%99%BE%E5%90%88.json",
                     "theme_name": "星月百合",
                     "sha256": "9a00be97be0074ba03993eda7daaced75f3bf4481be43d66c93e019509d9a3b6",
                     "minimum_client_version": "1.14.0",
