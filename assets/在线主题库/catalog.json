@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T15:59:52.426Z",
+    "updated_at": "2026-09-12T16:01:23.325Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2046,9 +2046,23 @@
             "display_name": "昼夜之间",
             "description": "蓝金绘本纸张与飘带小物",
             "appearance": "light",
-            "latest_version": "test-0.5",
+            "latest_version": "test-0.6",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.6",
+                    "version_name": "窗口稳定与底纹纠错",
+                    "changelog": "移除顶部窗口开关导致的聊天与顶栏宽度跳变；删除发送附加文字并约束飞鸟；修复输入字号与高度容量；去除设置、左栏、API及预设内拉伸的巨大纸框，只取中心淡纸纹；世界书补同一纸纹。静态检查通过，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_name": "昼夜之间",
+                    "sha256": "d14251c40544f4e2bd1cbdd7b584e60cda00fac218858a2587c362ec10aa05c8",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-12T16:00:42.087Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "昼夜之间.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.5",
                     "version_name": "头像与窗口纸感修正版",
