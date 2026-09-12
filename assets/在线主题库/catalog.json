@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T15:36:48.209Z",
+    "updated_at": "2026-09-12T15:36:50.903Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2039,7 +2039,7 @@
                     "version": "test-0.4",
                     "version_name": "主聊天构图重新对齐参考",
                     "changelog": "重做起伏纸框，扩大所有抽屉关闭时的阅读占比，收薄User纸条，调整正文与头像比例；顶栏图标放大、标签仅悬停聚焦显示，输入飘带与白鸟比例调整。保留前轮设置去灰及标题缩小；静态检查通过，实机视觉待确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/25c9209735ffa545e6658593d54de786729e6d19/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "昼夜之间",
                     "sha256": "b91da7f48f6d49e392b91a8a58d01c6d59b71659e4783ea23fdb6861768341be",
                     "minimum_client_version": "1.14.0",
