@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T05:39:59.581Z",
+    "updated_at": "2026-09-12T05:40:02.662Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1986,7 +1986,7 @@
                     "version": "test-0.1",
                     "version_name": "主聊天最小切片",
                     "changelog": "新增主聊天纸面、真实消息排版、顶栏和输入区色面、飞鸟发送图标及390px响应式。手绘菱格、纸纹、圆点星芒与其余窗口尚未制作；静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/29274e5eac43945afc50534fb76a6742eeb9a054/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "昼夜之间",
                     "sha256": "b77a31476564e55258ec76e1f7e23758961abb5b51d0c0bfe2adb915c761e747",
                     "minimum_client_version": "1.14.0",
