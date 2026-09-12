@@ -5,3 +5,5 @@
 最终制作提示词：Create a square 3x3 equal-cell production sprite atlas, nine centered DISTINCT cream gold and sky blue dimensional enamel/paper objects matching the approved reference: open book, quill, gear; moon, star wand, landscape picture; puzzle piece, bookmark ribbon, lily. No labels/text/backplates. Each object centered in its own equal cell with clear padding. Cream ivory highlights, pale gold raised edges, blue sides. Final edit: REPLACE THE ENTIRE CHECKERBOARD BACKGROUND with solid light pastel sky blue. OPAQUE BLUE BACKGROUND. No transparency, no checkerboard, no gray. Preserve all nine objects in exact grid positions. All negative space sky blue, including holes.
 
 文件 toolbar-objects.png。原始生成不保证逐像素复刻；最终视觉由用户在当前test-0.4实机确认。
+
+同时保留本主题已发布的原始lily-bloom.png与lily-sky.png（本任务imagegen生成，原固定提交b57b4794b0840c9f2b9ca43b59ab107ec2a1cedd），避免目录同步移除历史仍在使用的素材。
