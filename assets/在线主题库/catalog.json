@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T16:20:55.522Z",
+    "updated_at": "2026-09-12T16:41:07.962Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -704,6 +704,31 @@
                     "status": "release",
                     "approved": true,
                     "source_file": "红莓序章.json",
+                    "appearance": "light"
+                }
+            ]
+        },
+        {
+            "id": "theme-8c7d7f37a9f1a114",
+            "name": "蓝调复印室",
+            "display_name": "蓝调复印室",
+            "description": "黑白复印网点与亮蓝错印，真实照片头像、杂志长文与磁带物件控件。",
+            "appearance": "light",
+            "latest_version": "test-0.1",
+            "default_version": "",
+            "versions": [
+                {
+                    "version": "test-0.1",
+                    "version_name": "蓝调复印室首版静态测试",
+                    "changelog": "首次隐藏测试版：完整窗口样式、九入口物件化、真实双头像、首字引用排版、手掌电视与磁带素材、390px手机和控件状态；视觉及运行待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%B0%83%E5%A4%8D%E5%8D%B0%E5%AE%A4.json",
+                    "theme_name": "蓝调复印室",
+                    "sha256": "5969eca9474d106dc8a78469fc512043f94ae8746e4c6a3566d2e95057ceba47",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-12T16:38:26.923Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "蓝调复印室.json",
                     "appearance": "light"
                 }
             ]
