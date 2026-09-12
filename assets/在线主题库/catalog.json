@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T14:37:12.740Z",
+    "updated_at": "2026-09-12T14:40:19.289Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1648,6 +1648,31 @@
                     "source_file": "星票奶铺.json",
                     "appearance": "light",
                     "approved": false
+                }
+            ]
+        },
+        {
+            "id": "theme-96d127e13fa6dfc6",
+            "name": "星月百合",
+            "display_name": "星月百合",
+            "description": "晴蓝星月与奶油百合，深蓝宋体长文及全窗口主题控件",
+            "appearance": "light",
+            "latest_version": "test-0.1",
+            "default_version": "",
+            "versions": [
+                {
+                    "version": "test-0.1",
+                    "version_name": "星月百合首个测试版",
+                    "changelog": "首个完整静态测试版：晴蓝百合背景、深蓝宋体长文、动态首字花饰、书本月星叶片与百合顶栏、百合勾选及勾号回退、全窗口主题状态和390px手机布局。静态检查完成，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E6%9C%88%E7%99%BE%E5%90%88.json",
+                    "theme_name": "星月百合",
+                    "sha256": "449bb255189a3d4825d32f31793f242981bfa44693c1a9d3c73e53a3280fa8e9",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-12T14:37:02.240Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "星月百合.json",
+                    "appearance": "light"
                 }
             ]
         },
