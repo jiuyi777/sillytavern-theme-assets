@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T16:13:01.280Z",
+    "updated_at": "2026-09-12T16:19:50.814Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -317,7 +317,7 @@
             "id": "theme-e20af9650f9e964b",
             "name": "赤芦夜行",
             "display_name": "赤芦夜行",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: 赤芦夜行.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%B5%A4%E8%8A%A6%E5%A4%9C%E8%A1%8C/theme-logo.webp",
             "logo_alt": "红芦弯向夜路的赤芦夜行主题标识",
             "logo_palette": [
@@ -330,9 +330,23 @@
             "logo_subject": "红芦与夜路",
             "logo_effect": "高反差亚麻油毡刻印",
             "appearance": "dark",
-            "latest_version": "test-0.1",
-            "default_version": "",
+            "latest_version": "0.1",
+            "default_version": "0.1",
             "versions": [
+                {
+                    "version": "0.1",
+                    "version_name": "正式版 V0.1",
+                    "changelog": "用户确认通过，移入完成品目录。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%B5%A4%E8%8A%A6%E5%A4%9C%E8%A1%8C.json",
+                    "theme_name": "赤芦夜行",
+                    "sha256": "b626e12f43c8a5ff892b67dfbdba8854331f6334ee8597ecf04dd9a76f491848",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-03T09:11:37.322Z",
+                    "status": "release",
+                    "approved": true,
+                    "source_file": "赤芦夜行.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
