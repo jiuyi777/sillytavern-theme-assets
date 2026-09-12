@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T16:20:15.357Z",
+    "updated_at": "2026-09-12T16:20:17.856Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -561,7 +561,7 @@
             "logo_subject": "观测塔与档案城廓",
             "logo_effect": "陈旧档案剪纸印刷",
             "appearance": "dark",
-            "latest_version": "0.1",
+            "latest_version": "0.2",
             "default_version": "0.1",
             "versions": [
                 {
@@ -571,6 +571,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%AC%AC37%E5%B1%82%E8%A7%82%E6%B5%8B%E6%A1%A3%E6%A1%88.json",
                     "theme_name": "第37层观测档案",
                     "sha256": "8c7320fa710ce5631aed04ee83b14f3c2168e1ba5c897be903b3f17a37dbf921",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-07T06:33:13.034Z",
+                    "status": "release",
+                    "approved": true,
+                    "source_file": "第37层观测档案.json",
+                    "appearance": "dark"
+                },
+                {
+                    "version": "0.2",
+                    "version_name": "正式版 V0.2",
+                    "changelog": "用户确认通过，移入完成品目录。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/46ccc5cf5a6f86be8694d11936a41a13f4851c76/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%AC%AC37%E5%B1%82%E8%A7%82%E6%B5%8B%E6%A1%A3%E6%A1%88.json",
+                    "theme_name": "第37层观测档案",
+                    "sha256": "2da9cf26fed48cbaf566b892f63e421ba5b8adf6bcc32b68077ec3bd01085020",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-07T06:33:13.034Z",
                     "status": "release",
