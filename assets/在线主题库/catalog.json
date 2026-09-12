@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T06:40:23.146Z",
+    "updated_at": "2026-09-12T06:40:25.832Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1986,7 +1986,7 @@
                     "version": "test-0.2",
                     "version_name": "自动模式完整主题",
                     "changelog": "完成W01—W14窗口与手机规则、十四类控件状态及四张最终插画素材；保留真实消息数据和原生交互。静态复核完成，审计器滚动条字面值误报另有解析证据；视觉与实机交互待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/995d463c15c3c6187e9c73b3e8dd85b38d1f3c82/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "昼夜之间",
                     "sha256": "fda45d3c09ecb31b04744c19463e431fafbc2ebd0ad7efb708a2f19e4d4eb660",
                     "minimum_client_version": "1.14.0",
