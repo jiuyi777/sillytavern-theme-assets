@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T15:27:00.986Z",
+    "updated_at": "2026-09-12T15:27:03.929Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1664,7 +1664,7 @@
                     "version": "test-0.3",
                     "version_name": "星月百合居中大头像试用版",
                     "changelog": "按用户截图将每条真实消息头像移至顶部正中并放大到72px，正文在下方占完整宽度。保留此前修复。局部静态检查通过，视觉待确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E6%9C%88%E7%99%BE%E5%90%88.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/7a17a1fa4dae50c342d5608792b85011dbcd3d03/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E6%9C%88%E7%99%BE%E5%90%88.json",
                     "theme_name": "星月百合",
                     "sha256": "086fd63184c207aeb42400699a930e79f59e54d75f576a41fe881da368c6dcdd",
                     "minimum_client_version": "1.14.0",
