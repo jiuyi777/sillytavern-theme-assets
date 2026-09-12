@@ -1,12 +1,7 @@
-# 星月百合最终素材
+# 星月百合 test-0.4 唯一入选小物素材
 
-作者：@jiuyi0204。未经作者明确许可，禁止二次修改、二次上传、转载、重新打包或冒名发布。
+内置imagegen按本主题批准概念生成，九宫格均分CSS取图，不上传用户参考截图。最终采用不透明晴蓝底，与按钮材质组合；透明生成前两次出现棋盘格，已弃用，未上传。
 
-2026-09-12 自动模式唯一入选；两图均为本任务内置 imagegen 生成的独立原创装饰资产，不含聊天、人物、账号或参考图水印。原始用户图及概念图仅在 design 本地保存，不上传。
+最终制作提示词：Create a square 3x3 equal-cell production sprite atlas, nine centered DISTINCT cream gold and sky blue dimensional enamel/paper objects matching the approved reference: open book, quill, gear; moon, star wand, landscape picture; puzzle piece, bookmark ribbon, lily. No labels/text/backplates. Each object centered in its own equal cell with clear padding. Cream ivory highlights, pale gold raised edges, blue sides. Final edit: REPLACE THE ENTIRE CHECKERBOARD BACKGROUND with solid light pastel sky blue. OPAQUE BLUE BACKGROUND. No transparency, no checkerboard, no gray. Preserve all nine objects in exact grid positions. All negative space sky blue, including holes.
 
-| 文件 | 用途 | 接入目标 | 回退 |
-|---|---|---|---|
-| lily-sky.png | 晴蓝星月、右侧与左下百合边饰 | #bg1, #bg_custom | 晴蓝纯色 |
-| lily-bloom.png | 独立百合花饰 | #send_form #send_but 背景，角色首段首字底饰 | 原生纸飞机及正文首字仍可见 |
-
-生成方式：内置图像生成工具。背景提示：晴蓝纸感、浅金星月、右缘与左下奶油百合、中央留蓝色空白，无文字与 UI。花饰提示：透明背景单朵奶油百合、金蕊、青绿叶、缩小可辨、无文字。
+文件 toolbar-objects.png。原始生成不保证逐像素复刻；最终视觉由用户在当前test-0.4实机确认。
