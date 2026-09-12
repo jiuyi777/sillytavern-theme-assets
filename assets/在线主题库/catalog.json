@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T14:37:10.113Z",
+    "updated_at": "2026-09-12T14:37:12.740Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1986,7 +1986,7 @@
                     "version": "test-0.3",
                     "version_name": "去灰与顶栏小物修正",
                     "changelog": "清除设置及预设分组官方灰渐变，缩小设置页标题；九个顶栏入口采用蓝金物品插画，保留短标签回退和API连接状态。其他聊天、输入及抽屉几何不变；静态检查通过，视觉待确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/81ff56640ce6d40cd8cb8a5b7514b5720c1853a2/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "昼夜之间",
                     "sha256": "b67596e235b0226d6cca27974b875ab4691c27ace48fb466d593faa9c4355c60",
                     "minimum_client_version": "1.14.0",
