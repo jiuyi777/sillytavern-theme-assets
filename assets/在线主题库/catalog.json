@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T15:36:50.903Z",
+    "updated_at": "2026-09-12T15:50:26.383Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2030,11 +2030,25 @@
             "id": "theme-9704fdac44d7c349",
             "name": "昼夜之间",
             "display_name": "昼夜之间",
-            "description": "蓝黑菱格与流动奶油纸面，搭配蓝金小物和白鸟的酒馆主题。",
+            "description": "蓝金绘本纸张与飘带小物",
             "appearance": "light",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.5",
+                    "version_name": "头像与窗口纸感修正版",
+                    "changelog": "放大真实头像；独立加宽左栏、收窄API面板；修复预设列表灰底；六瓣花滑块；API、左栏及设置恢复手绘纸面与飘带标题。静态检查通过，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_name": "昼夜之间",
+                    "sha256": "18e1c570345490d3a806aced3db50ce2051e8278beea9dcc4aecdf2cb5e4bc97",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-12T15:49:56.028Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "昼夜之间.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "主聊天构图重新对齐参考",
