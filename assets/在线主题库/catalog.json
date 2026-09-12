@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-12T16:20:06.882Z",
+    "updated_at": "2026-09-12T16:20:09.500Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -387,7 +387,7 @@
                     "version": "0.1",
                     "version_name": "引用加深修订版",
                     "changelog": "用户确认通过，移入完成品目录。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/c89a2aa157b48386941495a532e601e4d9bd7018/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
                     "theme_name": "春来",
                     "sha256": "bf75e71c30eac752c6687a8c75eedaacdf4b2cf4d37d2e21aebd094ae8e211b2",
                     "minimum_client_version": "1.14.0",
