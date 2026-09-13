@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T06:46:45.694Z",
+    "updated_at": "2026-09-13T06:47:58.916Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2250,9 +2250,23 @@
             "display_name": "昼夜之间",
             "description": "蓝金绘本纸张与飘带小物",
             "appearance": "light",
-            "latest_version": "test-0.7",
+            "latest_version": "test-0.8",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.8",
+                    "version_name": "左栏整体避让修正",
+                    "changelog": "修正宽左栏遮挡正文与输入：左栏打开时顶栏、聊天和输入使用共同宽度与起点，作为整体避让。保留其他美化。静态检查通过，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_name": "昼夜之间",
+                    "sha256": "badaa1d8848ae837d152d66a78f24c12cb6393871a38c43aa0460a107a2aa716",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T06:47:23.880Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "昼夜之间.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.7",
                     "version_name": "撤除错轴布局规则",
