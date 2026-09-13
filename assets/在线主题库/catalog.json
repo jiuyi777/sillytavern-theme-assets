@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T13:31:58.997Z",
+    "updated_at": "2026-09-13T13:32:02.105Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -865,7 +865,7 @@
                     "version": "0.1",
                     "version_name": "正式版 V0.1",
                     "changelog": "用户确认原蓝调复印室test-0.3完成，改名蓝印之间。保留已确认界面，补齐专属主题标识，首次正式公开。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E5%8D%B0%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/32848581b6781f9f6f0f29c0d878ce99b124926e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E5%8D%B0%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "蓝印之间",
                     "sha256": "dac8d440d6b65c03aa735590cb6b1aebc3c48b4768606213e2d1236efdb67873",
                     "minimum_client_version": "1.14.0",
