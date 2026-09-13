@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T06:30:41.802Z",
+    "updated_at": "2026-09-13T06:30:48.689Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -239,7 +239,7 @@
             "id": "theme-82dc9c8c9529dc4b",
             "name": "橙夏汽水",
             "display_name": "橙夏汽水",
-            "description": "水果汽水小物与轻杂志阅读感的日间 SillyTavern 主题",
+            "description": "SillyTavern interface theme: 橙夏汽水.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4/theme-logo.webp",
             "logo_alt": "橙片汽水瓶盖的橙夏汽水主题标识",
             "logo_palette": [
@@ -252,9 +252,23 @@
             "logo_subject": "橙片汽水盖",
             "logo_effect": "错位印刷与汽泡颗粒",
             "appearance": "light",
-            "latest_version": "test-0.5",
-            "default_version": "",
+            "latest_version": "0.1",
+            "default_version": "0.1",
             "versions": [
+                {
+                    "version": "0.1",
+                    "version_name": "正式版 V0.1",
+                    "changelog": "用户确认本次版本通过，覆盖旧完成版。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+                    "theme_name": "橙夏汽水",
+                    "sha256": "bea6e07bd4d5c755fd62ae8b6ef84aaf4de17121cceeaed22c1dc333873cf5cb",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T02:18:35.225Z",
+                    "status": "release",
+                    "approved": true,
+                    "source_file": "橙夏汽水.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "高级格式勾号状态修复",
