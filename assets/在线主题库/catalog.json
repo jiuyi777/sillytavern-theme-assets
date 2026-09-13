@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T09:06:38.413Z",
+    "updated_at": "2026-09-13T11:16:34.404Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -409,7 +409,7 @@
             "id": "theme-6159ffc9ff958fea",
             "name": "春来",
             "display_name": "春来",
-            "description": "SillyTavern interface theme: 春来.",
+            "description": "纸本植物风格的春来主题。",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%98%A5%E6%9D%A5/theme-logo.webp",
             "logo_alt": "嫩枝从翻页纸角生长的春来主题标识",
             "logo_palette": [
@@ -422,9 +422,23 @@
             "logo_subject": "翻页春枝",
             "logo_effect": "植物木刻与纸纤维",
             "appearance": "light",
-            "latest_version": "0.1",
+            "latest_version": "test-0.5",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.5",
+                    "version_name": "朱雀仿宋字体版",
+                    "changelog": "亮色版正文、界面文字与中文姓名改用朱雀仿宋，保留缺字回退；字号、布局和配色不变。静态检查通过，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%A5%E6%9D%A5.json",
+                    "theme_name": "春来",
+                    "sha256": "ca500268186bd009e7ab7a16f402d88cc4b13295e3f6252df65e1d3238430242",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T11:16:13.440Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "春来.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "0.1",
                     "version_name": "引用加深修订版",
