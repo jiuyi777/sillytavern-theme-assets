@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T13:41:23.229Z",
+    "updated_at": "2026-09-13T14:06:12.895Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1860,9 +1860,23 @@
             "display_name": "星月百合",
             "description": "晴蓝星月与奶油百合，深蓝宋体长文及主题小物",
             "appearance": "light",
-            "latest_version": "test-0.5",
+            "latest_version": "test-0.6",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.6",
+                    "version_name": "星月百合头像花枝与世界书标签修正版",
+                    "changelog": "头像两侧改连续百合花枝及奶油金相框，保留112px照片和正文布局；修复世界书已启用标签内部点击层灰底及悬停态。局部静态检查通过，视觉待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%9F%E6%9C%88%E7%99%BE%E5%90%88.json",
+                    "theme_name": "星月百合",
+                    "sha256": "3313085982d00dd17c8c914caef89d1768dddafa1dd76297c13f121231de599e",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T14:06:05.914Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "星月百合.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.5",
                     "version_name": "星月百合紧凑条目修正版",
