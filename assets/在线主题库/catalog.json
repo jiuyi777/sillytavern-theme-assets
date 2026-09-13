@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:51:20.580Z",
+    "updated_at": "2026-09-13T14:51:23.869Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1679,7 +1679,7 @@
                     "version": "test-0.2",
                     "version_name": "完整制作测试版 0.2.0",
                     "changelog": "完成全主题窗口、四张透明头像装饰、背景纸纹与字体；补齐预设、代码、标签、编辑及选择控件状态。补充静态检查通过；基础审计解析限制已记录，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A3%AE%E9%82%AE%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/83706d638dae4aa3fd74bcbdd59596ecba51306d/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A3%AE%E9%82%AE%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "森邮之间",
                     "sha256": "7961d867f92cc3dd7f8fc61a456caff1891b3c931d4c2218b425fad0de69dc20",
                     "minimum_client_version": "1.14.0",
