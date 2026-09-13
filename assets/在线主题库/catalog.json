@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:42:27.905Z",
+    "updated_at": "2026-09-13T14:42:30.740Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -815,7 +815,7 @@
                     "version": "test-0.5",
                     "version_name": "顶栏小物尺寸修正",
                     "changelog": "修正九个小物以SVG固有尺寸显示导致顶栏溢出的问题，改为原图标槽内等比背景绘制。素材、连接提示、顶栏高度和聊天布局不变。静态检查通过，视觉待确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/ed2b4fc3f507a88d61d6a7b3bd37fe312c3551d3/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
                     "theme_name": "落樱",
                     "sha256": "cc72c18ce4f0f126f713f02a9e64a312fdaae922b6352b9c6860556aeae0e0a9",
                     "minimum_client_version": "1.14.0",
