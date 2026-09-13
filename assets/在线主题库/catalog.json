@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T06:46:42.828Z",
+    "updated_at": "2026-09-13T06:46:45.694Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2204,7 +2204,7 @@
                     "version": "test-0.3",
                     "version_name": "浅月对白",
                     "changelog": "对白深蓝底白字改为浅月蓝底深蓝字；清除人设管理与角色页标题灰色渐变。保持正文排版、普通文字色与聊天布局。静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%88%E7%9B%B8%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/18ea84a539c4f4d32949a4022fdca92e05a9e771/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%88%E7%9B%B8%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "月相之间",
                     "sha256": "dbb2cd3cd2320064d24accf52694e3e7eff1cdfddfdf8dd4b71f108a214df32d",
                     "minimum_client_version": "1.14.0",
