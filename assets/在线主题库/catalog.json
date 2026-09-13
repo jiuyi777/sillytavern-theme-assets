@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T08:51:01.220Z",
+    "updated_at": "2026-09-13T08:51:04.117Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -777,7 +777,7 @@
                     "version": "test-0.2",
                     "version_name": "test-0.2",
                     "changelog": "修正预设未启用条目重复边框、列表灰底与操作图标淡化；清除角色、扩展和世界书标题的原生灰色渐变。静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%B0%83%E5%A4%8D%E5%8D%B0%E5%AE%A4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/475048a1657e9ef04f958c86fb4cbec839aaa44e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%B0%83%E5%A4%8D%E5%8D%B0%E5%AE%A4.json",
                     "theme_name": "蓝调复印室",
                     "sha256": "3470520c911389d893ff8714085cd4107059262cd45a22358d07bcfa64350f36",
                     "minimum_client_version": "1.14.0",
