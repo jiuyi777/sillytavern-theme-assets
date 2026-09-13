@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:11:16.903Z",
+    "updated_at": "2026-09-13T14:11:20.537Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1770,7 +1770,7 @@
                     "version": "test-0.1",
                     "version_name": "主聊天布局切片",
                     "changelog": "新增电脑和390px手机居中大头像、姓名时间、完整正文与输入控件样式；像素背景及两种展开丝带装饰待主聊天手测后制作；其他窗口尚未延展，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%B3%96%E6%A2%A6%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/6852bb200424ab71d0a67ca1413fc0ddc25eb81c/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%B3%96%E6%A2%A6%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "糖梦之间",
                     "sha256": "40ce16b8158d765370c40ef0b35f47a7a51333e1b9be7dbe0fe2ea4e62af434e",
                     "minimum_client_version": "1.14.0",
