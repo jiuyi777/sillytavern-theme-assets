@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T13:32:02.105Z",
+    "updated_at": "2026-09-13T13:38:21.239Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2314,11 +2314,25 @@
             "id": "theme-9704fdac44d7c349",
             "name": "昼夜之间",
             "display_name": "昼夜之间",
-            "description": "蓝金绘本纸面、无头像阅读布局与手绘飘带",
+            "description": "中央十字星、流光与宽幅不规则纸面的绘本主题",
             "appearance": "light",
-            "latest_version": "test-0.9",
+            "latest_version": "test-0.10",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.10",
+                    "version_name": "中央星芒与流光构图",
+                    "changelog": "按用户构图说明增加页面正中央星芒与顶部流光背景，和滚动楼层分层；角色楼层换更明显的不规则纸面、扩大中央占比并设内容驱动最小高度；同步顶部留白与应用高度，保留真实消息、输入功能及既有去灰。静态检查通过，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_name": "昼夜之间",
+                    "sha256": "182efe46c5b8627f47ba09b127fd11754bcb0cd7402d3aab6de84c165e0031d3",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T13:37:23.146Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "昼夜之间.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.9",
                     "version_name": "参考图母版重做",
