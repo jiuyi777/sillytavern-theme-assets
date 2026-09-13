@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T13:38:21.239Z",
+    "updated_at": "2026-09-13T13:38:25.621Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2323,7 +2323,7 @@
                     "version": "test-0.10",
                     "version_name": "中央星芒与流光构图",
                     "changelog": "按用户构图说明增加页面正中央星芒与顶部流光背景，和滚动楼层分层；角色楼层换更明显的不规则纸面、扩大中央占比并设内容驱动最小高度；同步顶部留白与应用高度，保留真实消息、输入功能及既有去灰。静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/9e0ecfbb4db67160149ec9a29a3ea16e41761926/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%98%BC%E5%A4%9C%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "昼夜之间",
                     "sha256": "182efe46c5b8627f47ba09b127fd11754bcb0cd7402d3aab6de84c165e0031d3",
                     "minimum_client_version": "1.14.0",
