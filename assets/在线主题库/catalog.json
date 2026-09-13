@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T12:43:48.883Z",
+    "updated_at": "2026-09-13T13:31:58.997Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -779,59 +779,6 @@
             ]
         },
         {
-            "id": "theme-8c7d7f37a9f1a114",
-            "name": "蓝调复印室",
-            "display_name": "蓝调复印室",
-            "description": "蓝调复印室居中与标题留白修正版",
-            "appearance": "light",
-            "latest_version": "test-0.3",
-            "default_version": "",
-            "versions": [
-                {
-                    "version": "test-0.3",
-                    "version_name": "test-0.3",
-                    "changelog": "修正顶栏图标与文字内部居中；滑块改为轨道垂直居中的蓝色圆点；API黑色标题增加内外留白。静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/deb2a0a2b005b5e9f313beb8b6c4a4e15bf47927/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%B0%83%E5%A4%8D%E5%8D%B0%E5%AE%A4.json",
-                    "theme_name": "蓝调复印室",
-                    "sha256": "0cc28cfe1487b69e06fc9acbe552996d93fd33338eaf6260a8fc16a8ff6a0462",
-                    "minimum_client_version": "1.14.0",
-                    "updated_at": "2026-09-13T09:06:15.155Z",
-                    "status": "test",
-                    "approved": false,
-                    "source_file": "蓝调复印室.json",
-                    "appearance": "light"
-                },
-                {
-                    "version": "test-0.2",
-                    "version_name": "test-0.2",
-                    "changelog": "修正预设未启用条目重复边框、列表灰底与操作图标淡化；清除角色、扩展和世界书标题的原生灰色渐变。静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/475048a1657e9ef04f958c86fb4cbec839aaa44e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%B0%83%E5%A4%8D%E5%8D%B0%E5%AE%A4.json",
-                    "theme_name": "蓝调复印室",
-                    "sha256": "3470520c911389d893ff8714085cd4107059262cd45a22358d07bcfa64350f36",
-                    "minimum_client_version": "1.14.0",
-                    "updated_at": "2026-09-13T08:50:44.381Z",
-                    "status": "test",
-                    "approved": false,
-                    "source_file": "蓝调复印室.json",
-                    "appearance": "light"
-                },
-                {
-                    "version": "test-0.1",
-                    "version_name": "蓝调复印室首版静态测试",
-                    "changelog": "首次隐藏测试版：完整窗口样式、九入口物件化、真实双头像、首字引用排版、手掌电视与磁带素材、390px手机和控件状态；视觉及运行待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/957ffd785936bb3752422a3df54fb255d519fb0b/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%B0%83%E5%A4%8D%E5%8D%B0%E5%AE%A4.json",
-                    "theme_name": "蓝调复印室",
-                    "sha256": "5969eca9474d106dc8a78469fc512043f94ae8746e4c6a3566d2e95057ceba47",
-                    "minimum_client_version": "1.14.0",
-                    "updated_at": "2026-09-12T16:38:26.923Z",
-                    "status": "test",
-                    "approved": false,
-                    "source_file": "蓝调复印室.json",
-                    "appearance": "light"
-                }
-            ]
-        },
-        {
             "id": "theme-e36fae4cc7ce12f0",
             "name": "蓝蝶",
             "display_name": "蓝蝶",
@@ -892,6 +839,41 @@
                     "source_file": "蓝蝶.json",
                     "appearance": "dark",
                     "approved": false
+                }
+            ]
+        },
+        {
+            "id": "theme-0e8933f58c11ab85",
+            "name": "蓝印之间",
+            "display_name": "蓝印之间",
+            "description": "黑白复印网点、纸张底色与亮蓝错印的编辑排版主题",
+            "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/819893b9a18bffc77c2938f375bc615e323d63fc/assets/%E8%93%9D%E5%8D%B0%E4%B9%8B%E9%97%B4/theme-logo.webp",
+            "logo_alt": "蓝印之间：复印网点显示器与蓝色星芒",
+            "logo_palette": [
+                "#f8f8f4",
+                "#ffffff",
+                "#171717",
+                "#1600ff"
+            ],
+            "logo_subject": "复古CRT显示器",
+            "logo_effect": "黑白复印半调网点与亮蓝错印",
+            "appearance": "light",
+            "latest_version": "0.1",
+            "default_version": "0.1",
+            "versions": [
+                {
+                    "version": "0.1",
+                    "version_name": "正式版 V0.1",
+                    "changelog": "用户确认原蓝调复印室test-0.3完成，改名蓝印之间。保留已确认界面，补齐专属主题标识，首次正式公开。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E5%8D%B0%E4%B9%8B%E9%97%B4.json",
+                    "theme_name": "蓝印之间",
+                    "sha256": "dac8d440d6b65c03aa735590cb6b1aebc3c48b4768606213e2d1236efdb67873",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T13:31:12.416Z",
+                    "status": "release",
+                    "approved": true,
+                    "source_file": "蓝印之间.json",
+                    "appearance": "light"
                 }
             ]
         },
