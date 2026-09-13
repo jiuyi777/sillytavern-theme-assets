@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T06:48:01.714Z",
+    "updated_at": "2026-09-13T07:09:57.028Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2197,9 +2197,23 @@
             "display_name": "月相之间",
             "description": "靛蓝与月白纸面的月相主题",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "柔蓝对白",
+                    "changelog": "按用户纠正去掉对白色块，改为柔蓝文字，去除色块内边距；保留深色消息与块引用的文字可读性。其他正文及窗口不变。静态检查通过，视觉待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9C%88%E7%9B%B8%E4%B9%8B%E9%97%B4.json",
+                    "theme_name": "月相之间",
+                    "sha256": "0a735097f1e0e23bceebac708458c4e22e112514780e1f2e3dd4b33e0519ffa2",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T07:09:29.486Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "月相之间.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.3",
                     "version_name": "浅月对白",
