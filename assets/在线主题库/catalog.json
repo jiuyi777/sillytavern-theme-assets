@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:39:38.334Z",
+    "updated_at": "2026-09-13T14:39:41.048Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1198,7 +1198,7 @@
             "logo_subject": "夜刊折页与霓虹蕾丝心",
             "logo_effect": "朋克夜间拼贴",
             "appearance": "dark",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
                 {
@@ -1208,6 +1208,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
                     "theme_name": "霓虹夜刊",
                     "sha256": "6a23d21cac94b641e652f66e9395249a740ff20a029f4a0eea0a62f1c729dade",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T14:38:55.672Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "霓虹夜刊.json",
+                    "appearance": "dark"
+                },
+                {
+                    "version": "test-0.5",
+                    "version_name": "顶栏打开与收起修正",
+                    "changelog": "桌面及手机顶栏文字与图标统一由真实点击节点承接，移除手机入口禁用点击规则；保持其他布局。静态检查通过，实际开合待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/512431e48d23ad81fa64b34bd443e31afeb23ba2/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
+                    "theme_name": "霓虹夜刊",
+                    "sha256": "09aeac7725f7cf3a8598612e7a0f52f356660575b8210e3d7e96fa8689b5b9ef",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-13T14:38:55.672Z",
                     "status": "test",
