@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:51:23.869Z",
+    "updated_at": "2026-09-13T14:53:39.543Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1212,9 +1212,23 @@
             "logo_subject": "夜刊折页与霓虹蕾丝心",
             "logo_effect": "朋克夜间拼贴",
             "appearance": "dark",
-            "latest_version": "test-0.5",
+            "latest_version": "test-0.6",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.6",
+                    "version_name": "清晰纸页与手机黑胶头像",
+                    "changelog": "移除斑驳旧纸纹，换清晰系统黑体；恢复手机角色头像，User与角色保留黑胶唱片和蝴蝶结；补全原生颜色等字段，避免沿用前主题对应设置。保留顶栏上轮修复。设置具体蓝色控件与实机视觉待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9C%93%E8%99%B9%E5%A4%9C%E5%88%8A.json",
+                    "theme_name": "霓虹夜刊",
+                    "sha256": "b5b7954174f0c4b12047a9c99646ac89b60365b6688cd4e43965b7d680f8dbfb",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T14:52:57.351Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "霓虹夜刊.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "顶栏打开与收起修正",
