@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:47:06.400Z",
+    "updated_at": "2026-09-13T14:47:09.709Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1740,7 +1740,7 @@
                     "version": "test-0.2",
                     "version_name": "完整制作版",
                     "changelog": "接入像素房间背景、粉色樱桃丝带框和蓝色翅膀小猫框；完成各核心窗口、预设子层、标签、编辑态、复选勾号与手机布局。源码静态复核通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%B3%96%E6%A2%A6%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/5b8d0099b3490feba3c046a17706dc79554cf13d/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%B3%96%E6%A2%A6%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "糖梦之间",
                     "sha256": "f23b62120358bcdcd9ebd4b91bb3f4ad2f583e451c72f39827a35f3303f2b6fd",
                     "minimum_client_version": "1.14.0",
