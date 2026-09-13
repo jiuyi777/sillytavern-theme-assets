@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T07:09:59.784Z",
+    "updated_at": "2026-09-13T08:27:01.660Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -870,9 +870,23 @@
             "logo_subject": "落樱花瓣与裁切标",
             "logo_effect": "编辑纸张单版印刷",
             "appearance": "light",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "平面九件小物顶栏",
+                    "changelog": "按批准设计更新顶栏九个入口为独立平面小物，内嵌矢量图片，保留开合、焦点和连接提示；聊天、滑杆及其他布局不变。静态检查通过，视觉待确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%90%BD%E6%A8%B1.json",
+                    "theme_name": "落樱",
+                    "sha256": "c40a6a48e606532482a52bc85e98a2188b391766cdc055dec3f4cf1832d9c0b2",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T08:26:20.860Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "落樱.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.3",
                     "version_name": "樱花顶栏版",
