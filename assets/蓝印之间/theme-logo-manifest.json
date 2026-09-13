@@ -1,0 +1,18 @@
+{
+  "theme_file": "蓝印之间.json",
+  "theme_name": "蓝印之间",
+  "appearance": "light",
+  "subject": "复古CRT显示器",
+  "generator": "built-in imagegen",
+  "file": "theme-logo.webp",
+  "palette": [
+    "#f8f8f4",
+    "#ffffff",
+    "#171717",
+    "#1600ff"
+  ],
+  "prompt": "Single centered simplified retro CRT monitor with one blue four-point glint; xerox halftone ink; palette #f8f8f4 #ffffff #171717 #1600ff; square, safe margin, no text, people or extra objects.",
+  "generated_at": "2026-09-13",
+  "version": "0.1",
+  "effect": "黑白复印半调网点与亮蓝错印"
+}
