@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:39:14.751Z",
+    "updated_at": "2026-09-13T14:39:17.555Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1513,7 +1513,7 @@
             "logo_subject": "清酒杯与档案标签",
             "logo_effect": "半透明档案盖印",
             "appearance": "light",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
                 {
@@ -1523,6 +1523,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%B8%85%E9%85%92%E6%A1%A3%E6%A1%88%E5%AE%A4.json",
                     "theme_name": "清酒档案室",
                     "sha256": "7aabeb1930a12f90bd88f1a37c07daa6b4eceec0148bd323e7ed3a88679a1bbf",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-13T14:38:55.629Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "清酒档案室.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.5",
+                    "version_name": "顶栏打开与收起修正",
+                    "changelog": "顶栏图标与九项文字统一由真实点击节点承接，移除绝对叠加点击层；保持其他布局。静态检查通过，实际开合待用户确认。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/b555d22829f12158521c95bafa93998f91e500df/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%B8%85%E9%85%92%E6%A1%A3%E6%A1%88%E5%AE%A4.json",
+                    "theme_name": "清酒档案室",
+                    "sha256": "07ea380f891c73ebfc062d05f558500d01a9116b93d1152c4e1f10675698e4a7",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-13T14:38:55.629Z",
                     "status": "test",
