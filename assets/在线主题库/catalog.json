@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-09-13T14:10:59.629Z",
+    "updated_at": "2026-09-13T14:11:03.757Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1709,7 +1709,7 @@
                     "version": "test-0.1",
                     "version_name": "主聊天结构切片 0.1.0",
                     "changelog": "首次结构切片；实现双方居中头像、姓名时间、正文轴、顶栏与输入操作色彩及手机布局。花束丝带信件、外围纹理和其余窗口等待切片确认后制作。静态检查通过，视觉待用户确认。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A3%AE%E9%82%AE%E4%B9%8B%E9%97%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/d09ef51cb469f374cc6799678b6bba9e6738554d/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A3%AE%E9%82%AE%E4%B9%8B%E9%97%B4.json",
                     "theme_name": "森邮之间",
                     "sha256": "54ca494bef3a913731c7937f0dac51cc79181706f2e155e7215f973cba9cb97e",
                     "minimum_client_version": "1.14.0",
