@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:19.714Z",
+    "updated_at": "2026-10-03T16:44:22.295Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -259,7 +259,7 @@
                     "version": "test-0.6",
                     "version_name": "全局隐藏滚动条修正版",
                     "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/472f8e4cf01155fd8af6ac88bfd7adc7f2a0e36d/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%A9%99%E5%A4%8F%E6%B1%BD%E6%B0%B4.json",
                     "theme_name": "橙夏汽水",
                     "sha256": "6af339c76959a3b4ef3930a0a83bd9aecb2c16976b3d403e11e939ddc851171e",
                     "minimum_client_version": "1.14.0",
