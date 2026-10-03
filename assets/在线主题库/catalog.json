@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:04.464Z",
+    "updated_at": "2026-10-03T16:44:10.839Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1425,11 +1425,25 @@
             "id": "theme-61ef277c3931552f",
             "name": "铅雪青·暗",
             "display_name": "铅雪青 · 暗",
-            "description": "铅雪青的深色派生版本，保留同源线稿结构与低亮度阅读配色。",
+            "description": "SillyTavern interface theme: 铅雪青·暗.",
             "appearance": "dark",
-            "latest_version": "test-0.4",
+            "latest_version": "test-0.5",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.5",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%93%85%E9%9B%AA%E9%9D%92%C2%B7%E6%9A%97.json",
+                    "theme_name": "铅雪青·暗",
+                    "sha256": "179e091b82a8c908bcbe3cf0a300228bec1f8cea5c56a4ce7b6344957313f1fb",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-10-03T16:42:48.449Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "铅雪青·暗.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.4",
                     "version_name": "角色刊头居中结构重建",
