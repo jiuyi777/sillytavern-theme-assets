@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:43:43.530Z",
+    "updated_at": "2026-10-03T16:43:46.360Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1119,7 +1119,7 @@
                     "version": "test-0.3",
                     "version_name": "全局隐藏滚动条修正版",
                     "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/c4e252734c8177d09f222227dc7f81ca3fae7bcf/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
                     "theme_name": "暮潮回声",
                     "sha256": "f6e31633fb4d8b84bcf8ed353301ce4b70332d241d12530b6a3e6b6ced6c6325",
                     "minimum_client_version": "1.14.0",
