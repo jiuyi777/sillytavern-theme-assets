@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:43:19.912Z",
+    "updated_at": "2026-10-03T16:43:25.572Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1163,7 +1163,7 @@
             "id": "theme-d0151421d0c3839d",
             "name": "奶油贝壳",
             "display_name": "奶油贝壳",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: 奶油贝壳.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E5%A5%B6%E6%B2%B9%E8%B4%9D%E5%A3%B3/theme-logo.webp",
             "logo_alt": "奶油色扇贝章的奶油贝壳主题标识",
             "logo_palette": [
@@ -1176,9 +1176,23 @@
             "logo_subject": "奶油扇贝章",
             "logo_effect": "压花纸与细沙颗粒",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E5%A5%B6%E6%B2%B9%E8%B4%9D%E5%A3%B3.json",
+                    "theme_name": "奶油贝壳",
+                    "sha256": "a7338357c6c54fcbf7dfffba81d021bea0e79ddb98625a900482b6450c142fd3",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-10-03T16:42:48.416Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "奶油贝壳.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
