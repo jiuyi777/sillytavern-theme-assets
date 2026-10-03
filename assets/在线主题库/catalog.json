@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:48.680Z",
+    "updated_at": "2026-10-03T16:44:54.547Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2197,7 +2197,7 @@
             "id": "theme-e6f222e97392db5b",
             "name": "雨页",
             "display_name": "雨页",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: 雨页.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E9%9B%A8%E9%A1%B5/theme-logo.webp",
             "logo_alt": "雨滴停在折叠叶页上的雨页主题标识",
             "logo_palette": [
@@ -2210,9 +2210,23 @@
             "logo_subject": "叶页上的雨滴",
             "logo_effect": "湿墨与层叠纸张",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9B%A8%E9%A1%B5.json",
+                    "theme_name": "雨页",
+                    "sha256": "4194e737bcd4d93182494a151257e8f0e08bd2603c92b3cb2688a4303d63e769",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T03:35:17.869Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "雨页.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
