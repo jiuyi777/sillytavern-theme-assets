@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:43:46.360Z",
+    "updated_at": "2026-10-03T16:43:52.305Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1595,7 +1595,7 @@
             "id": "theme-340e46ac26933ed5",
             "name": "苔雨溪笺",
             "display_name": "苔雨溪笺",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: 苔雨溪笺.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%8B%94%E9%9B%A8%E6%BA%AA%E7%AC%BA/theme-logo.webp",
             "logo_alt": "苔叶月亭流出溪线的苔雨溪笺主题标识",
             "logo_palette": [
@@ -1608,9 +1608,23 @@
             "logo_subject": "苔叶月亭与溪流",
             "logo_effect": "湿墨剪纸水彩",
             "appearance": "light",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8B%94%E9%9B%A8%E6%BA%AA%E7%AC%BA.json",
+                    "theme_name": "苔雨溪笺",
+                    "sha256": "365b76c84d0a5f01cd09b4cb4afbd77dba4a594c9093758168fab29325d0b34d",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-10-03T16:42:48.443Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "苔雨溪笺.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
