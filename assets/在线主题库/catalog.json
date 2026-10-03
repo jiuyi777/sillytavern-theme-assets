@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:54.547Z",
+    "updated_at": "2026-10-03T16:44:57.338Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2210,7 +2210,7 @@
             "logo_subject": "叶页上的雨滴",
             "logo_effect": "湿墨与层叠纸张",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "",
             "versions": [
                 {
@@ -2220,6 +2220,20 @@
                     "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9B%A8%E9%A1%B5.json",
                     "theme_name": "雨页",
                     "sha256": "4194e737bcd4d93182494a151257e8f0e08bd2603c92b3cb2688a4303d63e769",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T03:35:17.869Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "雨页.json",
+                    "appearance": "light"
+                },
+                {
+                    "version": "test-0.3",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/d0f80dfaffbe4168b587d6d7b8c7ef5e0d16a67d/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E9%9B%A8%E9%A1%B5.json",
+                    "theme_name": "雨页",
+                    "sha256": "003632208f7ecefd57c3f31fa4b02af7d3b624d167c70846ac1561815b862457",
                     "minimum_client_version": "1.14.0",
                     "updated_at": "2026-09-01T03:35:17.869Z",
                     "status": "test",
