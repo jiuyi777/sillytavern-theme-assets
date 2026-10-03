@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:31.056Z",
+    "updated_at": "2026-10-03T16:44:36.976Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -710,7 +710,7 @@
             "id": "theme-e36fae4cc7ce12f0",
             "name": "蓝蝶",
             "display_name": "蓝蝶",
-            "description": "蓝蝶梦幻全局主题，保留原背景和头像装饰，采用低亮度思源宋体编辑排版。",
+            "description": "SillyTavern interface theme: 蓝蝶.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E8%93%9D%E8%9D%B6/theme-logo.webp",
             "logo_alt": "拖着彗尾的蓝蝶主题标识",
             "logo_palette": [
@@ -723,9 +723,23 @@
             "logo_subject": "蓝蝶彗尾",
             "logo_effect": "梦境颗粒与细密点描",
             "appearance": "dark",
-            "latest_version": "test-0.3",
+            "latest_version": "test-0.4",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.4",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%93%9D%E8%9D%B6.json",
+                    "theme_name": "蓝蝶",
+                    "sha256": "8782cdb08f4c10eb7a2a230325cd0e7a65d764f8ccc8ce0d5477bc83075767a6",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T02:17:05.308Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "蓝蝶.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.3",
                     "version_name": "字体柔光纠正",
