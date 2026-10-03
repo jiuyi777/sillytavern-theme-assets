@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:45:06.383Z",
+    "updated_at": "2026-10-03T16:45:19.684Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -645,9 +645,23 @@
             "logo_subject": "莓枝开篇书页",
             "logo_effect": "复古藏书票木刻",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.3",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "保留全局隐藏滚动条规则，清理六处旧滚动条着色声明；不修改布局、配色和调节滑杆。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%BA%A2%E8%8E%93%E5%BA%8F%E7%AB%A0.json",
+                    "theme_name": "红莓序章",
+                    "sha256": "28a6914c9b15254556fbdcf66feb8611a3962621956f36859ec048a237d73ebd",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-10-03T16:44:29.535Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "红莓序章.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "预设详细编辑窗层级修复",
