@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:43:37.312Z",
+    "updated_at": "2026-10-03T16:43:43.530Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1099,7 +1099,7 @@
             "id": "theme-1f8ca7a3ab2b8a6b",
             "name": "暮潮回声",
             "display_name": "暮潮回声",
-            "description": "梦核泳池与奶油蓝长文界面的暮潮回声主题",
+            "description": "SillyTavern interface theme: 暮潮回声.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0/theme-logo.webp",
             "logo_alt": "纸船驶过月牙回声浪的暮潮回声主题标识",
             "logo_palette": [
@@ -1112,9 +1112,23 @@
             "logo_subject": "纸船与月牙回声浪",
             "logo_effect": "梦核颗粒印刷与细密半调",
             "appearance": "light",
-            "latest_version": "test-0.2",
+            "latest_version": "test-0.3",
             "default_version": "0.1",
             "versions": [
+                {
+                    "version": "test-0.3",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%9A%AE%E6%BD%AE%E5%9B%9E%E5%A3%B0.json",
+                    "theme_name": "暮潮回声",
+                    "sha256": "f6e31633fb4d8b84bcf8ed353301ce4b70332d241d12530b6a3e6b6ced6c6325",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-10-03T16:42:48.429Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "暮潮回声.json",
+                    "appearance": "light"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "手机提示词列表修复测试版",
