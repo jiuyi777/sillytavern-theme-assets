@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:57.338Z",
+    "updated_at": "2026-10-03T16:45:03.875Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -2261,7 +2261,7 @@
             "id": "theme-a23d8da7165c3e38",
             "name": "玉兰",
             "display_name": "玉兰",
-            "description": "当前测试中主题，可远程安装、更新和切换任意保留版本。",
+            "description": "SillyTavern interface theme: 玉兰.",
             "logo_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/e368fc50fde74a3c1d6594e0a2b726277a0b5a89/assets/%E7%8E%89%E5%85%B0/theme-logo.webp",
             "logo_alt": "玉兰盛开在青玉格窗中的主题标识",
             "logo_palette": [
@@ -2274,9 +2274,23 @@
             "logo_subject": "玉兰与青玉格窗",
             "logo_effect": "夜色漆雕与水墨",
             "appearance": "dark",
-            "latest_version": "test-0.1",
+            "latest_version": "test-0.2",
             "default_version": "",
             "versions": [
+                {
+                    "version": "test-0.2",
+                    "version_name": "全局隐藏滚动条修正版",
+                    "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%8E%89%E5%85%B0.json",
+                    "theme_name": "玉兰",
+                    "sha256": "dabfc36bd02747d482f7c0fcf0e808ad80756fa669313e873581deddf9867043",
+                    "minimum_client_version": "1.14.0",
+                    "updated_at": "2026-09-01T01:40:38.530Z",
+                    "status": "test",
+                    "approved": false,
+                    "source_file": "玉兰.json",
+                    "appearance": "dark"
+                },
                 {
                     "version": "test-0.1",
                     "version_name": "测试版 0.1",
