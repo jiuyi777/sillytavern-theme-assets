@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:43:52.305Z",
+    "updated_at": "2026-10-03T16:43:55.287Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1615,7 +1615,7 @@
                     "version": "test-0.2",
                     "version_name": "全局隐藏滚动条修正版",
                     "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8B%94%E9%9B%A8%E6%BA%AA%E7%AC%BA.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/7ba6b009693c8d5d9b557f13ac0d4ae30c45a9c3/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E8%8B%94%E9%9B%A8%E6%BA%AA%E7%AC%BA.json",
                     "theme_name": "苔雨溪笺",
                     "sha256": "365b76c84d0a5f01cd09b4cb4afbd77dba4a594c9093758168fab29325d0b34d",
                     "minimum_client_version": "1.14.0",
