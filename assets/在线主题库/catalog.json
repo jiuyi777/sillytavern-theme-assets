@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:44:28.353Z",
+    "updated_at": "2026-10-03T16:44:31.056Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -574,7 +574,7 @@
                     "version": "test-0.2",
                     "version_name": "全局隐藏滚动条修正版",
                     "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%AC%AC37%E5%B1%82%E8%A7%82%E6%B5%8B%E6%A1%A3%E6%A1%88.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/8b765919a321e9e7834673561e69a091e2bd28d8/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E7%AC%AC37%E5%B1%82%E8%A7%82%E6%B5%8B%E6%A1%A3%E6%A1%88.json",
                     "theme_name": "第37层观测档案",
                     "sha256": "afc980ccc001e60457e31e157a16c4dc1fc31896caf51a4fba1a00af3450b00b",
                     "minimum_client_version": "1.14.0",
