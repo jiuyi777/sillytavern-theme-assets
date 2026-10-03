@@ -1,7 +1,7 @@
 {
     "schema_version": 3,
     "name": "酒疫主题器",
-    "updated_at": "2026-10-03T16:43:34.663Z",
+    "updated_at": "2026-10-03T16:43:37.312Z",
     "themes": [
         {
             "id": "theme-37cc0ecc1fef79b8",
@@ -1484,7 +1484,7 @@
                     "version": "test-0.4",
                     "version_name": "全局隐藏滚动条修正版",
                     "changelog": "统一隐藏页面及嵌套列表滚动条外观，保留滚动、选择与调节滑杆；不修改配色及布局。",
-                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/main/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
+                    "theme_url": "https://raw.githubusercontent.com/jiuyi777/sillytavern-theme-assets/54b0eecf88c81da4ed09bfac035689c70139789e/assets/%E5%9C%A8%E7%BA%BF%E4%B8%BB%E9%A2%98%E5%BA%93/themes/%E6%99%B4%E5%B1%BF.json",
                     "theme_name": "晴屿",
                     "sha256": "93a2a5bee8039d18a7a13c104d45bd5825f45bbc4d3897560f8cd673db36fbda",
                     "minimum_client_version": "1.14.0",
